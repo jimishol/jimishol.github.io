@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 24 Apr 2023 21:12:52 +0300</lastBuildDate><atom:link href="https://jimishol.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stockfish Chess Engine Server</title>
-      <link>https://jimishol.github.io/posts/stockfish_chess_engine_server/</link>
+      <link>https://jimishol.github.io/posts/stockfish-chess-engine-server/</link>
       <pubDate>Mon, 24 Apr 2023 21:12:52 +0300</pubDate>
       
-      <guid>https://jimishol.github.io/posts/stockfish_chess_engine_server/</guid>
+      <guid>https://jimishol.github.io/posts/stockfish-chess-engine-server/</guid>
       <description>For linux users it seems pretty easy and natural to let scid chess databases, on low CPU and RAM devices, to use stockfish chess engine that runs on a more powerful server.
 We start by installing stockfish onto our most powerful machine.
 In my case a desktop with 32G RAM and 8 CPU cores with 2 threads per core, that means 16 threads.
