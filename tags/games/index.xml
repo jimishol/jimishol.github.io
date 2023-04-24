@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 24 Apr 2023 21:12:52 +0300</lastBuildDate><atom:link href="https://jimishol.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stockfish Chess Engine Server</title>
-      <link>https://jimishol.github.io/posts/stockfish/</link>
+      <link>https://jimishol.github.io/post/stockfish/</link>
       <pubDate>Mon, 24 Apr 2023 21:12:52 +0300</pubDate>
       
-      <guid>https://jimishol.github.io/posts/stockfish/</guid>
+      <guid>https://jimishol.github.io/post/stockfish/</guid>
       <description>For linux users it seems pretty easy and natural to let scid chess databases, on low CPU and RAM devices, to use stockfish chess engine that runs on a more powerful server.
 We start by installing stockfish onto our most powerful machine.
 In my case a desktop with 32G RAM and 8 CPU cores with 2 threads per core, that means 16 threads.
@@ -21,10 +21,10 @@ Stockfish server The chess engine will run only when the user is logged in.</des
     
     <item>
       <title>Video game Pioneer analysis</title>
-      <link>https://jimishol.github.io/posts/pioneer_economy/</link>
+      <link>https://jimishol.github.io/post/pioneer_economy/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jimishol.github.io/posts/pioneer_economy/</guid>
+      <guid>https://jimishol.github.io/post/pioneer_economy/</guid>
       <description>Years ago, got nostalgic for the time of youth and searched an old video game Elite I played on ZX Spectrum. Got upon pioneer. I loved it and tried to help in order for players to have stronger feeling of progress. I did a lengthy analysis in a relevant repository. The main idea was finally accepted, but the consequence to control the progress of player was still to come. I do not play the game any more but one great feature it has, is that supports mod.</description>
     </item>
     

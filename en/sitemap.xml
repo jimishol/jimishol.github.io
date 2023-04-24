@@ -22,7 +22,12 @@
                 href="https://jimishol.github.io/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/posts/stockfish/</loc>
+    <loc>https://jimishol.github.io/post/</loc>
+    <lastmod>2023-04-24T21:12:52+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jimishol.github.io/post/stockfish/</loc>
     <lastmod>2023-04-24T21:12:52+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -42,13 +47,8 @@
                 href="https://jimishol.github.io/tags/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/posts/pioneer_economy/</loc>
+    <loc>https://jimishol.github.io/post/pioneer_economy/</loc>
     <lastmod>2021-09-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jimishol.github.io/posts/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
