@@ -2,36 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malice and injustice exist by design on jimihol&#39;s website</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jimishol.github.io/</link>
     <description>Recent content in Malice and injustice exist by design on jimihol&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Apr 2023 21:12:52 +0300</lastBuildDate><atom:link href="https://jimishol.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pioneer_economy</title>
-      <link>http://localhost:1313/posts/pioneer_economy/</link>
+      <title>Stockfish Chess Engine Server</title>
+      <link>https://jimishol.github.io/posts/stockfish_chess_engine_server/</link>
+      <pubDate>Mon, 24 Apr 2023 21:12:52 +0300</pubDate>
+      
+      <guid>https://jimishol.github.io/posts/stockfish_chess_engine_server/</guid>
+      <description>For linux users it seems pretty easy and natural to let scid chess databases, on low CPU and RAM devices, to use stockfish chess engine that runs on a more powerful server.
+We start by installing stockfish onto our most powerful machine.
+In my case a desktop with 32G RAM and 8 CPU cores with 2 threads per core, that means 16 threads.
+Stockfish server The chess engine will run only when the user is logged in.</description>
+    </item>
+    
+    <item>
+      <title>Video game Pioneer analysis</title>
+      <link>https://jimishol.github.io/posts/pioneer_economy/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pioneer_economy/</guid>
-      <description>jhjhgjhg screenshot </description>
+      <guid>https://jimishol.github.io/posts/pioneer_economy/</guid>
+      <description>Years ago, got nostalgic for the time of youth and searched an old video game Elite I played on ZX Spectrum. Got upon pioneer. I loved it and tried to help in order for players to have stronger feeling of progress. I did a lengthy analysis in a relevant repository. The main idea was finally accepted, but the consequence to control the progress of player was still to come. I do not play the game any more but one great feature it has, is that supports mod.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://jimishol.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://jimishol.github.io/about/</guid>
       <description>Earth Observation NASA (Date Created:2010-08-23) As my mother language is Greek, my publications are sometimes written in Greek and sometimes in English, depending on who they are addressed to. (I have no intention of translating them).
 Linux I am an enthusiastic user of Linux systems and have been using them exclusively in all areas for almost two decades. Mathematics Mathematics and rational thinking have always been the mainstays and shaped my everyday thinking.</description>
     </item>
     
     <item>
       <title>Autobiograpy</title>
-      <link>http://localhost:1313/autobiograpy/</link>
+      <link>https://jimishol.github.io/autobiograpy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/autobiograpy/</guid>
+      <guid>https://jimishol.github.io/autobiograpy/</guid>
       <description>I am Greek and live in Greece. Thirty years ago it was taken for granted, under normal circumstances, that I would be alive after thirty years. Today, the exact opposite is true.
 My skills and knowledge should be irrelevant as evidence of the truth of what I post. I have never liked the logical fallacy of authority. As readers, you yourself are responsible for what you consider right and wrong. So, instead of biography, let me paraphrase the GNU GENERAL PUBLIC LICENSE.</description>
     </item>

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Εν τη προαιρέσει η μοχθηρία και το αδικείν on jimihol&#39;s website</title>
-    <link>http://localhost:1313/gr/</link>
+    <link>https://jimishol.github.io/gr/</link>
     <description>Recent content in Εν τη προαιρέσει η μοχθηρία και το αδικείν on jimihol&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/gr/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jimishol.github.io/gr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Αυτοβιογραφία</title>
-      <link>http://localhost:1313/gr/autobiograpy/</link>
+      <link>https://jimishol.github.io/gr/autobiograpy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gr/autobiograpy/</guid>
+      <guid>https://jimishol.github.io/gr/autobiograpy/</guid>
       <description>Είμαι Έλληνας και ζω στην Ελλάδα. Πριν από τριάντα χρόνια ήταν δεδομένο, υπό κανονικές συνθήκες, ότι θα ήμουν ζωντανός μετά από τριάντα χρόνια. Σήμερα, ισχύει το ακριβώς αντίθετο.
 Οι δεξιότητες και οι γνώσεις μου θα πρέπει να είναι άσχετες ως απόδειξη της αλήθειας των όσων δημοσιεύω. Ποτέ δεν μου άρεσε η λογική πλάνη της αυθεντίας. Ως αναγνώστες, εσείς οι ίδιοι είστε υπεύθυνοι για το τι θεωρείτε σωστό και τι λάθος. Έτσι, αντί της βιογραφίας, επιτρέψτε μου να παραφράσω την GNU GENERAL PUBLIC LICENSE.</description>
     </item>
     
     <item>
       <title>Περί</title>
-      <link>http://localhost:1313/gr/about/</link>
+      <link>https://jimishol.github.io/gr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/gr/about/</guid>
+      <guid>https://jimishol.github.io/gr/about/</guid>
       <description>Earth Observation NASA (Date Created:2010-08-23) Καθώς η μητρική μου γλώσσα είναι τα Ελληνικά, οι όποιες δημοσιεύσεις μου συντάσσονται άλλοτε στην Ελληνική και άλλοτε στην Αγγλική γλώσσα, ανάλογα με το σε ποιούς απευθύνονται. (Δεν είναι στις προθέσεις μου η μετάφρασή τους.)
 Linux Είμαι ενθουσιώδης χρήστης συστημάτων Linux και τα χρησιμοποιώ αποκλειστικά σε όλους τους τομείς για σχεδόν δύο δεκαετίες. Μαθηματικά Τα μαθηματικά και η ορθολογική σκέψη ήταν ανέκαθεν οι στυλωβάτες και διαμόρφωσαν την καθημερινή σκέψη μου.</description>
     </item>

@@ -2,74 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/gr/categories/</loc>
+    <loc>https://jimishol.github.io/gr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://jimishol.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gr"
-                href="http://localhost:1313/gr/categories/"
+                href="https://jimishol.github.io/gr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/gr/tags/</loc>
+    <loc>https://jimishol.github.io/gr/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://jimishol.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gr"
-                href="http://localhost:1313/gr/tags/"
+                href="https://jimishol.github.io/gr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/gr/autobiograpy/</loc>
+    <loc>https://jimishol.github.io/gr/autobiograpy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/autobiograpy/"
+                href="https://jimishol.github.io/autobiograpy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gr"
-                href="http://localhost:1313/gr/autobiograpy/"
+                href="https://jimishol.github.io/gr/autobiograpy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/gr/</loc>
+    <loc>https://jimishol.github.io/gr/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://jimishol.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gr"
-                href="http://localhost:1313/gr/"
+                href="https://jimishol.github.io/gr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/gr/about/</loc>
+    <loc>https://jimishol.github.io/gr/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://jimishol.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="gr"
-                href="http://localhost:1313/gr/about/"
+                href="https://jimishol.github.io/gr/about/"
                 />
   </url>
 </urlset>
