@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jimishol.github.io/tags/games/</loc>
-    <lastmod>2023-04-24T21:12:52+03:00</lastmod>
+    <loc>https://jimishol.github.io/post/dark_theme/</loc>
+    <lastmod>2023-04-26T00:28:57+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jimishol.github.io/tags/configurations/</loc>
+    <lastmod>2023-04-26T00:28:57+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jimishol.github.io/</loc>
-    <lastmod>2023-04-24T21:12:52+03:00</lastmod>
+    <lastmod>2023-04-26T00:28:57+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -22,13 +27,8 @@
                 href="https://jimishol.github.io/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/post/stockfish/</loc>
-    <lastmod>2023-04-24T21:12:52+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jimishol.github.io/tags/</loc>
-    <lastmod>2023-04-24T21:12:52+03:00</lastmod>
+    <lastmod>2023-04-26T00:28:57+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -41,6 +41,16 @@
                 hreflang="en"
                 href="https://jimishol.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://jimishol.github.io/tags/games/</loc>
+    <lastmod>2023-04-24T21:12:52+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jimishol.github.io/post/stockfish/</loc>
+    <lastmod>2023-04-24T21:12:52+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://jimishol.github.io/post/pioneer_economy/</loc>
     <lastmod>2021-09-06T00:00:00+00:00</lastmod>
