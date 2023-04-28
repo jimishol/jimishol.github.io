@@ -2,6 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jimishol.github.io/gr/tags/games/</loc>
+    <lastmod>2023-04-27T22:56:34+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://jimishol.github.io/gr/tags/games/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/gr/post/like-book/</loc>
+    <lastmod>2023-04-27T22:56:34+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/like-book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://jimishol.github.io/gr/post/like-book/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/gr/tags/</loc>
+    <lastmod>2023-04-27T22:56:34+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://jimishol.github.io/gr/tags/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/gr/</loc>
+    <lastmod>2023-04-27T22:56:34+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://jimishol.github.io/gr/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/gr/post/</loc>
+    <lastmod>2023-04-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://jimishol.github.io/gr/post/"
+                />
+  </url><url>
     <loc>https://jimishol.github.io/gr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -16,20 +91,6 @@
                 href="https://jimishol.github.io/gr/categories/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/gr/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jimishol.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gr"
-                href="https://jimishol.github.io/gr/tags/"
-                />
-  </url><url>
     <loc>https://jimishol.github.io/gr/autobiograpy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -42,20 +103,6 @@
                 rel="alternate"
                 hreflang="gr"
                 href="https://jimishol.github.io/gr/autobiograpy/"
-                />
-  </url><url>
-    <loc>https://jimishol.github.io/gr/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jimishol.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="gr"
-                href="https://jimishol.github.io/gr/"
                 />
   </url><url>
     <loc>https://jimishol.github.io/gr/about/</loc>
