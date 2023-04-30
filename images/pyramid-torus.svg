@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1024" height="1024" viewBox="0 0 1024 1024"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+<desc>'pyramid torus.blend', Császár polyhedron, (Blender 2.69 (sub 0))</desc>
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="291.949,770.175 513.317,634.367 344.259,437.220 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="457.659,203.579 261.014,184.104 344.259,437.220 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="457.659,203.579 188.978,0.095 261.014,184.104 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="457.659,203.579 407.867,83.242 188.978,0.095 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="457.659,203.579 854.379,0.093 407.867,83.242 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="291.949,770.175 791.315,982.948 513.317,634.367 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="291.949,770.175 166.059,838.455 151.616,996.680 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="291.949,770.175 344.259,437.220 221.644,645.405 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="291.949,770.175 347.339,1023.906 791.315,982.948 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="291.949,770.175 151.616,996.680 347.339,1023.906 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="221.644,645.405 344.259,437.220 85.172,455.140 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="0.094,17.472 85.172,455.140 344.259,437.220 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="261.014,184.104 0.094,17.472 344.259,437.220 " />
+<polygon stroke="black" stroke-width="1" fill="grey" fill-opacity="0.25" points="407.867,83.242 854.379,0.093 544.799,2.662 " />
+
+</svg>

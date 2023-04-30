@@ -51,6 +51,20 @@ Stockfish server The chess engine will run only when the user is logged in.</des
     </item>
     
     <item>
+      <title>The polyhedron with the minimum of vertices, which considers itself a doughnut</title>
+      <link>https://jimishol.github.io/post/pyramid-torus/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimishol.github.io/post/pyramid-torus/</guid>
+      <description>Paper cut unfold of a Császár polyhedron It is called Császár polyhedron
+(Its dual is the Szilassi polyhedron).
+Tutorial I was never able to construct Szilassi by myself, but there it follows how i constructed Császár polyhedron.
+Algebraic start The Euler characteristic X of a torus is zero.
+So our torus has V-E+F=0, where V=vertices, E=edges and F=faces.
+We can assume all faces are triangles. So, E=3F/2 (cause with 3F we count each edge twice).</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://jimishol.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
