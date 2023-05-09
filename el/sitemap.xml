@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jimishol.github.io/el/tags/gametheory/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jimishol.github.io/el/tags/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -62,6 +57,11 @@
                 href="https://jimishol.github.io/el/"
                 />
   </url><url>
+    <loc>https://jimishol.github.io/el/tags/%CE%B8%CE%B5%CF%89%CF%81%CE%AF%CE%B1-%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jimishol.github.io/el/tags/games/</loc>
     <lastmod>2023-04-27T22:56:34+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -94,6 +94,11 @@
   </url><url>
     <loc>https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</loc>
     <lastmod>2023-04-27T22:56:34+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jimishol.github.io/el/post/thermansi/</loc>
+    <lastmod>2023-01-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
