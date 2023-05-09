@@ -6,7 +6,17 @@
     <description>Recent content in Απόψεις on jimihol&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2023 22:56:34 +0300</lastBuildDate><atom:link href="https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Αλγόριθμος ψηφοφόρου</title>
+      <link>https://jimishol.github.io/el/post/ekloges/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimishol.github.io/el/post/ekloges/</guid>
+      <description>Η βέλτιστη ατομική στρατηγική ενός ψηφοφόρου στο παιγνίδι των εκλογών Παρουσιάζεται προσεγγιστικός αλγόριθμος ο οποίος προτείνει τέτοια στρατηγική ψήφο στο παιγνίδι των εκλογών, ώστε, από πλευράς ψηφοφόρου, να του αποδώσει την μέγιστη δυνατή αναμενόμενη απολαβή, στην απειροελάχιστη περίπτωση που η ψήφος του τύχει να είναι αποφασιστική.
+Κατόπιν εξετάζεται πως η βέλτιστη στρατηγική στο παιγνίδι των εκλογών, από πλευράς υποψηφίων, καθοριζόμενη από το θεώρημα του διάμεσου ψηφοφόρου, τείνει να αλλοιώσει το νόημα των ίδιων των εκλογών.</description>
+    </item>
+    
     <item>
       <title>Το κοινωνικό παράπονο είναι ανορθολογισμός</title>
       <link>https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</link>

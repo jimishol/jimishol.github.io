@@ -1,0 +1,300 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 23.03.0 ] */
+/* [wxMaxima: input   start ] */
+load("distrib");
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+rnd:10000$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+double_deviation:10/100$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[1]:["Νέα Δημοκρατία", 39.85, 8271];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[2]:["ΣΥΡΙΖΑ", 31.53, 7639];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[3]:["ΠΑΣΟΚ", 8.10, 6661];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[4]:["ΚΚΕ", 5.30, 267];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[5]:["ΕΛΛΗΝΙΚΗ ΛΥΣΗ", 3.70, 2254];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[6]:["ΜΕΡΑ25", 3.44, 4855];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[7]:["ΧΡΥΣΗ ΑΥΓΗ", 2.93, 2124];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[8]:["ΠΛΕΥΣΗ ΕΛΕΥΘΕΡΙΑΣ", 1.47, 507];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[9]:["ΕΝΩΣΗ ΚΕΝΤΡΩΩΝ", 1.24, 6165];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[10]:["ΔΗΜΙΟΥΡΓΙΑ ΞΑΝΑ", 0.74, 4726];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[11]:["ΕΠΑΜ ΑΚΕΛ", 0.50, 5617];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[12]:["ΑΝΤΑΡΣΥΑ", 0.41, 5271];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[13]:["ΛΑΙΚΗ ΕΝΟΤΗΤΑ", 0.28, 1944];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[14]:["ΕΛΛΗΝΩΝ ΣΥΝΕΛΕΥΣΗΣ", 0.25, 4206];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[15]:["ΚΚΕ-μλ", 0.14, 1727];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[16]:["μλ-ΚΚΕ", 0.05, 2892];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[17]:["ΕΕΚ ΤΡΟΤΣΚΙΣΤΕΣ", 0.03, 2411];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[18]:["ΟΚΔΕ", 0.03, 5903];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+X[19]:["Ανεξάρτητοι", 0.01, 3223];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+Η πιθανότητα η μέση τιμή να είναι 2*std μακριά από το μηδεν της κανονικής Ν(0,std), με std η απόκλιση που ισούται με ρίζα της διασποράς Var
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+1-2*(1-float(cdf_normal(4/2,0,1)));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+Εκτιμώ ότι ένα κόμμα που παίρνει κατά μέσο όρο 50% κατά 95.45% θα πάρει μεταξύ 40% έως 60%. Άρα το 10% είναι δύο αποκλίσεις. Άρα θέτω απόκλιση dirichlet το 5%=0.05, άρα Var_dirichlet=0.05^2=0.0025=xi*(1-xi)/(1+a0)
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Var_dirichlet: (double_deviation/2)^2;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+Η Var_dirichlet υπολογίζεται στην πιθανότητα xi = 50% = 1/2
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+eq1:Var_dirichlet=1/2*(1-1/2)/(1+a0);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+float(solve([eq1],[a0]));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+a0:99;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+Dirichlet xi=ai/a0, Var=xi*(1-xi)/(1+a0)=Vd(i)
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+M(i):=X[i][2]/100;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Vd(i):=M(i)*(1-M(i))/(1+a0);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sqrt(Vd(1));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+f(x,i,j)*dx^2 η πιθανότητα να ισοψησίσουν, στην πρώτη θέση με ποσοστό x, οι i και j. Επειδή όλοι οι υποψήφιοι μπορούν να φτάσουν το όριο 1-2*x, η πιθανότητα υπολογίζεται μεγαλύτερη της θεωρητικής, διότι (Ν-2)*(1-2*x)+2*x > 1 για Ν>3. Επίσης, μπορεί το άθροισμα των ποσοστών να είναι μικρότερο του 1. Θεωρώ όμως, αναπόδεικτα, ότι, παρόλα αυτά, η προσέγγιση της σχετικότητας των απολαβών είναι καλή.
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+N:length(listarray(X)) ;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+f(x,i,j):=block([k, G],
+    G:1,
+    for k:1 thru N do (
+if (k # i and k # j) then G:G*cdf_beta(1-2*x,a0,a0*(1-M(k))) else G:G*pdf_beta(x,a0,a0*(1-M(k)))
+        ),
+    G
+);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+Π(x)=f(x,i,j)*dx^2 είναι η πιθανότητα να ισοψησίσουν στην πρώτη θέση x οι i και j. P(i,j) είναι το ολοκλήρωμα της Π(x) από low_limit έως 1/2, διότι παραπάνω ποσοστό από 1/2 δεν μπορούν να έχουν ισοψηφούντες. Ούτε μικρότερο από low_limit = 1/N διότι κάποιος θα τους ξεπερνούσε. Η πιθανότητα ισοψησίας στην πρώτη θέση λοιπόν, ισούται με P(i,j)*dx 
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+limit_low:float(1/N);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+P(i,j):=quad_qags(float(f(x, i, j)), x, limit_low, 1/2)[1];
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+Αν ψηφίσουν όλοι οι άλλοι εκτός από εμάς, θα έχουμε μία "κανονική" μέση προσδωκόμενη απολαβή. Αν δεν ψηφίσουμε ή η ψήφος μας δεν επηρρεάζει το αποτέλεσμα, δεν έχουμε μεταβολή στην κανονική μέση απολαβή μας. H πιθανότητα διαφοράς μιας μόνον ψήφου μεταξύ των i και j, προσεγγίζεται με αυτήν της πιθανότητας ισοψηφίας. Έστω Δ η απολαβή μας όταν ισοψηφούν οι i και j.
+Αν ψηφίσουμε τον i, σε όλες τις περιπτώσεις,  όπου το αποτέλεσμα δεν επηρρεάζεται, θα έχουμε μηδενική μεταβολή της κανονικής απολαβής μας. Αν η ψήφος μας επηρρεάζει το αποτέλεσμα, τότε αν ο j κερδίζει για μια ψήφο, η προσδωκόμενη μεταβολή της κανονικής απολαβής μας ισούται με P(i,j) * (Δ - Α(j)). Αν υπάρχει ισοψηφία τότε η προσδωκόμενη μεταβολή της κανονικής απολαβής ισούται με P(i,j) * (A(i) - Δ).
+Σύνολο προσδωκόμενης μεταβολής P(i,j) * (Δ - Α(j)) + P(i,j) * (A(i) - Δ) = P(i,j) * (A(i) - Α(j)). Όπου A(i) = X[i][3]. Βλέπουμε ότι η προσδωκόμενη μεταβολή της απολαβής δεν εξαρτάται από τον τρόπο που αποτιμούμε, ως Δ, την ισοψηφία.
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+A(i):=block([k, A],
+    A:0,
+    for k:1 thru length(listarray(X)) do (
+        if (k # i) then A:A+P(i,k)*(X[i][3] - X[k][3]) 
+        ),
+    A
+)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+R:makelist([X[i][1], X[i][2], X[i][3], A(i)], i, 1,  length(listarray(X)))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+greater_op(a, b):=a[4] > b[4]$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort_R:sort(R, 'greater_op)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+for i:1 thru  length(listarray(X)) do printf(true , "~{~:a,       ~}~%", sort_R[i]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+disp("Σκεφτείτε να ψηφίσετε ", first(sort_R)[1]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+greater_op_t(a, b):=a[3] > b[3]$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+sort_T:sort(R, 'greater_op_t)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+for i:1 thru  length(listarray(X)) do printf(true , "~{~:a,       ~}~%", sort_T[i]);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Psum:block([i, j, P],
+    P:0,
+    for i:1 thru (length(listarray(X))-1) do (
+        for j:(i+1) thru length(listarray(X)) do P:P+P(i,j) 
+        ),
+    P
+)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+Psum*dx^2 η πιθανότητα να υπάρξει ισοψηφία στην πρώτη θέση
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Psum;
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+Με 6e10^6 ψηφοφόρους, dx είναι το ποσοστό του ενός ψηφοφόρου προς το σύνολό τους. Με εκλογές κάθε 4 χρόνια, υπάρχει πιθανότητα περίπου 60% να υπάρξει ισοψηφία στην πρώτη θέση μέσα σε Time = 2.78 δισεκατομύρια των τρισεκατομυρίων των τρισεκατομυρίων των τρισεκατομυρίων χρόνια.
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Time:float(6000000^2/Psum*4);
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 23.03.0"$
