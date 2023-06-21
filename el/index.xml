@@ -5,8 +5,17 @@
     <link>https://jimishol.github.io/el/</link>
     <description>Recent content in Εν τη προαιρέσει η μοχθηρία και το αδικείν on jimihol&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimishol.github.io/el/index.xml" rel="self" type="application/rss+xml" />
+    <language>el</language>
+    <lastBuildDate>Sun, 18 Jun 2023 16:09:06 +0300</lastBuildDate><atom:link href="https://jimishol.github.io/el/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Γνωρίστε τον κύκλο των πέμπτων στη μουσική, μέσω ενός αναλογικού ρολογιού</title>
+      <link>https://jimishol.github.io/el/post/circle_of_fifths_el/</link>
+      <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
+      
+      <guid>https://jimishol.github.io/el/post/circle_of_fifths_el/</guid>
+      <description>Στα νιάτα μου σπούδασα κλασική κιθάρα. Διάβασα πολλές παρτιτούρες και ήξερα πως να χρησιμοποιώ τις υπογραφές των κλειδιών. Ποτέ όμως, δεν ήμουν σε θέση να αναγνωρίσω, δια όψεως, το ζεύγος μείζονος ή ελάσσονος κλίμακας, που ορίζει μια, όχι τετριμμένη, υπογραφή κλειδιού. Νόμιζα ότι αυτή η ικανότητα ανήκε μόνο σε πολύ έμπειρους μουσικούς. Πριν από λίγες ημέρες, συνειδητοποίησα ότι έκανα εντελώς λάθος. Η αναγνώριση του ζεύγους κλιμάκων που ορίζει μια υπογραφή κλειδιού είναι τόσο εύκολη όσο η χρήση ενός ρολογιού χειρός.</description>
+    </item>
+    
     <item>
       <title>Αλγόριθμος ψηφοφόρου</title>
       <link>https://jimishol.github.io/el/post/ekloges/</link>

@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jimishol.github.io/el/tags/music/</loc>
+    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/music/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/tags/music/"
+                />
+  </url><url>
     <loc>https://jimishol.github.io/el/tags/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,18 +32,8 @@
                 href="https://jimishol.github.io/el/tags/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/el/post/ekloges/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jimishol.github.io/el/post/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -42,8 +47,13 @@
                 href="https://jimishol.github.io/el/post/"
                 />
   </url><url>
+    <loc>https://jimishol.github.io/el/post/circle_of_fifths_el/</loc>
+    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jimishol.github.io/el/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -56,6 +66,16 @@
                 hreflang="el"
                 href="https://jimishol.github.io/el/"
                 />
+  </url><url>
+    <loc>https://jimishol.github.io/el/post/ekloges/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://jimishol.github.io/el/post/game_theory_book/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>

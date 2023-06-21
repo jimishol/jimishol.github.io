@@ -5,8 +5,17 @@
     <link>https://jimishol.github.io/post/</link>
     <description>Recent content in Articles on jimihol&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimishol.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet circle of fifths on music, through an analog clock</title>
+      <link>https://jimishol.github.io/post/circle_of_fifths/</link>
+      <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
+      
+      <guid>https://jimishol.github.io/post/circle_of_fifths/</guid>
+      <description>In my youth I studied classical guitar. I read a lot of sheet music and knew how to use key signatures. But I&amp;rsquo;ve never been able to identify, at a glance, the major or minor scale pair that defines a, non-trivial, signature. I thought this ability belonged only to very experienced musicians. A few days ago, I realized that I was completely wrong. Identifying the pair of scales that defines a key signature is as easy as using a wristwatch.</description>
+    </item>
+    
     <item>
       <title>My introduction to game theory</title>
       <link>https://jimishol.github.io/post/game_theory/</link>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on jimihol&#39;s website</title>
+    <link>https://jimishol.github.io/tags/music/</link>
+    <description>Recent content in Music on jimihol&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Jun 2023 16:09:06 +0300</lastBuildDate><atom:link href="https://jimishol.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet circle of fifths on music, through an analog clock</title>
+      <link>https://jimishol.github.io/post/circle_of_fifths/</link>
+      <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
+      
+      <guid>https://jimishol.github.io/post/circle_of_fifths/</guid>
+      <description>In my youth I studied classical guitar. I read a lot of sheet music and knew how to use key signatures. But I&amp;rsquo;ve never been able to identify, at a glance, the major or minor scale pair that defines a, non-trivial, signature. I thought this ability belonged only to very experienced musicians. A few days ago, I realized that I was completely wrong. Identifying the pair of scales that defines a key signature is as easy as using a wristwatch.</description>
+    </item>
+    
+  </channel>
+</rss>
