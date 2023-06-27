@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jimishol.github.io/</loc>
-    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
+    <lastmod>2023-06-26T21:48:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,13 +17,13 @@
                 href="https://jimishol.github.io/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/post/circle_of_fifths/</loc>
-    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
+    <loc>https://jimishol.github.io/post/diatonic/</loc>
+    <lastmod>2023-06-26T21:48:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jimishol.github.io/tags/music/</loc>
-    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
+    <lastmod>2023-06-26T21:48:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -38,7 +38,7 @@
                 />
   </url><url>
     <loc>https://jimishol.github.io/tags/</loc>
-    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
+    <lastmod>2023-06-26T21:48:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -51,6 +51,11 @@
                 hreflang="en"
                 href="https://jimishol.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://jimishol.github.io/post/circle_of_fifths/</loc>
+    <lastmod>2023-06-18T16:09:06+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://jimishol.github.io/tags/game-theory/</loc>
     <lastmod>2023-05-09T15:19:47+03:00</lastmod>
