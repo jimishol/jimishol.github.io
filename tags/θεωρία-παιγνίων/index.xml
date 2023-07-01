@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Θεωρία παιγνίων on jimihol&#39;s website</title>
+    <link>https://jimishol.github.io/tags/%CE%B8%CE%B5%CF%89%CF%81%CE%AF%CE%B1-%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD/</link>
+    <description>Recent content in Θεωρία παιγνίων on jimihol&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimishol.github.io/tags/%CE%B8%CE%B5%CF%89%CF%81%CE%AF%CE%B1-%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Αλγόριθμος ψηφοφόρου</title>
+      <link>https://jimishol.github.io/el/post/ekloges/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimishol.github.io/el/post/ekloges/</guid>
+      <description>Η βέλτιστη ατομική στρατηγική ενός ψηφοφόρου στο παιγνίδι των εκλογών Παρουσιάζεται προσεγγιστικός αλγόριθμος ο οποίος προτείνει τέτοια στρατηγική ψήφο στο παιγνίδι των εκλογών, ώστε, από πλευράς ψηφοφόρου, να του αποδώσει την μέγιστη δυνατή αναμενόμενη απολαβή, στην απειροελάχιστη περίπτωση που η ψήφος του τύχει να είναι αποφασιστική.
+Κατόπιν εξετάζεται πως η βέλτιστη στρατηγική στο παιγνίδι των εκλογών, από πλευράς υποψηφίων, καθοριζόμενη από το θεώρημα του διάμεσου ψηφοφόρου, τείνει να αλλοιώσει το νόημα των ίδιων των εκλογών.</description>
+    </item>
+    
+    <item>
+      <title>Η εισαγωγή μου στην θεωρία παιγνίων</title>
+      <link>https://jimishol.github.io/el/post/game_theory_book/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimishol.github.io/el/post/game_theory_book/</guid>
+      <description>Μόλις ολοκλήρωσα την ανάγνωση του βιβλίου “An introduction to Game Theory” του Martin J. Osborne. Ένα πραγματικά υπέροχο βιβλίο, που φαίνεται να επηρέασε ακόμα και την καθημερινή μου σκέψη. Το μόνο πρόβλημά του, για μένα, είναι ότι προσπαθεί υπερβολικά να μην κάνει απαραίτητη, για τον αναγνώστη του, την χρήση ακόμα και της στοιχειώδους άλγεβρας.
+Η ομορφιά του όμως, βρίσκεται κυρίως στις προσεκτικά επιλεγμένες ασκήσεις. Στην αρχή του βιβλίου φαίνονται τόσο στοιχειώδης που σε κάνει να αναρωτιέσαι, ακόμα και να βαριέσαι τον κόπο να τις λύσεις.</description>
+    </item>
+    
+    <item>
+      <title>Παιγνίδι θέρμανσης</title>
+      <link>https://jimishol.github.io/el/post/thermansi/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimishol.github.io/el/post/thermansi/</guid>
+      <description>Μοντελοποιείται και επιλύεται, ως στρατηγικό παιγνίδι, η διαδικασία περί της απόφασης για την θέρμανση των ορόφων ενός κτίσματος. Το κείμενο απευθυνόταν σε αναγνώστη που είχε γνώση του βιβλίου &amp;ldquo;An introduction to Game Theory&amp;rdquo; του Martin J. Osborne οπότε, στην επίλυση του μοντέλου, γίνονται πολλές αναφορές στις σελίδες του συγκεκριμένου βιβλίου. Όμως, τα αποτελέσματα της επίλυσης και οι σκέψεις για την υποκειμενική αξία του χρήματος δεν φαίνεται να χάνουν το ενδιαφέρον τους, ακόμα και όταν η πρόσβαση στο βιβλίο δεν είναι δυνατή.</description>
+    </item>
+    
+  </channel>
+</rss>

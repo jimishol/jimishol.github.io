@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malice and injustice exist by design on jimihol&#39;s website</title>
+    <link>https://jimishol.github.io/en/</link>
+    <description>Recent content in Malice and injustice exist by design on jimihol&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Jun 2023 21:48:06 +0300</lastBuildDate><atom:link href="https://jimishol.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jimishol.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimishol.github.io/en/about/</guid>
+      <description>Earth Observation NASA (Date Created:2010-08-23) As my mother language is Greek, my publications are sometimes written in Greek and sometimes in English, depending on who they are addressed to. (I have no intention of translating them).
+Linux I am an enthusiastic user of Linux systems and have been using them exclusively in all areas for almost two decades. Mathematics Mathematics and rational thinking have always been the mainstays and shaped my everyday thinking.</description>
+    </item>
+    
+    <item>
+      <title>Autobiograpy</title>
+      <link>https://jimishol.github.io/en/autobiograpy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimishol.github.io/en/autobiograpy/</guid>
+      <description>I am Greek and live in Greece. Thirty years ago it was taken for granted, under normal circumstances, that I would be alive after thirty years. Today, the exact opposite is true.
+My skills and knowledge should be irrelevant as evidence of the truth of what I post. I have never liked the logical fallacy of authority. As readers, you yourself are responsible for what you consider right and wrong. So, instead of biography, let me paraphrase the GNU GENERAL PUBLIC LICENSE.</description>
+    </item>
+    
+  </channel>
+</rss>
