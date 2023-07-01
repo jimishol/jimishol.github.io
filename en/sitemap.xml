@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jimishol.github.io/</loc>
-    <lastmod>2023-06-26T21:48:06+03:00</lastmod>
+    <lastmod>2023-07-01T23:16:09+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +15,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jimishol.github.io/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/post/music_intervals/</loc>
+    <lastmod>2023-07-01T23:16:09+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/post/music_intervals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/music_intervals/"
                 />
   </url><url>
     <loc>https://jimishol.github.io/post/diatonic/</loc>
