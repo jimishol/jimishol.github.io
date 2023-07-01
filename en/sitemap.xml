@@ -32,13 +32,8 @@
                 href="https://jimishol.github.io/post/music_intervals/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/post/diatonic/</loc>
-    <lastmod>2023-06-26T21:48:06+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jimishol.github.io/tags/music/</loc>
-    <lastmod>2023-06-26T21:48:06+03:00</lastmod>
+    <lastmod>2023-07-01T23:16:09+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -53,7 +48,7 @@
                 />
   </url><url>
     <loc>https://jimishol.github.io/tags/</loc>
-    <lastmod>2023-06-26T21:48:06+03:00</lastmod>
+    <lastmod>2023-07-01T23:16:09+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -66,6 +61,11 @@
                 hreflang="en"
                 href="https://jimishol.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://jimishol.github.io/post/diatonic/</loc>
+    <lastmod>2023-06-26T21:48:06+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://jimishol.github.io/post/circle_of_fifths/</loc>
     <lastmod>2023-06-18T16:09:06+03:00</lastmod>
