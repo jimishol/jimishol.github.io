@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jimishol.github.io/el/tags/music/</loc>
-    <lastmod>2023-08-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jimishol.github.io/tags/music/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://jimishol.github.io/el/tags/music/"
-                />
-  </url><url>
     <loc>https://jimishol.github.io/el/tags/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -71,6 +56,21 @@
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://jimishol.github.io/el/tags/music/</loc>
+    <lastmod>2023-07-01T07:40:34+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/music/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/tags/music/"
+                />
   </url><url>
     <loc>https://jimishol.github.io/el/post/music_intervals/</loc>
     <lastmod>2023-07-01T07:40:34+03:00</lastmod>
