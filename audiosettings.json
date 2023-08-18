@@ -21,6 +21,10 @@
                     }
                 },
                 "volumeDb": 0
+            },
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
             }
         },
         {
@@ -29,6 +33,10 @@
                 "fxChain": {
                 },
                 "volumeDb": 0
+            },
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
             }
         }
     ],
@@ -52,14 +60,64 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "metronome",
+            "instrumentId": "violin",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
                 "volumeDb": 0
             },
-            "partId": "999"
+            "partId": "2",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "grand-piano",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "1",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         },
         {
             "in": {
@@ -91,7 +149,11 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "4"
+            "partId": "3",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         },
         {
             "in": {
@@ -106,7 +168,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "viola",
+            "instrumentId": "chord_symbols",
             "out": {
                 "auxSends": [
                     {
@@ -123,7 +185,7 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "3",
+            "partId": "1",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -178,7 +240,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "chord_symbols",
+            "instrumentId": "viola",
             "out": {
                 "auxSends": [
                     {
@@ -195,7 +257,11 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "1"
+            "partId": "3",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         },
         {
             "in": {
@@ -227,7 +293,11 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "3"
+            "partId": "4",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         },
         {
             "in": {
@@ -242,56 +312,18 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "grand-piano",
+            "instrumentId": "metronome",
             "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
                 "balance": 0,
                 "fxChain": {
                 },
                 "volumeDb": 0
             },
-            "partId": "1"
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "violin",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "2"
+            "partId": "999",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         }
     ]
 }

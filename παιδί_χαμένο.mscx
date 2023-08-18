@@ -260,7 +260,7 @@
         <height>10</height>
         <Text>
           <style>title</style>
-          <text>Παιδί χαμένο</text>
+          <text>Παιδί χαμένο (young and confused)</text>
           </Text>
         <Text>
           <style>subtitle</style>
@@ -7344,22 +7344,22 @@
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2.</beginText>
-              <endings>2</endings>
-              </Volta>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              </HairPin>
             <next>
               <location>
                 <measures>1</measures>
                 </location>
               </next>
             </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>2.</beginText>
+              <endings>2</endings>
+              </Volta>
             <next>
               <location>
                 <measures>1</measures>
@@ -7382,14 +7382,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Volta">
+          <Spanner type="HairPin">
             <prev>
               <location>
                 <measures>-1</measures>
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="HairPin">
+          <Spanner type="Volta">
             <prev>
               <location>
                 <measures>-1</measures>
