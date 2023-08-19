@@ -260,11 +260,11 @@
         <height>10</height>
         <Text>
           <style>title</style>
-          <text>Παιδί χαμένο (young and confused)</text>
+          <text>Παιδί χαμένο</text>
           </Text>
         <Text>
           <style>subtitle</style>
-          <text>Αυτοβιογραφική σονάτα (Autobiographical sonata)</text>
+          <text>Αυτοβιογραφική σονάτα</text>
           </Text>
         <Text>
           <style>composer</style>
@@ -1017,8 +1017,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -1807,8 +1807,11 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>75</pitch>
+              <tpc>23</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -2028,8 +2031,11 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>75</pitch>
+              <tpc>23</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -2053,8 +2059,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>75</pitch>
+              <tpc>23</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -3632,8 +3638,6 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <no>2</no>
-              <ticks>1</ticks>
-              <ticks_f>1/1920</ticks_f>
               <text>η.α</text>
               </Lyrics>
             <Note>
@@ -4325,8 +4329,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -5112,8 +5116,11 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>75</pitch>
+              <tpc>23</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -5333,8 +5340,11 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>75</pitch>
+              <tpc>23</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -5358,8 +5368,8 @@
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>75</pitch>
+              <tpc>23</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -6286,14 +6296,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Tempo>
             <tempo>1.9</tempo>
             <text>Moderato</text>
             </Tempo>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -6789,9 +6799,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articTenutoAbove</subtype>
-              </Articulation>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -6934,8 +6941,6 @@
             <durationType>quarter</durationType>
             <Lyrics>
               <no>2</no>
-              <ticks>1</ticks>
-              <ticks_f>1/1920</ticks_f>
               <text>η.α</text>
               </Lyrics>
             <Note>
@@ -7041,11 +7046,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2"/>
-                <off2 x="-0.129007" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7057,15 +7057,6 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -7089,13 +7080,6 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -7344,22 +7328,22 @@
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="Volta">
-            <Volta>
-              <endHookType>1</endHookType>
-              <beginText>2.</beginText>
-              <endings>2</endings>
-              </Volta>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              </HairPin>
             <next>
               <location>
                 <measures>1</measures>
                 </location>
               </next>
             </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
+          <Spanner type="Volta">
+            <Volta>
+              <endHookType>1</endHookType>
+              <beginText>2.</beginText>
+              <endings>2</endings>
+              </Volta>
             <next>
               <location>
                 <measures>1</measures>
@@ -7382,14 +7366,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Volta">
+          <Spanner type="HairPin">
             <prev>
               <location>
                 <measures>-1</measures>
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="HairPin">
+          <Spanner type="Volta">
             <prev>
               <location>
                 <measures>-1</measures>
@@ -10757,11 +10741,8 @@
             <durationType>eighth</durationType>
             <grace8after/>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -10906,11 +10887,8 @@
             <durationType>eighth</durationType>
             <grace8after/>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -13181,8 +13159,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -13520,11 +13498,8 @@ counter</text>
             <durationType>eighth</durationType>
             <grace8after/>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -13669,11 +13644,8 @@ counter</text>
             <durationType>eighth</durationType>
             <grace8after/>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -15932,8 +15904,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -15958,10 +15930,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -16017,13 +15985,9 @@ counter</text>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
-            <Articulation>
-              <subtype>articMarcatoAbove</subtype>
-              </Articulation>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
-              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -16340,11 +16304,8 @@ counter</text>
             <durationType>eighth</durationType>
             <grace8after/>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -16664,11 +16625,8 @@ counter</text>
             <durationType>eighth</durationType>
             <grace8after/>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -16812,11 +16770,8 @@ counter</text>
             <durationType>eighth</durationType>
             <grace8after/>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -18292,8 +18247,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>78</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -18462,8 +18417,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -18773,8 +18728,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -18818,8 +18773,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -18893,11 +18848,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -19221,11 +19173,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -19324,8 +19273,8 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -19437,11 +19386,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -19458,11 +19402,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -19478,11 +19417,6 @@ counter</text>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -19510,11 +19444,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -19526,11 +19455,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -19541,11 +19465,6 @@ counter</text>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -20128,8 +20047,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -20139,8 +20058,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -20150,8 +20069,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -20333,11 +20252,6 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -20898,8 +20812,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -20986,8 +20900,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -21058,11 +20972,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -21266,11 +21177,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -21378,11 +21286,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -21481,8 +21386,8 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -21594,11 +21499,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -21615,11 +21515,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -21635,11 +21530,6 @@ counter</text>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -21667,11 +21557,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -21683,11 +21568,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -21698,11 +21578,6 @@ counter</text>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -22125,11 +22000,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -22285,8 +22155,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -22296,8 +22166,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -22307,8 +22177,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -22490,11 +22360,6 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -23190,8 +23055,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -23251,8 +23116,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -23323,11 +23188,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -23648,11 +23510,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -23751,8 +23610,8 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -23864,11 +23723,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -23885,11 +23739,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -23905,11 +23754,6 @@ counter</text>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -23937,11 +23781,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -23953,11 +23792,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -23968,11 +23802,6 @@ counter</text>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -24552,8 +24381,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -24563,8 +24392,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -24574,8 +24403,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -24759,11 +24588,6 @@ counter</text>
               <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
             </Chord>
           </voice>
         </Measure>
@@ -24932,6 +24756,19 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="Pedal">
+            <Pedal>
+              <lineVisible>0</lineVisible>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              </Pedal>
+            <next>
+              <location>
+                <measures>3</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -25005,6 +24842,13 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -25299,8 +25143,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -25387,8 +25231,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -25459,11 +25303,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -25667,11 +25508,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -25779,11 +25617,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -25882,8 +25717,8 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -25995,11 +25830,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -26016,11 +25846,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -26036,11 +25861,6 @@ counter</text>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -26068,11 +25888,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -26084,11 +25899,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -26099,11 +25909,6 @@ counter</text>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -26523,11 +26328,6 @@ counter</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -26683,8 +26483,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -26694,8 +26494,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -26705,8 +26505,8 @@ counter</text>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -26888,11 +26688,6 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -27346,6 +27141,7 @@ counter</text>
       <Measure>
         <voice>
           <Chord>
+            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
               <pitch>54</pitch>
@@ -27353,9 +27149,6 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -27433,6 +27226,7 @@ counter</text>
       <Measure>
         <voice>
           <Chord>
+            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
               <pitch>55</pitch>
@@ -27440,9 +27234,6 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -27589,8 +27380,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -27617,8 +27408,7 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>2</measures>
-                <fractions>1/4</fractions>
+                <measures>3</measures>
                 </location>
               </next>
             </Spanner>
@@ -27627,11 +27417,11 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
+            </Chord>
+          <Chord>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -27640,23 +27430,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
               </Note>
             </Chord>
           <BarLine>
@@ -27755,27 +27530,16 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
-              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
-              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
-              <velocity>64</velocity>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                <fractions>-1/4</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -27871,6 +27635,13 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -31249,13 +31020,6 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
-              </Note>
-            <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
@@ -31265,10 +31029,6 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
-              </Note>
-            <Note>
-              <pitch>51</pitch>
-              <tpc>23</tpc>
               </Note>
             <Note>
               <pitch>54</pitch>
@@ -32358,11 +32118,6 @@ counter</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -32413,11 +32168,6 @@ counter</text>
           <endTuplet/>
           <Chord>
             <durationType>eighth</durationType>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -32692,11 +32442,6 @@ counter</text>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -32752,11 +32497,6 @@ counter</text>
           <endTuplet/>
           <Chord>
             <durationType>eighth</durationType>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -33735,10 +33475,6 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -33748,10 +33484,6 @@ counter</text>
             <Note>
               <pitch>45</pitch>
               <tpc>17</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
               </Note>
             <Note>
               <pitch>52</pitch>
@@ -34727,14 +34459,6 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
               <velocity>64</velocity>
@@ -34746,20 +34470,12 @@ counter</text>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              </Note>
-            <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -34772,14 +34488,6 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
               <velocity>64</velocity>
@@ -34787,10 +34495,6 @@ counter</text>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
@@ -35290,14 +34994,6 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
               <velocity>64</velocity>
@@ -35309,20 +35005,12 @@ counter</text>
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              </Note>
-            <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -35335,14 +35023,6 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              <velocity>64</velocity>
-              </Note>
-            <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
               <velocity>64</velocity>
@@ -35350,10 +35030,6 @@ counter</text>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
-            <Note>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
@@ -36157,11 +35833,8 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             <Note>
@@ -36325,12 +35998,8 @@ counter</text>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
@@ -36340,14 +36009,6 @@ counter</text>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
-            <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>46</pitch>
-              <tpc>24</tpc>
-              <velocity>64</velocity>
-              </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
@@ -36802,8 +36463,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -36943,11 +36604,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -36986,11 +36644,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -37130,8 +36785,8 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -37331,17 +36986,17 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <velocity>64</velocity>
@@ -37706,8 +37361,8 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -37749,8 +37404,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -37760,8 +37415,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -37790,8 +37445,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -37978,8 +37633,8 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -38173,19 +37828,16 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -39243,8 +38895,8 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -39438,17 +39090,17 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
               <velocity>64</velocity>
@@ -39807,8 +39459,8 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -39850,8 +39502,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -39861,8 +39513,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -39891,8 +39543,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -40079,8 +39731,8 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -40274,19 +39926,16 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -41319,18 +40968,13 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
               </HairPin>
             <next>
               <location>
-                <measures>2</measures>
-                <fractions>1/2</fractions>
+                <measures>3</measures>
                 </location>
               </next>
             </Spanner>
@@ -41378,14 +41022,6 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                <fractions>-1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -41397,6 +41033,13 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -41425,11 +41068,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -41483,11 +41123,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>23</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -41858,19 +41495,16 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -44581,8 +44215,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -45793,8 +45427,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -46392,2329 +46026,2329 @@ counter</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv/V</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <KeySig>
-            <concertKey>2</concertKey>
-            </KeySig>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>(IV6)</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/C</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv/vi</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi/iii</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <KeySig>
-            <concertKey>1</concertKey>
-            </KeySig>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv/V</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <KeySig>
-            <concertKey>2</concertKey>
-            </KeySig>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>(IV6)</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/C</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>38</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv/vi</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>40</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>heavy</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <BarLine>
-            <subtype>dashed</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>dashed</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <BarLine>
-            <subtype>dashed</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>49</pitch>
-              <tpc>21</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi/iii</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v64</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>42</pitch>
-              <tpc>20</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <Chord>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              <velocity>64</velocity>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
             </Harmony>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv/V</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <KeySig>
+            <concertKey>2</concertKey>
+            </KeySig>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>(IV6)</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/C</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv/vi</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi/iii</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <KeySig>
+            <concertKey>1</concertKey>
+            </KeySig>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv/V</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <KeySig>
+            <concertKey>2</concertKey>
+            </KeySig>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>(IV6)</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/C</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv/vi</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>heavy</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <BarLine>
+            <subtype>dashed</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>dashed</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v7</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <BarLine>
+            <subtype>dashed</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi/iii</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v64</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>42</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>45</pitch>
+              <tpc>17</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
@@ -48729,15 +48363,6 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>40</pitch>
               <tpc>18</tpc>
               <velocity>64</velocity>
@@ -48757,13 +48382,6 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>40</pitch>
               <tpc>18</tpc>
               </Note>
@@ -50207,15 +49825,11 @@ counter</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v7</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
