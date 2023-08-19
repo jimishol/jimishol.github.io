@@ -7328,22 +7328,22 @@
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
               <beginText>2.</beginText>
               <endings>2</endings>
               </Volta>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              </HairPin>
             <next>
               <location>
                 <measures>1</measures>
@@ -7366,14 +7366,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="HairPin">
+          <Spanner type="Volta">
             <prev>
               <location>
                 <measures>-1</measures>
                 </location>
               </prev>
             </Spanner>
-          <Spanner type="Volta">
+          <Spanner type="HairPin">
             <prev>
               <location>
                 <measures>-1</measures>
@@ -16050,8 +16050,8 @@ counter</text>
             <durationType>eighth</durationType>
             <acciaccatura/>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -36604,8 +36604,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -36644,8 +36644,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -36793,8 +36793,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -37641,8 +37641,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -38903,8 +38903,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -39739,8 +39739,8 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -41068,8 +41068,11 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -41123,8 +41126,11 @@ counter</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>63</pitch>
+              <tpc>23</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -41328,8 +41334,8 @@ counter</text>
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
