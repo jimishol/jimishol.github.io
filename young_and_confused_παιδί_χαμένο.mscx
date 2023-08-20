@@ -27403,8 +27403,7 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>3</measures>
-                <fractions>5/8</fractions>
+                <measures>4</measures>
                 </location>
               </next>
             </Spanner>
@@ -27628,14 +27627,6 @@ counter</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-3</measures>
-                <fractions>-5/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -27683,6 +27674,13 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-4</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
