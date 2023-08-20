@@ -7232,8 +7232,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
             </Dynamic>
           <Rest>
             <durationType>measure</durationType>
