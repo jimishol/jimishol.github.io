@@ -1867,6 +1867,7 @@
                 </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -1874,6 +1875,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -1881,6 +1883,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -1904,6 +1907,7 @@
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -1911,6 +1915,7 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -2319,6 +2324,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2335,6 +2341,7 @@
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2365,6 +2372,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2372,6 +2380,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2400,6 +2409,7 @@
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2408,6 +2418,7 @@
             <Note>
               <pitch>83</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2415,6 +2426,7 @@
             <Note>
               <pitch>84</pitch>
               <tpc>14</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2465,6 +2477,7 @@
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2472,6 +2485,7 @@
             <Note>
               <pitch>83</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2479,6 +2493,7 @@
             <Note>
               <pitch>85</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -2487,6 +2502,7 @@
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Tuplet>
@@ -2503,6 +2519,7 @@
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2510,6 +2527,7 @@
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2517,6 +2535,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -2947,6 +2966,7 @@
             <Note>
               <pitch>85</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2954,6 +2974,7 @@
             <Note>
               <pitch>83</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -2964,6 +2985,7 @@
                 </Accidental>
               <pitch>82</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -3182,6 +3204,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -3189,6 +3212,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -3196,6 +3220,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -3203,6 +3228,7 @@
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -3210,6 +3236,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -3217,6 +3244,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -3232,6 +3260,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -3246,6 +3275,7 @@
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -3256,6 +3286,7 @@
                 </Accidental>
               <pitch>70</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -3268,6 +3299,7 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <StaffText>
@@ -3690,7 +3722,8 @@
               </HairPin>
             <next>
               <location>
-                <measures>2</measures>
+                <measures>3</measures>
+                <fractions>1/4</fractions>
                 </location>
               </next>
             </Spanner>
@@ -3755,28 +3788,56 @@
             <subtype>pp</subtype>
             <velocity>33</velocity>
             </Dynamic>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -3925,6 +3986,7 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             <Tremolo>
               <subtype>buzzroll</subtype>
@@ -4073,6 +4135,7 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             <Tremolo>
               <subtype>buzzroll</subtype>
@@ -4123,6 +4186,7 @@
                 </Accidental>
               <pitch>75</pitch>
               <tpc>23</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4133,6 +4197,7 @@
             <Note>
               <pitch>75</pitch>
               <tpc>23</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4143,6 +4208,7 @@
             <Note>
               <pitch>75</pitch>
               <tpc>23</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4178,6 +4244,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4185,6 +4252,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4192,6 +4260,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4265,6 +4334,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4272,6 +4342,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4279,6 +4350,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4331,6 +4403,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4338,6 +4411,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4345,6 +4419,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4378,6 +4453,7 @@
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -4412,6 +4488,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4419,6 +4496,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4426,6 +4504,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4439,6 +4518,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             <Tremolo>
               <subtype>buzzroll</subtype>
@@ -4492,6 +4572,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4502,6 +4583,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4512,6 +4594,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4604,6 +4687,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4614,6 +4698,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4624,6 +4709,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4639,6 +4725,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Tremolo>
               <subtype>buzzroll</subtype>
@@ -4672,6 +4759,7 @@
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4682,6 +4770,7 @@
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4692,6 +4781,7 @@
             <Note>
               <pitch>81</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4730,6 +4820,7 @@
             <Note>
               <pitch>85</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4740,6 +4831,7 @@
             <Note>
               <pitch>85</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4750,6 +4842,7 @@
             <Note>
               <pitch>85</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -4785,6 +4878,7 @@
             <Note>
               <pitch>88</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4795,6 +4889,7 @@
             <Note>
               <pitch>88</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -4805,6 +4900,7 @@
             <Note>
               <pitch>88</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -5083,6 +5179,7 @@
                 </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5098,6 +5195,7 @@
                 </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5105,6 +5203,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5117,6 +5216,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5133,6 +5233,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5140,6 +5241,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5152,6 +5254,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5159,6 +5262,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5169,6 +5273,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5181,6 +5286,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5204,6 +5310,7 @@
                 </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5221,6 +5328,7 @@
                 </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5228,6 +5336,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5244,6 +5353,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5251,6 +5361,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5263,6 +5374,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5270,6 +5382,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5280,6 +5393,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5300,6 +5414,7 @@
                 </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5317,6 +5432,7 @@
                 </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5324,6 +5440,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5336,6 +5453,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5352,6 +5470,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5359,6 +5478,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5371,6 +5491,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5378,6 +5499,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5388,6 +5510,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5408,6 +5531,7 @@
                 </Spanner>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5425,6 +5549,7 @@
                 </Spanner>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5432,6 +5557,7 @@
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5444,6 +5570,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5464,6 +5591,7 @@
                 </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5481,6 +5609,7 @@
                 </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5488,6 +5617,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5504,6 +5634,7 @@
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5511,6 +5642,7 @@
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5523,6 +5655,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5530,6 +5663,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5540,6 +5674,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5560,6 +5695,7 @@
                 </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5577,6 +5713,7 @@
                 </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5584,6 +5721,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5599,6 +5737,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5619,6 +5758,7 @@
                 </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5636,6 +5776,7 @@
                 </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5643,6 +5784,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5659,6 +5801,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5666,6 +5809,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5678,6 +5822,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5685,6 +5830,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5695,6 +5841,7 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5715,6 +5862,7 @@
                 </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5732,6 +5880,7 @@
                 </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5739,6 +5888,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5751,6 +5901,7 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5771,6 +5922,7 @@
                 </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5788,6 +5940,7 @@
                 </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5795,6 +5948,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5814,6 +5968,7 @@
                 </Accidental>
               <pitch>70</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5821,6 +5976,7 @@
             <Note>
               <pitch>70</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5833,6 +5989,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5840,6 +5997,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5850,6 +6008,7 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5870,6 +6029,7 @@
                 </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -5887,6 +6047,7 @@
                 </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5894,6 +6055,7 @@
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -5917,7 +6079,7 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5925,7 +6087,7 @@
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5933,7 +6095,7 @@
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -5941,7 +6103,7 @@
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Fermata>
@@ -5952,6 +6114,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -6101,6 +6264,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -6108,6 +6272,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -6115,6 +6280,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -6122,6 +6288,7 @@
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -6129,6 +6296,7 @@
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -6136,6 +6304,7 @@
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -6151,6 +6320,7 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -6162,6 +6332,7 @@
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -6172,6 +6343,7 @@
                 </Accidental>
               <pitch>70</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -6184,6 +6356,7 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <StaffText>
@@ -6595,10 +6768,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
-            </Dynamic>
           <Tempo>
             <tempo>1.566667</tempo>
             <text>Andantino</text>
@@ -6609,7 +6778,7 @@
               </HairPin>
             <next>
               <location>
-                <measures>1</measures>
+                <measures>2</measures>
                 <fractions>3/4</fractions>
                 </location>
               </next>
@@ -6651,6 +6820,28 @@
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -6658,14 +6849,25 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="HairPin">
             <prev>
               <location>
-                <measures>-1</measures>
+                <measures>-2</measures>
                 <fractions>-3/4</fractions>
                 </location>
               </prev>
@@ -8193,6 +8395,7 @@
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9346,6 +9549,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9353,6 +9557,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9360,6 +9565,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9367,6 +9573,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9374,6 +9581,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9381,6 +9589,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9392,6 +9601,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9399,6 +9609,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9406,6 +9617,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9413,6 +9625,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9424,6 +9637,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9431,6 +9645,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9443,6 +9658,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -9461,6 +9677,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9468,6 +9685,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9475,6 +9693,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9482,6 +9701,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9489,6 +9709,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9496,6 +9717,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9507,6 +9729,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9514,6 +9737,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9521,6 +9745,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Rest>
@@ -9535,6 +9760,7 @@ counter</text>
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9542,6 +9768,7 @@ counter</text>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9549,6 +9776,7 @@ counter</text>
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9556,6 +9784,7 @@ counter</text>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9563,6 +9792,7 @@ counter</text>
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9570,6 +9800,7 @@ counter</text>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9584,6 +9815,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9591,6 +9823,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9598,6 +9831,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -9616,6 +9850,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9623,6 +9858,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9630,6 +9866,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9637,6 +9874,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9644,6 +9882,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9651,6 +9890,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9662,6 +9902,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9669,6 +9910,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9676,6 +9918,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <StaffText>
@@ -9686,6 +9929,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9693,6 +9937,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9704,6 +9949,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9711,6 +9957,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9723,6 +9970,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -9741,6 +9989,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9748,6 +9997,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9755,6 +10005,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9762,6 +10013,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9769,6 +10021,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9776,6 +10029,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9787,6 +10041,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9797,6 +10052,7 @@ counter</text>
                 </Accidental>
               <pitch>72</pitch>
               <tpc>14</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9804,6 +10060,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <StaffText>
@@ -9814,6 +10071,7 @@ counter</text>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9821,6 +10079,7 @@ counter</text>
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9842,6 +10101,7 @@ counter</text>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -9849,6 +10109,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -9861,6 +10122,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -9920,6 +10182,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11734,6 +11997,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11741,6 +12005,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11748,6 +12013,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11755,6 +12021,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11762,6 +12029,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11769,6 +12037,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -11780,6 +12049,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11787,6 +12057,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11794,6 +12065,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11801,6 +12073,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -11812,6 +12085,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11819,6 +12093,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -11831,6 +12106,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -11846,6 +12122,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11853,6 +12130,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11860,6 +12138,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11867,6 +12146,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11874,6 +12154,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11881,6 +12162,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -11892,6 +12174,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11899,6 +12182,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11906,6 +12190,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Rest>
@@ -11920,6 +12205,7 @@ counter</text>
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11927,6 +12213,7 @@ counter</text>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11934,6 +12221,7 @@ counter</text>
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11941,6 +12229,7 @@ counter</text>
             <Note>
               <pitch>79</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11948,6 +12237,7 @@ counter</text>
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11955,6 +12245,7 @@ counter</text>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -11969,6 +12260,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11976,6 +12268,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -11983,6 +12276,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -11998,6 +12292,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12005,6 +12300,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12012,6 +12308,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12019,6 +12316,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12026,6 +12324,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12033,6 +12332,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -12044,6 +12344,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12051,6 +12352,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12058,6 +12360,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <StaffText>
@@ -12068,6 +12371,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12075,6 +12379,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -12086,6 +12391,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12093,6 +12399,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -12105,6 +12412,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -12120,6 +12428,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12127,6 +12436,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12134,6 +12444,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12141,6 +12452,7 @@ counter</text>
             <Note>
               <pitch>73</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12148,6 +12460,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12155,6 +12468,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -12166,6 +12480,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12176,6 +12491,7 @@ counter</text>
                 </Accidental>
               <pitch>72</pitch>
               <tpc>14</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12183,6 +12499,7 @@ counter</text>
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <StaffText>
@@ -12193,6 +12510,7 @@ counter</text>
             <Note>
               <pitch>72</pitch>
               <tpc>14</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12200,6 +12518,7 @@ counter</text>
             <Note>
               <pitch>78</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -12212,7 +12531,7 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>1</measures>
+                <measures>2</measures>
                 <fractions>3/4</fractions>
                 </location>
               </next>
@@ -12222,6 +12541,7 @@ counter</text>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -12229,6 +12549,7 @@ counter</text>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -12238,6 +12559,28 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -12245,14 +12588,25 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="HairPin">
             <prev>
               <location>
-                <measures>-1</measures>
+                <measures>-2</measures>
                 <fractions>-3/4</fractions>
                 </location>
               </prev>
@@ -15174,6 +15528,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -15181,6 +15536,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -17036,6 +17392,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -17043,6 +17400,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -17078,14 +17436,17 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -17093,14 +17454,17 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -17148,21 +17512,6 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             <Note>
@@ -17181,14 +17530,35 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -17196,14 +17566,17 @@ counter</text>
             <Note>
               <pitch>48</pitch>
               <tpc>14</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Tuplet>
@@ -18652,6 +19025,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -18662,6 +19036,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -18672,6 +19047,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -18692,6 +19068,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -18702,6 +19079,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -18712,6 +19090,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -18854,10 +19233,12 @@ counter</text>
                 </Accidental>
               <pitch>51</pitch>
               <tpc>23</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -18865,14 +19246,17 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>51</pitch>
               <tpc>23</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -19018,6 +19402,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -19028,6 +19413,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -19038,6 +19424,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -19058,6 +19445,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -19068,6 +19456,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -19078,6 +19467,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -20427,6 +20817,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -20437,6 +20828,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -20447,6 +20839,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -20467,6 +20860,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -20477,6 +20871,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -20487,6 +20882,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -20616,6 +21012,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -20623,10 +21020,12 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -20762,6 +21161,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -20772,6 +21172,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -20782,6 +21183,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -20802,6 +21204,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -20812,6 +21215,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -20822,6 +21226,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -21136,6 +21541,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -21146,6 +21552,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -21156,6 +21563,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -21176,6 +21584,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -21186,6 +21595,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -21196,6 +21606,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -21328,6 +21739,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -21335,10 +21747,12 @@ counter</text>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -21474,6 +21888,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -21484,6 +21899,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -21494,6 +21910,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -21514,6 +21931,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -21524,6 +21942,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -21534,6 +21953,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -22882,6 +23302,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -22892,6 +23313,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -22902,6 +23324,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -22922,6 +23345,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -22932,6 +23356,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -22942,6 +23367,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -23071,6 +23497,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -23078,10 +23505,12 @@ counter</text>
             <Note>
               <pitch>45</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -23217,6 +23646,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -23227,6 +23657,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -23237,6 +23668,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -23257,6 +23689,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -23267,6 +23700,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -23277,6 +23711,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -23591,6 +24026,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -23601,6 +24037,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -23611,6 +24048,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -23631,6 +24069,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -23641,6 +24080,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -23651,6 +24091,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -23797,10 +24238,12 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24066,6 +24509,7 @@ counter</text>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24073,6 +24517,7 @@ counter</text>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24092,6 +24537,7 @@ counter</text>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24122,10 +24568,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24133,10 +24581,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24148,10 +24598,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24159,6 +24611,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -24191,10 +24644,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24202,10 +24657,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24241,10 +24698,12 @@ counter</text>
             <Note>
               <pitch>46</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24279,10 +24738,12 @@ counter</text>
             <Note>
               <pitch>46</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24290,10 +24751,12 @@ counter</text>
             <Note>
               <pitch>46</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24329,10 +24792,12 @@ counter</text>
             <Note>
               <pitch>46</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24364,10 +24829,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24375,10 +24842,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24394,10 +24863,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24405,6 +24876,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -24441,10 +24913,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24452,10 +24926,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24487,10 +24963,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24498,10 +24976,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24517,10 +24997,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24528,6 +25010,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -24564,10 +25047,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24575,10 +25060,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24601,6 +25088,7 @@ counter</text>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24608,6 +25096,7 @@ counter</text>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24627,6 +25116,7 @@ counter</text>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24657,10 +25147,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24668,10 +25160,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24683,10 +25177,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24694,6 +25190,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -24726,10 +25223,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24737,10 +25236,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24776,10 +25277,12 @@ counter</text>
             <Note>
               <pitch>46</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24814,10 +25317,12 @@ counter</text>
             <Note>
               <pitch>46</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24825,10 +25330,12 @@ counter</text>
             <Note>
               <pitch>46</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24864,10 +25371,12 @@ counter</text>
             <Note>
               <pitch>46</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24899,10 +25408,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24910,10 +25421,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -24929,10 +25442,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24940,6 +25455,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -24976,10 +25492,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -24987,10 +25505,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25022,10 +25542,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25033,10 +25555,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25052,10 +25576,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25063,6 +25589,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -25095,10 +25622,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25106,10 +25635,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25121,10 +25652,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25132,6 +25665,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -25164,10 +25698,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25175,10 +25711,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25203,10 +25741,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25234,10 +25774,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25245,10 +25787,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25276,10 +25820,12 @@ counter</text>
             <Note>
               <pitch>46</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25307,10 +25853,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25318,10 +25866,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25333,10 +25883,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25344,6 +25896,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -25376,10 +25929,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25387,10 +25942,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25402,10 +25959,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25413,6 +25972,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -25445,10 +26005,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25456,10 +26018,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25471,10 +26035,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25482,6 +26048,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -25514,10 +26081,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25525,10 +26094,12 @@ counter</text>
             <Note>
               <pitch>43</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25540,10 +26111,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25551,6 +26124,7 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
@@ -25583,10 +26157,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -25594,6 +26170,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -25619,10 +26196,12 @@ counter</text>
             <Note>
               <pitch>42</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -26030,7 +26609,7 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>1</measures>
+                <measures>2</measures>
                 <fractions>3/4</fractions>
                 </location>
               </next>
@@ -26069,6 +26648,131 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>43</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>16th</baseNote>
+            <Number>
+              <style>tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -26078,20 +26782,26 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="HairPin">
             <prev>
               <location>
-                <measures>-1</measures>
+                <measures>-2</measures>
                 <fractions>-3/4</fractions>
                 </location>
               </prev>
@@ -26948,6 +27658,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -26955,6 +27666,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -26966,6 +27678,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -26973,6 +27686,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -26984,6 +27698,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -26991,6 +27706,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -27003,6 +27719,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -27015,6 +27732,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -27027,6 +27745,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -27038,6 +27757,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27045,6 +27765,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -27056,6 +27777,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27066,6 +27788,7 @@ counter</text>
                 </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -27077,6 +27800,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27084,6 +27808,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -27096,6 +27821,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -27194,6 +27920,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -27550,6 +28277,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27557,6 +28285,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27564,6 +28293,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -27572,6 +28302,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27713,6 +28444,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27720,6 +28452,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27727,6 +28460,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -27735,6 +28469,7 @@ counter</text>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27799,6 +28534,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27806,6 +28542,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27813,6 +28550,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -27821,6 +28559,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27849,6 +28588,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27856,6 +28596,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -27863,6 +28604,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -27871,6 +28613,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28005,6 +28748,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28012,6 +28756,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28019,6 +28764,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28026,6 +28772,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28033,6 +28780,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28040,6 +28788,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28054,6 +28803,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28061,6 +28811,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28068,6 +28819,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -28085,6 +28837,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28092,6 +28845,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28104,6 +28858,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <StaffText>
@@ -28249,6 +29004,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28256,6 +29012,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28267,6 +29024,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28274,6 +29032,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28285,6 +29044,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -28292,6 +29052,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -28509,6 +29270,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28576,6 +29338,7 @@ counter</text>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28733,6 +29496,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28771,6 +29535,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28838,6 +29603,7 @@ counter</text>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28935,6 +29701,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -28954,6 +29721,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29101,6 +29869,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29108,6 +29877,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29209,6 +29979,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29216,6 +29987,7 @@ counter</text>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29301,6 +30073,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29308,6 +30081,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29315,6 +30089,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -29353,6 +30128,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29360,6 +30136,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29367,6 +30144,7 @@ counter</text>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -29405,6 +30183,7 @@ counter</text>
                 </Accidental>
               <pitch>70</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29412,6 +30191,7 @@ counter</text>
             <Note>
               <pitch>70</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29419,6 +30199,7 @@ counter</text>
             <Note>
               <pitch>70</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <endTuplet/>
@@ -29574,6 +30355,7 @@ counter</text>
                 </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29600,6 +30382,7 @@ counter</text>
                 </Spanner>
               <pitch>58</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -29617,6 +30400,7 @@ counter</text>
                 </Spanner>
               <pitch>58</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29624,6 +30408,7 @@ counter</text>
             <Note>
               <pitch>58</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29640,6 +30425,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29647,6 +30433,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -29659,6 +30446,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29666,6 +30454,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29676,6 +30465,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29696,6 +30486,7 @@ counter</text>
                 </Spanner>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -29713,6 +30504,7 @@ counter</text>
                 </Spanner>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29720,6 +30512,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29732,6 +30525,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29748,6 +30542,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29755,6 +30550,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -29767,6 +30563,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29774,6 +30571,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29784,6 +30582,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29796,6 +30595,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29819,6 +30619,7 @@ counter</text>
                 </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -29836,6 +30637,7 @@ counter</text>
                 </Spanner>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29843,6 +30645,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29859,6 +30662,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29866,6 +30670,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -29878,6 +30683,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29885,6 +30691,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29895,6 +30702,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29915,6 +30723,7 @@ counter</text>
                 </Spanner>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -29932,6 +30741,7 @@ counter</text>
                 </Spanner>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29939,6 +30749,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29951,6 +30762,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -29967,6 +30779,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29974,6 +30787,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -29986,6 +30800,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -29993,6 +30808,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30003,6 +30819,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30023,6 +30840,7 @@ counter</text>
                 </Spanner>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -30040,6 +30858,7 @@ counter</text>
                 </Spanner>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30047,6 +30866,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30059,6 +30879,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30074,6 +30895,7 @@ counter</text>
                 </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30100,6 +30922,7 @@ counter</text>
                 </Spanner>
               <pitch>58</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -30117,6 +30940,7 @@ counter</text>
                 </Spanner>
               <pitch>58</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30124,6 +30948,7 @@ counter</text>
             <Note>
               <pitch>58</pitch>
               <tpc>24</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30140,6 +30965,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30147,6 +30973,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Beam>
@@ -30159,6 +30986,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30166,6 +30994,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30176,6 +31005,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30198,6 +31028,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30398,7 +31229,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30406,7 +31237,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30414,7 +31245,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30422,7 +31253,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30430,6 +31261,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               <Spanner type="Glissando">
                 <Glissando>
                   <text>gliss.</text>
@@ -30460,7 +31292,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               <Spanner type="Glissando">
                 <prev>
                   <location>
@@ -30484,7 +31316,7 @@ counter</text>
                 </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
-              <velocity>86</velocity>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30497,6 +31329,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -30568,6 +31401,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30575,6 +31409,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30582,6 +31417,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30589,6 +31425,7 @@ counter</text>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30596,6 +31433,7 @@ counter</text>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30603,6 +31441,7 @@ counter</text>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30617,6 +31456,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30624,6 +31464,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30631,6 +31472,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30645,6 +31487,7 @@ counter</text>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30652,6 +31495,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30664,6 +31508,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <StaffText>
@@ -30806,6 +31651,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30813,6 +31659,7 @@ counter</text>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30824,6 +31671,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30831,6 +31679,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30842,6 +31691,7 @@ counter</text>
             <Note>
               <pitch>61</pitch>
               <tpc>21</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -30849,6 +31699,7 @@ counter</text>
             <Note>
               <pitch>62</pitch>
               <tpc>16</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -30977,7 +31828,7 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>1</measures>
+                <measures>2</measures>
                 <fractions>3/4</fractions>
                 </location>
               </next>
@@ -31008,6 +31859,28 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -31015,15 +31888,25 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>59</pitch>
               <tpc>19</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="HairPin">
             <prev>
               <location>
-                <measures>-1</measures>
+                <measures>-2</measures>
                 <fractions>-3/4</fractions>
                 </location>
               </prev>
@@ -32249,6 +33132,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -33455,7 +34339,8 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>2</measures>
+                <measures>3</measures>
+                <fractions>1/4</fractions>
                 </location>
               </next>
             </Spanner>
@@ -33510,28 +34395,56 @@ counter</text>
             <subtype>pp</subtype>
             <velocity>33</velocity>
             </Dynamic>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>40</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-3</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
+            <durationType>quarter</durationType>
+            </Rest>
+          <Rest>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -34438,6 +35351,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34454,6 +35368,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34469,6 +35384,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Harmony>
@@ -34480,6 +35396,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34496,6 +35413,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34512,6 +35430,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34523,6 +35442,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -34530,18 +35450,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34554,6 +35463,20 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34565,6 +35488,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -34572,6 +35496,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34584,6 +35509,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34596,6 +35522,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34611,6 +35538,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -34618,6 +35546,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34634,6 +35563,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34650,6 +35580,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34670,6 +35601,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34686,6 +35618,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34701,6 +35634,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Harmony>
@@ -34712,6 +35646,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34728,6 +35663,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34744,6 +35680,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34755,6 +35692,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -34762,18 +35700,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <dots>1</dots>
-            <durationType>half</durationType>
-            <Note>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34786,6 +35713,20 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>54</pitch>
+              <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34797,6 +35738,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -34804,6 +35746,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34816,6 +35759,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34828,6 +35772,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34843,6 +35788,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -34850,6 +35796,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34866,6 +35813,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34882,6 +35830,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34898,6 +35847,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34913,6 +35863,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -34920,6 +35871,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34936,6 +35888,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34951,6 +35904,7 @@ counter</text>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
@@ -34958,6 +35912,7 @@ counter</text>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34974,6 +35929,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -34990,6 +35946,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35006,6 +35963,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35022,6 +35980,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35038,6 +35997,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35053,6 +36013,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <Harmony>
@@ -35064,6 +36025,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35080,6 +36042,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35096,6 +36059,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35112,6 +36076,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35128,6 +36093,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35144,6 +36110,7 @@ counter</text>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           </voice>
@@ -35156,6 +36123,7 @@ counter</text>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
           <BarLine>
@@ -35592,7 +36560,7 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>1</measures>
+                <measures>2</measures>
                 <fractions>3/4</fractions>
                 </location>
               </next>
@@ -35624,6 +36592,28 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
+              <velocity>64</velocity>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -35631,14 +36621,25 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>40</pitch>
               <tpc>18</tpc>
+              <velocity>64</velocity>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Spanner type="HairPin">
             <prev>
               <location>
-                <measures>-1</measures>
+                <measures>-2</measures>
                 <fractions>-3/4</fractions>
                 </location>
               </prev>
