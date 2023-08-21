@@ -7015,7 +7015,7 @@
               </HairPin>
             <next>
               <location>
-                <measures>3</measures>
+                <measures>2</measures>
                 </location>
               </next>
             </Spanner>
@@ -7053,6 +7053,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -7076,10 +7080,13 @@
             <tempo>1.183333</tempo>
             <text>Adagio</text>
             </Tempo>
-          <Dynamic>
-            <subtype>ppp</subtype>
-            <velocity>16</velocity>
-            </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -7092,13 +7099,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-3</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
@@ -7382,6 +7382,16 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -7398,14 +7408,11 @@
       <Measure>
         <voice>
           <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
-            <next>
+            <prev>
               <location>
-                <fractions>1/2</fractions>
+                <measures>-1</measures>
                 </location>
-              </next>
+              </prev>
             </Spanner>
           <Chord>
             <durationType>half</durationType>
@@ -7418,13 +7425,6 @@
               <subtype>buzzroll</subtype>
               </Tremolo>
             </Chord>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <fractions>-1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -15924,7 +15924,6 @@ counter</text>
             <next>
               <location>
                 <measures>2</measures>
-                <fractions>1/2</fractions>
                 </location>
               </next>
             </Spanner>
@@ -15946,6 +15945,10 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -15964,6 +15967,13 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -15975,14 +15985,6 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                <fractions>-1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <acciaccatura/>
@@ -27403,7 +27405,7 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>4</measures>
+                <measures>2</measures>
                 </location>
               </next>
             </Spanner>
@@ -27438,6 +27440,10 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
+            </Dynamic>
           <Spanner type="Pedal">
             <Pedal>
               <lineVisible>0</lineVisible>
@@ -27483,6 +27489,13 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -27608,10 +27621,6 @@ counter</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>ppp</subtype>
-            <velocity>16</velocity>
-            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -27674,13 +27683,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-4</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -30716,16 +30718,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/8</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -30744,13 +30736,6 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             </Chord>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <fractions>-1/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -40966,7 +40951,7 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>4</measures>
+                <measures>2</measures>
                 </location>
               </next>
             </Spanner>
@@ -40993,6 +40978,10 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -41012,6 +41001,13 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -41033,10 +41029,6 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>ppp</subtype>
-            <velocity>16</velocity>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -41048,13 +41040,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-4</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -48367,7 +48352,7 @@ counter</text>
               </HairPin>
             <next>
               <location>
-                <measures>3</measures>
+                <measures>2</measures>
                 </location>
               </next>
             </Spanner>
@@ -48399,6 +48384,10 @@ counter</text>
             <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
+          <Dynamic>
+            <subtype>ppp</subtype>
+            <velocity>16</velocity>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -48418,10 +48407,13 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
-          <Dynamic>
-            <subtype>ppp</subtype>
-            <velocity>16</velocity>
-            </Dynamic>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -48434,13 +48426,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-3</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>
