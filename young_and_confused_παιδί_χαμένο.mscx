@@ -3728,10 +3728,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>ppp</subtype>
-            <velocity>16</velocity>
-            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -3755,6 +3751,10 @@
             <tempo>1.183333</tempo>
             <text>Adagio</text>
             </Tempo>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -9855,10 +9855,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>ppp</subtype>
-            <velocity>16</velocity>
-            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -9877,6 +9873,10 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -17010,10 +17010,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>ppp</subtype>
-            <velocity>16</velocity>
-            </Dynamic>
           <Spanner type="Pedal">
             <Pedal>
               <lineVisible>0</lineVisible>
@@ -17059,6 +17055,10 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -28453,10 +28453,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>ppp</subtype>
-            <velocity>16</velocity>
-            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -28476,6 +28472,10 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -33487,10 +33487,6 @@ counter</text>
             <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
-          <Dynamic>
-            <subtype>ppp</subtype>
-            <velocity>16</velocity>
-            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -33510,6 +33506,10 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
+            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
