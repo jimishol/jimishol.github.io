@@ -6778,10 +6778,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Tempo>
-            <tempo>1.183333</tempo>
-            <text>Adagio</text>
-            </Tempo>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -6808,6 +6804,9 @@
               <velocity>64</velocity>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataLongHenzeAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -6823,9 +6822,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataVeryShortAbove</subtype>
-            </Fermata>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -12513,6 +12509,9 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataLongHenzeAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -12525,9 +12524,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataVeryShortAbove</subtype>
-            </Fermata>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -26565,6 +26561,9 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataLongHenzeAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -26577,9 +26576,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataVeryShortAbove</subtype>
-            </Fermata>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -31643,6 +31639,9 @@ counter</text>
               <velocity>64</velocity>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataLongHenzeAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -31655,9 +31654,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataVeryShortAbove</subtype>
-            </Fermata>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -36339,6 +36335,9 @@ counter</text>
             <harmonyType>1</harmonyType>
             <name>v</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataLongHenzeAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -36351,9 +36350,6 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
-          <Fermata>
-            <subtype>fermataVeryShortAbove</subtype>
-            </Fermata>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
