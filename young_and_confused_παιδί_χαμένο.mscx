@@ -268,7 +268,7 @@
           </Text>
         <Text>
           <style>composer</style>
-          <text>Δημήτριος Χωλίδης</text>
+          <text>jimishol</text>
           </Text>
         </VBox>
       <Measure>
@@ -24446,8 +24446,8 @@ counter</text>
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             </Dynamic>
           <Chord>
             <durationType>half</durationType>
@@ -30156,8 +30156,8 @@ counter</text>
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
