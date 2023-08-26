@@ -30170,11 +30170,8 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -30188,9 +30185,6 @@ counter</text>
               <text>Σαν</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   </Tie>
@@ -30200,8 +30194,8 @@ counter</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -30218,16 +30212,16 @@ counter</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -30710,11 +30704,8 @@ counter</text>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -30728,9 +30719,6 @@ counter</text>
               <text>Σαν</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalSharp</subtype>
-                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   </Tie>
@@ -30740,8 +30728,8 @@ counter</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
@@ -30758,16 +30746,16 @@ counter</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>24</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
