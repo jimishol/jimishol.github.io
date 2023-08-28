@@ -92,10 +92,20 @@
                 href="https://jimishol.github.io/el/tags/music/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/el/post/%CF%80%CE%B1%CE%B9%CE%B4%CE%AF_%CF%87%CE%B1%CE%BC%CE%AD%CE%BD%CE%BF/</loc>
+    <loc>https://jimishol.github.io/el/post/young_and_confused/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/young_and_confused/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/post/young_and_confused/"
+                />
   </url><url>
     <loc>https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
@@ -122,10 +132,20 @@
                 href="https://jimishol.github.io/el/post/music_intervals/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/el/post/diatonic_el/</loc>
+    <loc>https://jimishol.github.io/el/post/diatonic/</loc>
     <lastmod>2023-06-26T21:48:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/diatonic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/post/diatonic/"
+                />
   </url><url>
     <loc>https://jimishol.github.io/el/post/circle_of_fifths_el/</loc>
     <lastmod>2023-06-18T16:09:06+03:00</lastmod>
@@ -141,6 +161,16 @@
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/game_theory_book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/post/game_theory_book/"
+                />
   </url><url>
     <loc>https://jimishol.github.io/el/tags/%CE%B8%CE%B5%CF%89%CF%81%CE%AF%CE%B1-%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
