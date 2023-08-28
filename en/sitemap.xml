@@ -126,6 +126,16 @@
     <lastmod>2023-06-18T16:09:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/post/circle_of_fifths/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/circle_of_fifths/"
+                />
   </url><url>
     <loc>https://jimishol.github.io/tags/game-theory/</loc>
     <lastmod>2023-05-09T15:19:47+03:00</lastmod>
