@@ -2,6 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jimishol.github.io/el/tags/configurations/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/configurations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/tags/configurations/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/el/tags/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/tags/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/el/post/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/post/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/el/post/librecad_greek_fonts/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jimishol.github.io/el/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/"
+                />
+  </url><url>
     <loc>https://jimishol.github.io/el/tags/music/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,55 +82,10 @@
                 href="https://jimishol.github.io/el/tags/music/"
                 />
   </url><url>
-    <loc>https://jimishol.github.io/el/tags/</loc>
-    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jimishol.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://jimishol.github.io/el/tags/"
-                />
-  </url><url>
-    <loc>https://jimishol.github.io/el/post/</loc>
-    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jimishol.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://jimishol.github.io/el/post/"
-                />
-  </url><url>
     <loc>https://jimishol.github.io/el/post/%CF%80%CE%B1%CE%B9%CE%B4%CE%AF_%CF%87%CE%B1%CE%BC%CE%AD%CE%BD%CE%BF/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://jimishol.github.io/el/</loc>
-    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jimishol.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://jimishol.github.io/el/"
-                />
   </url><url>
     <loc>https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>

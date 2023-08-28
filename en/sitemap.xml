@@ -126,6 +126,16 @@
     <lastmod>2023-04-26T00:28:57+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/tags/configurations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/configurations/"
+                />
   </url><url>
     <loc>https://jimishol.github.io/post/stockfish/</loc>
     <lastmod>2023-04-24T21:12:52+03:00</lastmod>
