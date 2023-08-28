@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimishol.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Greek characters in librecad design program</title>
+      <link>https://jimishol.github.io/post/librecad_greek_fonts/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimishol.github.io/post/librecad_greek_fonts/</guid>
+      <description>At one time, when I was working, I used librcad. When I first used it, I had difficulties printing Greek text on drawings. I don&amp;rsquo;t need librecad anymore, but I ran it recently, out of curiosity to see if Greek fonts is now integrated without problems. Despite the six installed Greek fonts, I couldn&amp;rsquo;t write Greek comfortably (at least with the MText command).
+In a post of mine, I mentioned that, to solve the problem, I reorganized greeks.</description>
+    </item>
+    
+    <item>
       <title>Autobiographical sonata</title>
       <link>https://jimishol.github.io/post/young_and_confused/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>

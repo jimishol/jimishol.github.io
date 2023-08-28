@@ -51,6 +51,16 @@
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/librecad_greek_fonts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/post/librecad_greek_fonts/"
+                />
   </url><url>
     <loc>https://jimishol.github.io/el/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
