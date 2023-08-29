@@ -27516,6 +27516,10 @@ counter</text>
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>pp</subtype>
+            <velocity>33</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
@@ -27793,6 +27797,10 @@ counter</text>
           <KeySig>
             <concertKey>1</concertKey>
             </KeySig>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>half</durationType>
             <Note>
