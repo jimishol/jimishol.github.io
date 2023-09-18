@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.10">
   <programVersion>4.1.1</programVersion>
-  <programRevision>5485621</programRevision>
+  <programRevision></programRevision>
   <Score>
     <Division>480</Division>
     <showInvisible>1</showInvisible>
@@ -6873,8 +6873,8 @@
               <subtype>articMarcatoAbove</subtype>
               </Articulation>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               <velocity>64</velocity>
               </Note>
             </Chord>
