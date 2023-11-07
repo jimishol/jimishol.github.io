@@ -6,37 +6,32 @@
     <description>Recent content in Απόψεις on jimishol&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
-    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Στιγμές καλλιτεχνικής δημιουργίας που μας λείπουν, με τον Georgio Gaber.</title>
       <link>https://jimishol.github.io/el/post/georgio_gabel/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://jimishol.github.io/el/post/georgio_gabel/</guid>
       <description>Σήμερα ψάχνοντας για ιταλικό τραγούδι, έπεσα ξανά πάνω στον Giorgio Gaber. Τον είχα προσέξει στο παρελθόν αλλά πρώτη φορά τον ξαναπρόσεξα μετά την μελέτη της θεωρίας παιγνίων.
 Αυτήν την φορά εξεπλάγην με το πως, με καλλιτεχνικό τρόπο, στο Democracy διατυπώνεται ακριβώς το ίδιο επιχείρημα με αυτό των σελίδων 5-6 του pdf αυτής της σελίδας. Είναι το ίδιο επιχείρημα που χρησιμοποιείται και στον αλγόριθμο του ψηφοφόρου, ώστε, στο τέλος, να εξαχθεί το συμπέρασμα της σύγκλισης του νοήματος των εκλογών.</description>
     </item>
-    
     <item>
       <title>Αλγόριθμος ψηφοφόρου</title>
       <link>https://jimishol.github.io/el/post/ekloges/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://jimishol.github.io/el/post/ekloges/</guid>
       <description>Η βέλτιστη ατομική στρατηγική ενός ψηφοφόρου στο παιγνίδι των εκλογών Παρουσιάζεται προσεγγιστικός αλγόριθμος ο οποίος προτείνει τέτοια στρατηγική ψήφο στο παιγνίδι των εκλογών, ώστε, από πλευράς ψηφοφόρου, να του αποδώσει την μέγιστη δυνατή αναμενόμενη απολαβή, στην απειροελάχιστη περίπτωση που η ψήφος του τύχει να είναι αποφασιστική.
 Κατόπιν εξετάζεται πως η βέλτιστη στρατηγική στο παιγνίδι των εκλογών, από πλευράς υποψηφίων, καθοριζόμενη από το θεώρημα του διάμεσου ψηφοφόρου, τείνει να αλλοιώσει το νόημα των ίδιων των εκλογών.</description>
     </item>
-    
     <item>
       <title>Το κοινωνικό παράπονο είναι ανορθολογισμός</title>
       <link>https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</link>
       <pubDate>Thu, 27 Apr 2023 22:56:34 +0300</pubDate>
-      
       <guid>https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</guid>
       <description>Κατά την διάρκεια του κοινωνικού σοκ που προκάλεσε το σιδηροδρομικό δυστύχημα στα Τέμπη, σε μια τηλεοπτική εκπομπή διατυπωνόταν επανειλημμένως το ερώτημα “γιατί οι πολιτικοί κάνουν τέτοιες δηλώσεις, ωσάν να απευθύνονται σε ανόητους?”. Έστειλα την απάντησή μου, με σκέψεις που βασίζονται στην θεωρία παιγνιδιών.
 Η απάντησή μου είχε δύο σκέλη.
 Στο πρώτο σκέλος, η απάντηση στην ερώτηση ήταν απλή και δεν χρειαζόταν καμία χρήση μαθηματικών, παρά μόνο την κοινή λογική.</description>
     </item>
-    
   </channel>
 </rss>

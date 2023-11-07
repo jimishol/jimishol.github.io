@@ -6,12 +6,12 @@
     <description>Recent content in Mathematics on jimishol&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://jimishol.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 May 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jimishol.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The polyhedron with the minimum of vertices, which considers itself a doughnut</title>
       <link>https://jimishol.github.io/post/pyramid-torus/</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://jimishol.github.io/post/pyramid-torus/</guid>
       <description>Paper cut unfold of a Császár polyhedron It is called Császár polyhedron
 (Its dual is the Szilassi polyhedron).
@@ -20,6 +20,5 @@ Algebraic start The Euler characteristic X of a torus is zero.
 So our torus has V-E+F=0, where V=vertices, E=edges and F=faces.
 We can assume all faces are triangles. So, E=3F/2 (cause with 3F we count each edge twice).</description>
     </item>
-    
   </channel>
 </rss>

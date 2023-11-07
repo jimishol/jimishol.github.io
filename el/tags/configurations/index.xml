@@ -6,16 +6,15 @@
     <description>Recent content in Configurations on jimishol&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>el</language>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jimishol.github.io/el/tags/configurations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jimishol.github.io/el/tags/configurations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ελληνικοί χαρακτήρες στο σχεδιαστικό πρόγραμμα librecad</title>
       <link>https://jimishol.github.io/el/post/librecad_greek_fonts/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://jimishol.github.io/el/post/librecad_greek_fonts/</guid>
       <description>Κάποτε, όταν εργαζόμουν, χρησιμοποιούσα το librcad. Όταν το πρωτοχρησιμοποίησα, είχα δυσκολίες με την εκτύπωση ελληνικού κειμένου στα σχέδια. Δεν χρειάζομαι πια το librecad, αλλά το έτρεξα πρόσφατα, από περιέργεια να δω αν τα ελληνικά είναι πια ενσωματωμένα. Παρά την ύπαρξη έξι ελληνικών γραμματοσειρών, δεν μπόρεσα να γράψω ελληνικά με άνεση (τουλάχιστον με την εντολή MText).
 Σε μια δημοσίευσή μου, είχα αναφέρει ότι, για να λύσω το πρόβλημα, αναδιοργάνωσα το greeks.lff για να βάλω τους χαρακτήρες στα κατάλληλα, για σήμερα, πλήκτρα του πληκτρολογίου και σχεδίασα και ένα τελικό &amp;lsquo;ς&amp;rsquo;.</description>
     </item>
-    
   </channel>
 </rss>
