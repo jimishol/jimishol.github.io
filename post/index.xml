@@ -13,8 +13,7 @@
       <link>https://jimishol.github.io/post/librecad_greek_fonts/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://jimishol.github.io/post/librecad_greek_fonts/</guid>
-      <description>At one time, when I was working, I used librcad. When I first used it, I had difficulties printing Greek text on drawings. I don&amp;rsquo;t need librecad anymore, but I ran it recently, out of curiosity to see if Greek fonts is now integrated without problems. Despite the six installed Greek fonts, I couldn&amp;rsquo;t write Greek comfortably (at least with the MText command).
-In a post of mine, I mentioned that, to solve the problem, I reorganized greeks.</description>
+      <description>At one time, when I was working, I used librcad. When I first used it, I had difficulties printing Greek text on drawings. I don&amp;rsquo;t need librecad anymore, but I ran it recently, out of curiosity to see if Greek fonts is now integrated without problems. Despite the six installed Greek fonts, I couldn&amp;rsquo;t write Greek comfortably (at least with the MText command).&#xA;In a post of mine, I mentioned that, to solve the problem, I reorganized greeks.</description>
     </item>
     <item>
       <title>Autobiographical sonata</title>
@@ -49,36 +48,28 @@ In a post of mine, I mentioned that, to solve the problem, I reorganized greeks.
       <link>https://jimishol.github.io/post/game_theory_book/</link>
       <pubDate>Tue, 09 May 2023 15:19:47 +0300</pubDate>
       <guid>https://jimishol.github.io/post/game_theory_book/</guid>
-      <description>I just finished reading the book &amp;ldquo;An introduction to Game Theory&amp;rdquo; by Martin J. Osborne. A truly wonderful book, which seems to have influenced even my everyday thinking. Its only problem, for me, is that it tries too hard not to make it necessary, for its reader, to use even elementary algebra.
-Its beauty, however, lies mainly in the carefully chosen exercises. At the beginning of the book, they seem so elementary that they make you wonder, and even bore you to solve them.</description>
+      <description>I just finished reading the book &amp;ldquo;An introduction to Game Theory&amp;rdquo; by Martin J. Osborne. A truly wonderful book, which seems to have influenced even my everyday thinking. Its only problem, for me, is that it tries too hard not to make it necessary, for its reader, to use even elementary algebra.&#xA;Its beauty, however, lies mainly in the carefully chosen exercises. At the beginning of the book, they seem so elementary that they make you wonder, and even bore you to solve them.</description>
     </item>
     <item>
       <title>As a Book for bridge card game</title>
       <link>https://jimishol.github.io/post/like-book/</link>
       <pubDate>Thu, 27 Apr 2023 22:56:34 +0300</pubDate>
       <guid>https://jimishol.github.io/post/like-book/</guid>
-      <description>&amp;ldquo;Once in a blue moon an idea sweeps through the bridge world and revolutionises thinking. The so-called Law of Total Tricks is so accurate in assessing potential in the contested auction and so easy to use (meaning in the book) that it is being introduced early and used to justify many subsequent bidding decisions.&amp;rdquo;
-From the book &amp;ldquo;Understanding the contested auction&amp;rdquo; of Ron Klinger and Andrew Kambites.
-Once upon a time, I was playing bridge.</description>
+      <description>&amp;ldquo;Once in a blue moon an idea sweeps through the bridge world and revolutionises thinking. The so-called Law of Total Tricks is so accurate in assessing potential in the contested auction and so easy to use (meaning in the book) that it is being introduced early and used to justify many subsequent bidding decisions.&amp;rdquo;&#xA;From the book &amp;ldquo;Understanding the contested auction&amp;rdquo; of Ron Klinger and Andrew Kambites.&#xA;Once upon a time, I was playing bridge.</description>
     </item>
     <item>
       <title>A Dark Ananke theme</title>
       <link>https://jimishol.github.io/post/dark_theme/</link>
       <pubDate>Wed, 26 Apr 2023 00:28:57 +0300</pubDate>
       <guid>https://jimishol.github.io/post/dark_theme/</guid>
-      <description>All necessary files are copied from ananke/layout folder to corresponding project&amp;rsquo;s/layout folder and modified there. So, in order to have a dark theme, copy the below files. (Delete extention .txt, if you directly copy them.) You do not have to modify them.
-project&amp;rsquo;s/layout/index.html. project&amp;rsquo;s/layout/_default/list.html. project&amp;rsquo;s/layout/_default/summary-with-image.html. project&amp;rsquo;s/layout/_default/summary.html. project&amp;rsquo;s/layout/_default/taxonomy.html. project&amp;rsquo;s/layout/post/list.html. project&amp;rsquo;s/layout/post/summary.html. Last, make sure your config.toml has the following color parameters you like
-[params] text_color = &amp;#34;white&amp;#34; background_color_class = &amp;#34;bg-black&amp;#34; body_classes = &amp;#34;avenir bg-black&amp;#34; aux_text_color = &amp;#34;silver&amp;#34; bg_button_color = &amp;#34;bg-black&amp;#34; bg_button_hover_color = &amp;#34;hover-bg-dark-gray&amp;#34; I picked color names from here.</description>
+      <description>All necessary files are copied from ananke/layout folder to corresponding project&amp;rsquo;s/layout folder and modified there. So, in order to have a dark theme, copy the below files. (Delete extention .txt, if you directly copy them.) You do not have to modify them.&#xA;project&amp;rsquo;s/layout/index.html. project&amp;rsquo;s/layout/_default/list.html. project&amp;rsquo;s/layout/_default/summary-with-image.html. project&amp;rsquo;s/layout/_default/summary.html. project&amp;rsquo;s/layout/_default/taxonomy.html. project&amp;rsquo;s/layout/post/list.html. project&amp;rsquo;s/layout/post/summary.html. Last, make sure your config.toml has the following color parameters you like&#xA;[params] text_color = &amp;#34;white&amp;#34; background_color_class = &amp;#34;bg-black&amp;#34; body_classes = &amp;#34;avenir bg-black&amp;#34; aux_text_color = &amp;#34;silver&amp;#34; bg_button_color = &amp;#34;bg-black&amp;#34; bg_button_hover_color = &amp;#34;hover-bg-dark-gray&amp;#34; I picked color names from here.</description>
     </item>
     <item>
       <title>Stockfish Chess Engine Server</title>
       <link>https://jimishol.github.io/post/stockfish/</link>
       <pubDate>Mon, 24 Apr 2023 21:12:52 +0300</pubDate>
       <guid>https://jimishol.github.io/post/stockfish/</guid>
-      <description>For linux users it seems pretty easy and natural to let scid chess databases, on low CPU and RAM devices, to use stockfish chess engine that runs on a more powerful server.
-We start by installing stockfish onto our most powerful machine.
-In my case a desktop with 32G RAM and 8 CPU cores with 2 threads per core, that means 16 threads.
-Stockfish server The chess engine will run only when the user is logged in.</description>
+      <description>For linux users it seems pretty easy and natural to let scid chess databases, on low CPU and RAM devices, to use stockfish chess engine that runs on a more powerful server.&#xA;We start by installing stockfish onto our most powerful machine.&#xA;In my case a desktop with 32G RAM and 8 CPU cores with 2 threads per core, that means 16 threads.&#xA;Stockfish server The chess engine will run only when the user is logged in.</description>
     </item>
     <item>
       <title>Video game Pioneer analysis</title>
@@ -92,12 +83,7 @@ Stockfish server The chess engine will run only when the user is logged in.</des
       <link>https://jimishol.github.io/post/pyramid-torus/</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
       <guid>https://jimishol.github.io/post/pyramid-torus/</guid>
-      <description>Paper cut unfold of a Császár polyhedron It is called Császár polyhedron
-(Its dual is the Szilassi polyhedron).
-Tutorial I was never able to construct Szilassi by myself, but there it follows how i constructed Császár polyhedron.
-Algebraic start The Euler characteristic X of a torus is zero.
-So our torus has V-E+F=0, where V=vertices, E=edges and F=faces.
-We can assume all faces are triangles. So, E=3F/2 (cause with 3F we count each edge twice).</description>
+      <description>Paper cut unfold of a Császár polyhedron It is called Császár polyhedron&#xA;(Its dual is the Szilassi polyhedron).&#xA;Tutorial I was never able to construct Szilassi by myself, but there it follows how i constructed Császár polyhedron.&#xA;Algebraic start The Euler characteristic X of a torus is zero.&#xA;So our torus has V-E+F=0, where V=vertices, E=edges and F=faces.&#xA;We can assume all faces are triangles. So, E=3F/2 (cause with 3F we count each edge twice).</description>
     </item>
   </channel>
 </rss>
