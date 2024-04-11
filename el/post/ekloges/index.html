@@ -7,7 +7,7 @@
     <title>Αλγόριθμος ψηφοφόρου | jimishol&#39;s website</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="Αν λάβουμε υπόψη ότι η διάρκεια ζωής του ήλιου υπολογίζεται σε 10 δισεκατομμύρια χρόνια,  υπάρχει περίπου 60.00% πιθανότητα η ψήφος μας να είναι αποφασιστική, εφόσον συμμετέχουμε σε κάθε εκλογές για 626 φορές περισσότερο χρόνο.">
-    <meta name="generator" content="Hugo 0.121.2">
+    <meta name="generator" content="Hugo 0.124.1">
     
     
     
@@ -35,7 +35,6 @@
 <meta property="og:url" content="https://jimishol.github.io/el/post/ekloges/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2023-05-09T00:00:00+00:00" />
 <meta property="article:modified_time" content="2023-05-09T00:00:00+00:00" />
-
 <meta itemprop="name" content="Αλγόριθμος ψηφοφόρου">
 <meta itemprop="description" content="Αν λάβουμε υπόψη ότι η διάρκεια ζωής του ήλιου υπολογίζεται σε 10 δισεκατομμύρια χρόνια,  υπάρχει περίπου 60.00% πιθανότητα η ψήφος μας να είναι αποφασιστική, εφόσον συμμετέχουμε σε κάθε εκλογές για 626 φορές περισσότερο χρόνο."><meta itemprop="datePublished" content="2023-05-09T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-05-09T00:00:00+00:00" />
@@ -69,12 +68,6 @@
         <ul class="pl0 mr3">
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/el/about/" title="Περί">
-              Περί
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
             <a class="hover-white no-underline white-90" href="/el/post/" title="Άρθρα">
               Άρθρα
             </a>
@@ -83,6 +76,12 @@
           <li class="list f5 f4-ns fw4 dib pr3">
             <a class="hover-white no-underline white-90" href="/el/autobiograpy/" title="Αυτοβιογραφία">
               Αυτοβιογραφία
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/el/about/" title="Περί">
+              Περί
             </a>
           </li>
           
@@ -179,7 +178,7 @@
 <p>Εκ των ιδιοτήτων της κατανομής dirichlet, μπορούν πλέον να υπολογισθούν οι τυπικές αποκλίσεις κάθε ποσοστού. Λόγω της πολυπλοκότητας που δημιουργεί το ότι τα ποσοστά των υποψηφίων όχι μόνον πρέπει να κυμαίνονται από 0 έως 1, αλλά και ότι το άθροισμά τους πρέπει να είναι ίσο με την μονάδα, η διανομή dirichlet δεν μπορεί να βοηθήσει πλέον για απλούς υπολογισμούς. Οι κατανομές των ποσοστών, από τούδε και στο εξής, θεωρούνται κατανομές <a href="https://en.wikipedia.org/wiki/Beta_distribution">Beta</a>, που περιγράφουν καλύτερα μια τυχαία μεταβλητή που κυμαίνεται μεταξύ του 0 και 1.</p>
 <p>Ο αλγόριθμος προσεγγίζει την πιθανότητα ισοψηφίας δύο υποψηφίων και πολλαπλασιάζει με την απολαβή νίκης και ισοψηφίας αυτών των δύο. Για κάθε υποψήφιο αθροίζονται όλοι οι όροι που αφορούν τις ισοψηφίες και έτσι για κάθε ψήφο υπέρ κάποιου συγκεκριμένου υποψηφίου υπολογίζεται η μέση προσδοκώμενη απολαβή μας, εάν τον ψηφίσουμε. Για την ψήφο που θα μας δώσει την μεγαλύτερη προσδοκώμενη απολαβή, στην σειρά i39 εκτυπώνεται “Σκεφτείτε να ψηφίσετε τάδε”.</p>
 <p>Για την εκτέλεση του αλγόριθμου χρειάζεστε το υπολογιστικό σύστημα άλγεβρας <a href="https://maxima.sourceforge.io/">maxima</a>. Επειδή, το ποιό πιθανόν είναι να θέλετε γραφικό περιβάλλον, εγώ χρησιμοποίησα το <a href="https://wxmaxima-developers.github.io/wxmaxima/">wxMaxima</a>. Ένας επεξεργαστής Ιntel i7 στα 2.60GHz, χρειάζεται 8 λεπτά για να εμφανίσει τον υποψήφιο με την μεγαλύτερη προσδοκώμενη απολαβή και άλλα 4 λεπτά για να εμφανίσει ταξινομημένες τις προσδοκώμενες απολαβές κάθε υποψηφίου. (Σύνολο επεξεργασίας για 19 υποψηφίους, περίπου 12 λεπτά.)
-Εάν δεν επιθυμείτε να εγκαταστήσετε τα παραπάνω, μπορείτε να αντιγράψετε τον αλγόριθμο στην ιστοσελίδα <a href="http://maxima.cesga.es/index.php?c=n4ulduqhzfskah06wnhkz&amp;n=3">εδώ</a>. Όμως επειδή δεν επιτρέπονται παραπάνω από 2 λεπτά επεξεργασίας πρέπει να ασχοληθείτε το πολύ με
+Εάν δεν επιθυμείτε να εγκαταστήσετε τα παραπάνω, μπορείτε να αντιγράψετε τον αλγόριθμο στην ιστοσελίδα <a href="http://maxima.cesga.es/index.php?c=n4ulduqhzfskah06wnhkz&n=3">εδώ</a>. Όμως επειδή δεν επιτρέπονται παραπάνω από 2 λεπτά επεξεργασίας πρέπει να ασχοληθείτε το πολύ με
 6 μόνον υποψηφίους, οπότε και τα αποτελέσματα θα εμφανιστούν στο κάτω μέρος του παραθύρου σε περίπου 2 λεπτά.</p>
 <h3 id="περιγραφή-μεταβλητών-εκτίμησης-του-αλγορίθμου">Περιγραφή μεταβλητών εκτίμησης του αλγορίθμου.</h3>
 <ul>
@@ -241,7 +240,7 @@
    </li>
   
    <li class="list di">
-     <a href="/el/tags/%CE%B8%CE%B5%CF%89%CF%81%CE%AF%CE%B1-%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Θεωρία παιγνίων</a>
+     <a href="/el/tags/%CE%B8%CE%B5%CF%89%CF%81%CE%AF%CE%B1-%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Θεωρία Παιγνίων</a>
    </li>
   
 </ul>
