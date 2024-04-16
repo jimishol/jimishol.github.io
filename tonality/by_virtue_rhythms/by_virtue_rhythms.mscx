@@ -541,11 +541,8 @@
             </Chord>
           <Rest>
             <eid>21079699488793</eid>
+            <dots>1</dots>
             <durationType>half</durationType>
-            </Rest>
-          <Rest>
-            <eid>21083994456089</eid>
-            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
