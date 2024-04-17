@@ -139,7 +139,7 @@
             </Beam>
           <Chord>
             <eid>20753281974387</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20757576941588</eid>
@@ -148,18 +148,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20761871908979</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20766166876180</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20770461843571</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20774756810772</eid>
@@ -168,18 +158,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20779051778163</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20783346745364</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20787641712755</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20791936679956</eid>
@@ -188,18 +168,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20796231647347</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20800526614548</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20804821581939</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20809116549140</eid>
@@ -208,18 +178,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20813411516531</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20817706483732</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20822001451123</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20826296418324</eid>
@@ -228,18 +188,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20830591385715</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20834886352916</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20839181320307</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20843476287508</eid>
@@ -248,18 +198,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20847771254899</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20852066222100</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20856361189491</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20860656156692</eid>
@@ -268,18 +208,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20864951124083</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20869246091284</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20873541058675</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20877836025876</eid>
@@ -288,18 +218,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20882130993267</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20886425960468</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20890720927859</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20895015895060</eid>
@@ -308,18 +228,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20899310862451</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20903605829652</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20907900797043</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20912195764244</eid>
@@ -328,18 +238,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20916490731635</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20920785698836</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20925080666227</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20929375633428</eid>
@@ -348,18 +248,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20933670600819</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20937965568020</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20942260535411</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20946555502612</eid>
@@ -368,18 +258,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20950850470003</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20955145437204</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20959440404595</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20963735371796</eid>
@@ -388,18 +268,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20968030339187</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20972325306388</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20976620273779</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20980915240980</eid>
@@ -408,18 +278,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>20985210208371</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>20989505175572</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>20993800142963</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>20998095110164</eid>
@@ -428,18 +288,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>21002390077555</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>21006685044756</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>21010980012147</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>21015274979348</eid>
@@ -448,18 +298,8 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>21019569946739</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>21023864913940</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>21028159881331</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>21032454848532</eid>
@@ -468,31 +308,11 @@
               </Note>
             </Chord>
           <Chord>
-            <eid>21036749815923</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>21041044783124</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <eid>21045339750515</eid>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>21049634717716</eid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <eid>21053929685107</eid>
-            <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <eid>21058224652308</eid>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
