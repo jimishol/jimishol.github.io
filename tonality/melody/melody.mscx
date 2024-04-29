@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.20">
+  <programVersion>4.2.1</programVersion>
+  <programRevision></programRevision>
+  <LastEID>3805</LastEID>
+  <Score>
+    <Division>480</Division>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <open>1</open>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="audioComUrl"></metaTag>
+    <metaTag name="composer">Composer / arranger</metaTag>
+    <metaTag name="copyright"></metaTag>
+    <metaTag name="creationDate">2024-02-07</metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform">Linux</metaTag>
+    <metaTag name="source"></metaTag>
+    <metaTag name="sourceRevisionId"></metaTag>
+    <metaTag name="subtitle">Subtitle</metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle">Untitled score</metaTag>
+    <Order id="orchestral">
+      <name>Orchestral</name>
+      <instrument id="drumset">
+        <family id="drums">Drums</family>
+        </instrument>
+      <instrument id="grand-piano">
+        <family id="keyboards">Keyboards</family>
+        </instrument>
+      <instrument id="piano">
+        <family id="keyboards">Keyboards</family>
+        </instrument>
+      <instrument id="violoncello">
+        <family id="orchestral-strings">Orchestral Strings</family>
+        </instrument>
+      <section id="woodwind" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>flutes</family>
+        <family>oboes</family>
+        <family>clarinets</family>
+        <family>saxophones</family>
+        <family>bassoons</family>
+        <unsorted group="woodwinds"/>
+        </section>
+      <section id="brass" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>horns</family>
+        <family>trumpets</family>
+        <family>cornets</family>
+        <family>flugelhorns</family>
+        <family>trombones</family>
+        <family>tubas</family>
+        <unsorted group="brass"/>
+        </section>
+      <section id="timpani" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>timpani</family>
+        </section>
+      <section id="percussion" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>keyboard-percussion</family>
+        <unsorted group="pitched-percussion"/>
+        <family>drums</family>
+        <family>unpitched-metal-percussion</family>
+        <family>unpitched-wooden-percussion</family>
+        <family>other-percussion</family>
+        <unsorted group="unpitched-percussion"/>
+        </section>
+      <family>keyboards</family>
+      <family>harps</family>
+      <family>organs</family>
+      <family>synths</family>
+      <unsorted/>
+      <soloists/>
+      <section id="voices" brackets="true" barLineSpan="false" thinBrackets="true">
+        <family>voices</family>
+        <family>voice-groups</family>
+        </section>
+      <section id="strings" brackets="true" barLineSpan="true" thinBrackets="true">
+        <family>orchestral-strings</family>
+        </section>
+      </Order>
+    <Part id="1">
+      <Staff id="1">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          </StaffType>
+        </Staff>
+      <soloist>1</soloist>
+      <trackName>Grand Piano</trackName>
+      <Instrument id="grand-piano">
+        <longName>Grand Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Grand Piano</trackName>
+        <minPitchP>21</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>21</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <instrumentId>keyboard.piano.grand</instrumentId>
+        <clef staff="2">F</clef>
+        <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
+        </Instrument>
+      </Part>
+    <Staff id="1">
+      <Measure>
+        <voice>
+          <KeySig>
+            <eid>16209206575126</eid>
+            <concertKey>0</concertKey>
+            </KeySig>
+          <TimeSig>
+            <eid>16213501542424</eid>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
+          <Chord>
+            <eid>15672335663219</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15676630630420</eid>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15680925597811</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15685220565012</eid>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15689515532403</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15693810499604</eid>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15698105466995</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15702400434196</eid>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15672335663219</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15676630630420</eid>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15680925597811</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15685220565012</eid>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15689515532403</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15693810499604</eid>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15698105466995</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15702400434196</eid>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>16234976378892</eid>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <eid>16269336117363</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16273631084564</eid>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16277926051955</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16282221019156</eid>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16286515986547</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16290810953748</eid>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16295105921139</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16299400888340</eid>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16303695855731</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16307990822932</eid>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16312285790323</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16316580757524</eid>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16320875724915</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16325170692116</eid>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16329465659507</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16333760626708</eid>
+              <Spanner type="Tie">
+                <Tie>
+                  <eid>16338055594014</eid>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <BarLine>
+            <subtype>double</subtype>
+            <eid>16342350561292</eid>
+            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <eid>15637975924851</eid>
+            <durationType>quarter</durationType>
+            <Note>
+              <eid>15642270892052</eid>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15655155794035</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15659450761236</eid>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15672335663219</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15676630630420</eid>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16239271346291</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16243566313492</eid>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>15689515532403</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>15693810499604</eid>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16247861280883</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16252156248084</eid>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <eid>16217796509811</eid>
+            <durationType>eighth</durationType>
+            <Note>
+              <eid>16222091477012</eid>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <endRepeat>2</endRepeat>
+        <voice>
+          <Chord>
+            <eid>16161961934963</eid>
+            <durationType>whole</durationType>
+            <Note>
+              <eid>16166256902164</eid>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      </Staff>
+    </Score>
+  </museScore>
