@@ -291,7 +291,7 @@
         <voice>
           <Chord>
             <eid>15637975924851</eid>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <eid>15642270892052</eid>
               <Spanner type="Tie">
@@ -353,7 +353,7 @@
             </Chord>
           <Chord>
             <eid>16217796509811</eid>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <eid>16222091477012</eid>
               <pitch>71</pitch>
