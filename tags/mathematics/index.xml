@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics on jimishol&#39;s website</title>
-    <link>http://localhost:1313/tags/mathematics/</link>
+    <link>https://jimishol.github.io/tags/mathematics/</link>
     <description>Recent content in Mathematics on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 14 May 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimishol.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The polyhedron with the minimum of vertices, which considers itself a doughnut</title>
-      <link>http://localhost:1313/post/pyramid-torus/</link>
+      <link>https://jimishol.github.io/post/pyramid-torus/</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/pyramid-torus/</guid>
+      <guid>https://jimishol.github.io/post/pyramid-torus/</guid>
       <description>Paper cut unfold of a Császár polyhedron It is called Császár polyhedron&#xA;(Its dual is the Szilassi polyhedron).&#xA;Tutorial I was never able to construct Szilassi by myself, but there it follows how i constructed Császár polyhedron.&#xA;Algebraic start The Euler characteristic X of a torus is zero.&#xA;So our torus has V-E+F=0, where V=vertices, E=edges and F=faces.&#xA;We can assume all faces are triangles. So, E=3F/2 (cause with 3F we count each edge twice).</description>
     </item>
   </channel>

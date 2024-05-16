@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on jimishol&#39;s website</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://jimishol.github.io/post/</link>
     <description>Recent content in Articles on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimishol.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greek characters in librecad design program</title>
-      <link>http://localhost:1313/post/librecad_greek_fonts/</link>
+      <link>https://jimishol.github.io/post/librecad_greek_fonts/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/librecad_greek_fonts/</guid>
+      <guid>https://jimishol.github.io/post/librecad_greek_fonts/</guid>
       <description>At one time, when I was working, I used librcad. When I first used it, I had difficulties printing Greek text on drawings. I don&amp;rsquo;t need librecad anymore, but I ran it recently, out of curiosity to see if Greek fonts is now integrated without problems. Despite the six installed Greek fonts, I couldn&amp;rsquo;t write Greek comfortably (at least with the MText command).&#xA;In a post of mine, I mentioned that, to solve the problem, I reorganized greeks.</description>
     </item>
     <item>
       <title>Autobiographical sonata</title>
-      <link>http://localhost:1313/post/young_and_confused/</link>
+      <link>https://jimishol.github.io/post/young_and_confused/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/young_and_confused/</guid>
+      <guid>https://jimishol.github.io/post/young_and_confused/</guid>
       <description>About three and a half decades ago, before the advent of computers, I played classical guitar. At some point I wanted to express myself and, after buying and studying a book of harmony, I composed a piece. Because of its unusual chords, however, I had difficulty keeping the tempo. Then came computers with DOS and probably with the first windows, I was introduced to midi. The piece, after several attempts and separating the voices into instruments, somehow managed to be heard.</description>
     </item>
     <item>
       <title>Meet the musical intervals and the Neo-Riemannian moves, through an analogue clock.</title>
-      <link>http://localhost:1313/post/music_intervals/</link>
+      <link>https://jimishol.github.io/post/music_intervals/</link>
       <pubDate>Sat, 01 Jul 2023 23:16:09 +0300</pubDate>
-      <guid>http://localhost:1313/post/music_intervals/</guid>
+      <guid>https://jimishol.github.io/post/music_intervals/</guid>
       <description>After circle of fifths and diatonics, continuing to read about fundamentals of music theory, I find that the music clock can help in easily identifying the intervals of common musical terminology. Our music clock Terminology A musical interval, as the difference between two pitches, can be defined in an absolute way as the number of semitones that separate them. But the total number of semitones of an octave is 12, while the notes of a scale are 7.</description>
     </item>
     <item>
       <title>Meet diatonic scales in music, through an analogue clock</title>
-      <link>http://localhost:1313/post/diatonic/</link>
+      <link>https://jimishol.github.io/post/diatonic/</link>
       <pubDate>Mon, 26 Jun 2023 21:48:06 +0300</pubDate>
-      <guid>http://localhost:1313/post/diatonic/</guid>
+      <guid>https://jimishol.github.io/post/diatonic/</guid>
       <description>The A minor scale is related to C major, in that they share the same, empty, key signature. These scales are two different sevenths of white keys on the piano. Because the notes are repeated in octaves, there could be five other different sets of white keys, that is with the same, blank, signature, defining different tonalities. I understood that, in the most, the two mentioned above were imposed, but I always wondered about the other, blank-signed, scales.</description>
     </item>
     <item>
       <title>Circle of fifths in music, through an analog clock</title>
-      <link>http://localhost:1313/post/circle_of_fifths/</link>
+      <link>https://jimishol.github.io/post/circle_of_fifths/</link>
       <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
-      <guid>http://localhost:1313/post/circle_of_fifths/</guid>
+      <guid>https://jimishol.github.io/post/circle_of_fifths/</guid>
       <description>In my youth I studied classical guitar. I read a lot of sheet music and knew how to use key signatures. But I&amp;rsquo;ve never been able to identify, at a glance, the major or minor scale pair that defines a, non-trivial, signature. I thought this ability belonged only to very experienced musicians. A few days ago, I realized that I was completely wrong. Identifying the pair of scales that defines a key signature is as easy as using a wristwatch.</description>
     </item>
     <item>
       <title>My introduction to game theory</title>
-      <link>http://localhost:1313/post/game_theory_book/</link>
+      <link>https://jimishol.github.io/post/game_theory_book/</link>
       <pubDate>Tue, 09 May 2023 15:19:47 +0300</pubDate>
-      <guid>http://localhost:1313/post/game_theory_book/</guid>
+      <guid>https://jimishol.github.io/post/game_theory_book/</guid>
       <description>I just finished reading the book &amp;ldquo;An introduction to Game Theory&amp;rdquo; by Martin J. Osborne. A truly wonderful book, which seems to have influenced even my everyday thinking. Its only problem, for me, is that it tries too hard not to make it necessary, for its reader, to use even elementary algebra.&#xA;Its beauty, however, lies mainly in the carefully chosen exercises. At the beginning of the book, they seem so elementary that they make you wonder, and even bore you to solve them.</description>
     </item>
     <item>
       <title>As a Book for bridge card game</title>
-      <link>http://localhost:1313/post/like-book/</link>
+      <link>https://jimishol.github.io/post/like-book/</link>
       <pubDate>Thu, 27 Apr 2023 22:56:34 +0300</pubDate>
-      <guid>http://localhost:1313/post/like-book/</guid>
+      <guid>https://jimishol.github.io/post/like-book/</guid>
       <description>&amp;ldquo;Once in a blue moon an idea sweeps through the bridge world and revolutionises thinking. The so-called Law of Total Tricks is so accurate in assessing potential in the contested auction and so easy to use (meaning in the book) that it is being introduced early and used to justify many subsequent bidding decisions.&amp;rdquo;&#xA;From the book &amp;ldquo;Understanding the contested auction&amp;rdquo; of Ron Klinger and Andrew Kambites.&#xA;Once upon a time, I was playing bridge.</description>
     </item>
     <item>
       <title>A Dark Ananke theme</title>
-      <link>http://localhost:1313/post/dark_theme/</link>
+      <link>https://jimishol.github.io/post/dark_theme/</link>
       <pubDate>Wed, 26 Apr 2023 00:28:57 +0300</pubDate>
-      <guid>http://localhost:1313/post/dark_theme/</guid>
+      <guid>https://jimishol.github.io/post/dark_theme/</guid>
       <description>All necessary files are copied from ananke/layout folder to corresponding project&amp;rsquo;s/layout folder and modified there. So, in order to have a dark theme, copy the below files. (Delete extention .txt, if you directly copy them.) You do not have to modify them.&#xA;project&amp;rsquo;s/layout/index.html. project&amp;rsquo;s/layout/_default/list.html. project&amp;rsquo;s/layout/_default/summary-with-image.html. project&amp;rsquo;s/layout/_default/summary.html. project&amp;rsquo;s/layout/_default/taxonomy.html. project&amp;rsquo;s/layout/post/list.html. project&amp;rsquo;s/layout/post/summary.html. Last, make sure your config.toml has the following color parameters you like&#xA;[params] text_color = &amp;#34;white&amp;#34; background_color_class = &amp;#34;bg-black&amp;#34; body_classes = &amp;#34;avenir bg-black&amp;#34; aux_text_color = &amp;#34;silver&amp;#34; bg_button_color = &amp;#34;bg-black&amp;#34; bg_button_hover_color = &amp;#34;hover-bg-dark-gray&amp;#34; I picked color names from here.</description>
     </item>
     <item>
       <title>Stockfish Chess Engine Server</title>
-      <link>http://localhost:1313/post/stockfish/</link>
+      <link>https://jimishol.github.io/post/stockfish/</link>
       <pubDate>Mon, 24 Apr 2023 21:12:52 +0300</pubDate>
-      <guid>http://localhost:1313/post/stockfish/</guid>
+      <guid>https://jimishol.github.io/post/stockfish/</guid>
       <description>For linux users it seems pretty easy and natural to let scid chess databases, on low CPU and RAM devices, to use stockfish chess engine that runs on a more powerful server.&#xA;We start by installing stockfish onto our most powerful machine.&#xA;In my case a desktop with 32G RAM and 8 CPU cores with 2 threads per core, that means 16 threads.&#xA;Stockfish server The chess engine will run only when the user is logged in.</description>
     </item>
     <item>
       <title>Video game Pioneer analysis</title>
-      <link>http://localhost:1313/post/pioneer_economy/</link>
+      <link>https://jimishol.github.io/post/pioneer_economy/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/pioneer_economy/</guid>
+      <guid>https://jimishol.github.io/post/pioneer_economy/</guid>
       <description>Years ago, got nostalgic for the time of youth and searched an old video game Elite I played on ZX Spectrum. Got upon pioneer. I loved it and tried to help in order for players to have stronger feeling of progress. I did a lengthy analysis in a relevant repository. The main idea was finally accepted, but the consequence to control the progress of player was still to come. I do not play the game any more but one great feature it has, is that supports mod.</description>
     </item>
     <item>
       <title>The polyhedron with the minimum of vertices, which considers itself a doughnut</title>
-      <link>http://localhost:1313/post/pyramid-torus/</link>
+      <link>https://jimishol.github.io/post/pyramid-torus/</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/pyramid-torus/</guid>
+      <guid>https://jimishol.github.io/post/pyramid-torus/</guid>
       <description>Paper cut unfold of a Császár polyhedron It is called Császár polyhedron&#xA;(Its dual is the Szilassi polyhedron).&#xA;Tutorial I was never able to construct Szilassi by myself, but there it follows how i constructed Császár polyhedron.&#xA;Algebraic start The Euler characteristic X of a torus is zero.&#xA;So our torus has V-E+F=0, where V=vertices, E=edges and F=faces.&#xA;We can assume all faces are triangles. So, E=3F/2 (cause with 3F we count each edge twice).</description>
     </item>
   </channel>
