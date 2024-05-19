@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jimishol.github.io/el/tags/mathematics/</loc>
+    <lastmod>2024-04-12T00:21:00+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/mathematics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/tags/mathematics/"
+                />
+  </url><url>
     <loc>https://jimishol.github.io/el/tags/music/</loc>
     <lastmod>2024-04-12T00:21:00+03:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -51,6 +66,16 @@
     <lastmod>2024-04-12T00:21:00+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/tonality/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/post/tonality/"
+                />
   </url><url>
     <loc>https://jimishol.github.io/el/</loc>
     <lastmod>2024-04-12T00:21:00+03:00</lastmod>
