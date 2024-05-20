@@ -1,0 +1,271 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 24.02.2 ] */
+/* [wxMaxima: input   start ] */
+cst1:7$ cst2:3$  d(i):=-%pi*3+%pi/2*i$ 
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+fx(u):=sin(u)*(cst1+cos(u/3-2*-%pi)+cst2*cos(u/3+-%pi))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+fy(u):=cos(u)*(cst1+cos(u/3-2*-%pi)+cst2*cos(u/3+-%pi))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+fz(u):=sin(u/3-2*-%pi)+cst2*sin(u/3+-%pi)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+spiral:parametric(fx(u),fy(u),fz(u),u,-%pi*3,%pi*3)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+vdif:0.05$ vscale:0.1/vdif$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+D:[fx(d(0)),fy(d(0)),fz(d(0))]$ lbl_D:label(["D",fx(d(0)),fy(d(0))-0.5,fz(d(0))])$ vectorD:vector(D, ([fx(d(0+vdif)),fy(d(0+vdif)),fz(d(0+vdif))]-D)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+G:[fx(d(1)),fy(d(1)),fz(d(1))]$ lbl_G:label(["G",fx(d(1))-0.2,fy(d(1)),fz(d(1))+0.7])$ vectorG:vector(G, ([fx(d(1+vdif)),fy(d(1+vdif)),fz(d(1+vdif))]-G)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+C:[fx(d(2)),fy(d(2)),fz(d(2))]$ lbl_C:label(["C",fx(d(2)),fy(d(2))+0.5,fz(d(2))])$ vectorC:vector(C, ([fx(d(2+vdif)),fy(d(2+vdif)),fz(d(2+vdif))]-C)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+F:[fx(d(3)),fy(d(3)),fz(d(3))]$ lbl_F:label(["F",fx(d(3))-0.5,fy(d(3)),fz(d(3))+0.5])$ vectorF:vector(F, ([fx(d(3+vdif)),fy(d(3+vdif)),fz(d(3+vdif))]-F)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Bb:[fx(d(4)),fy(d(4)),fz(d(4))]$ lbl_Bb:label(["Bb",fx(d(4)),fy(d(4))+0.5,fz(d(4))])$ vectorBb:vector(Bb, ([fx(d(4+vdif)),fy(d(4+vdif)),fz(d(4+vdif))]-Bb)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Eb:[fx(d(5)),fy(d(5)),fz(d(5))]$ lbl_Eb:label(["Eb",fx(d(5))-0.5,fy(d(5))+0.5,fz(d(5))+0.7])$ vectorEb:vector(Eb, ([fx(d(5+vdif)),fy(d(5+vdif)),fz(d(5+vdif))]-Eb)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Ab:[fx(d(6)),fy(d(6)),fz(d(6))]$ lbl_Ab:label(["Ab",fx(d(6)),fy(d(6))-0.5,fz(d(6))])$ vectorAb:vector(Ab, ([fx(d(6+vdif)),fy(d(6+vdif)),fz(d(6+vdif))]-Ab)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Db:[fx(d(7)),fy(d(7)),fz(d(7))]$ lbl_Db:label(["Db",fx(d(7))+0.7,fy(d(7))-0.5,fz(d(7))-0.5])$ vectorDb:vector(Db, ([fx(d(7+vdif)),fy(d(7+vdif)),fz(d(7+vdif))]-Db)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+F2:[fx(d(8)),fy(d(8)),fz(d(8))]$ lbl_F2:label(["F#",fx(d(8)),fy(d(8))+0.6,fz(d(8))])$ vectorF2:vector(F2, ([fx(d(8+vdif)),fy(d(8+vdif)),fz(d(8+vdif))]-F2)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+B:[fx(d(9)),fy(d(9)),fz(d(9))]$ lbl_B:label(["B",fx(d(9))+0.5,fy(d(9)),fz(d(9))-0.2])$ vectorB:vector(B, ([fx(d(9+vdif)),fy(d(9+vdif)),fz(d(9+vdif))]-B)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+E:[fx(d(10)),fy(d(10)),fz(d(10))]$ lbl_E:label(["E",fx(d(10))-0.2,fy(d(10))+0.5,fz(d(10))])$ vectorE:vector(E, ([fx(d(10+vdif)),fy(d(10+vdif)),fz(d(10+vdif))]-E)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+A:[fx(d(11)),fy(d(11)),fz(d(11))]$ lbl_A:label(["A",fx(d(11))+0.7,fy(d(11)),fz(d(11))])$ vectorA:vector(A, ([fx(d(11+vdif)),fy(d(11+vdif)),fz(d(11+vdif))]-A)*vscale)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+GEx(a):=(fx(d(a+9+t))-fx(d(a+1+t)))*a+fx(d(a+1+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+GEy(a):=(fy(d(a+9+t))-fy(d(a+1+t)))*a+fy(d(a+1+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+GEz(a):=(fz(d(a+9+t))-fz(d(a+1+t)))*a+fz(d(a+1+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+BCx(a):=(fx(d(a+1+t))-fx(d(a+9+t)))*a+fx(d(a+9+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+BCy(a):=(fy(d(a+1+t))-fy(d(a+9+t)))*a+fy(d(a+9+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+BCz(a):=(fz(d(a+1+t))-fz(d(a+9+t)))*a+fz(d(a+9+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+GCx(a):=(fx(d(a+1+t))-fx(d(a+1+t)))*a+fx(d(a+1+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+GCy(a):=(fy(d(a+1+t))-fy(d(a+1+t)))*a+fy(d(a+1+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+GCz(a):=(fz(d(a+1+t))-fz(d(a+1+t)))*a+fz(d(a+1+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+BEx(a):=(fx(d(a+9+t))-fx(d(a+9+t)))*a+fx(d(a+9+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+BEy(a):=(fy(d(a+9+t))-fy(d(a+9+t)))*a+fy(d(a+9+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+BEz(a):=(fz(d(a+9+t))-fz(d(a+9+t)))*a+fz(d(a+9+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+ECx(a):=(fx(d(2+t))-fx(d(10+t)))*a+fx(d(10+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+ECy(a):=(fy(d(2+t))-fy(d(10+t)))*a+fy(d(10+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+ECz(a):=(fz(d(2+t))-fz(d(10+t)))*a+fz(d(10+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+BGx(a):=(fx(d(1+t))-fx(d(9+t)))*a+fx(d(9+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+BGy(a):=(fy(d(1+t))-fy(d(9+t)))*a+fy(d(9+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+BGz(a):=(fz(d(1+t))-fz(d(9+t)))*a+fz(d(9+t))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+scene2(t):=gr3d(title          = "Circle of fifths on Umbilic torus surface",
+            dimensions=[800,600],
+             axis_3d = false,
+             colorbox = false,
+             font = "Arial",
+             font_size = 16,
+             view           = [22,73],
+             nticks = 240,
+            lbl_D,
+            lbl_G,
+            lbl_C,
+            lbl_F,
+            lbl_Bb,
+            lbl_Eb,
+            lbl_Ab,
+            lbl_Db,
+            lbl_F2,
+            lbl_B,
+            lbl_E,
+            lbl_A,
+    spiral,                                                                         /*Whole path of fifths */
+    points_joined = true,                                               /*Create the four augmented triads */
+    head_length = 1,
+    head_angle  = 5,
+    head_type = 'empty,
+    vector(D,Bb-D), vector(Bb,F2-Bb), vector(F2,D-F2),          /*support field */
+    vector(G,Eb-G), vector(Eb,B-Eb), vector(B,G-B),
+    vector(C,Ab-C), vector(Ab,E-Ab), vector(E,C-E),
+    vector(A,F-A), vector(F,Db-F), vector(Db,A-Db),
+    vectorD, vectorG, vectorC, vectorF, vectorBb, vectorEb,
+    vectorAb, vectorDb, vectorF2, vectorB, vectorE, vectorA,
+    /* -------------------------------------------------------------------------------------------------- basic frames end here ----------------------------------------------------------------------- */
+    line_width = 4,
+    color = violet,
+    parametric(GEx(a),GEy(a),GEz(a), a, 0, 1),      /* lines in reference to C */
+    color=red,
+/*    parametric(BCx(a),BCy(a),BCz(a), a, 0, 1),    */
+    parametric(ECx(a),ECy(a),ECz(a), a, 0, 1),
+    parametric(GCx(a),GCy(a),GCz(a), a, 0, 1), 
+    parametric(BEx(a),BEy(a),BEz(a), a, 0, 1),
+    parametric(BGx(a),BGy(a),BGz(a), a, 0, 1)
+)$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+frps:3$ /*frames per second,  the delay option below is in 1/100 of second*/
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+speed:1/4$/*cycles per second*/
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+anime: makelist(scene2(t), t, 0, 12,4/(frps/speed))$
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: comment start ]
+Uncomment bellow lines in order to create gif file
+   [wxMaxima: comment end   ] */
+
+
+/* [wxMaxima: input   start ] */
+/* animation_options: [terminal = animated_gif, delay = floor(100/frps), file_name = "major7"]; */
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+/* all_options: append(anime, animation_options)$ */
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+ /* draw(all_options)$   */
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+  draw(scene2(3))$  /* It is a draw(scene2(t)) moment  in t time */
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 24.02.2"$
