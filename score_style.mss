@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="4.10">
+<museScore version="4.30">
   <Style>
     <pageWidth>8.27</pageWidth>
     <pageHeight>11.69</pageHeight>
@@ -223,9 +223,12 @@
     <pedalFrameRound>0</pedalFrameRound>
     <pedalFrameFgColor r="0" g="0" b="0" a="255"/>
     <pedalFrameBgColor r="255" g="255" b="255" a="0"/>
-    <pedalText></pedalText>
-    <pedalContinueText></pedalContinueText>
+    <pedalText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</pedalText>
+    <pedalHookText></pedalHookText>
+    <pedalContinueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</pedalContinueText>
+    <pedalContinueHookText></pedalContinueHookText>
     <pedalEndText></pedalEndText>
+    <pedalRosetteEndText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</pedalRosetteEndText>
     <trillPlacement>0</trillPlacement>
     <trillPosAbove x="0" y="-0.5"/>
     <trillPosBelow x="0" y="2"/>
@@ -334,6 +337,7 @@
     <smallStaffMag>0.7</smallStaffMag>
     <smallClefMag>0.8</smallClefMag>
     <genClef>1</genClef>
+    <hideTabClefAfterFirst>1</hideTabClefAfterFirst>
     <genKeysig>1</genKeysig>
     <genCourtesyTimesig>1</genCourtesyTimesig>
     <genCourtesyKeysig>1</genCourtesyKeysig>
@@ -395,6 +399,10 @@
     <minWigglyGlissandoLength>2</minWigglyGlissandoLength>
     <slurMinDistance>0.5</slurMinDistance>
     <headerSlurTieDistance>1</headerSlurTieDistance>
+    <tiePlacementSingleNote>outside</tiePlacementSingleNote>
+    <tiePlacementChord>inside</tiePlacementChord>
+    <tieMinShoulderHeight>0.3</tieMinShoulderHeight>
+    <tieMaxShoulderHeight>2</tieMaxShoulderHeight>
     <sectionPause>3</sectionPause>
     <musicalSymbolFont>Leland</musicalSymbolFont>
     <musicalTextFont>Leland Text</musicalTextFont>
@@ -700,6 +708,7 @@
     <stringNumberFrameBgColor r="255" g="255" b="255" a="0"/>
     <stringNumberOffset x="0" y="0"/>
     <preferSameStringForTranspose>0</preferSameStringForTranspose>
+    <stringTuningsFontSize>9</stringTuningsFontSize>
     <harpPedalDiagramFontFace>Edwin</harpPedalDiagramFontFace>
     <harpPedalDiagramFontSize>10</harpPedalDiagramFontSize>
     <harpPedalDiagramLineSpacing>1</harpPedalDiagramLineSpacing>
@@ -1041,6 +1050,8 @@
     <glissandoFrameBgColor r="255" g="255" b="255" a="0"/>
     <glissandoLineWidth>0.15</glissandoLineWidth>
     <glissandoText>gliss.</glissandoText>
+    <glissandoStyle>0</glissandoStyle>
+    <glissandoStyleHarp>3</glissandoStyleHarp>
     <bendFontFace>Edwin</bendFontFace>
     <bendFontSize>8</bendFontSize>
     <bendLineSpacing>1</bendLineSpacing>
@@ -1057,6 +1068,14 @@
     <bendFrameBgColor r="255" g="255" b="255" a="0"/>
     <bendLineWidth>0.15</bendLineWidth>
     <bendArrowWidth>0.5</bendArrowWidth>
+    <guitarBendLineWidth>0.13</guitarBendLineWidth>
+    <guitarBendLineWidthTab>0.15</guitarBendLineWidthTab>
+    <guitarBendHeightAboveTABStaff>1.5</guitarBendHeightAboveTABStaff>
+    <guitarBendPartialBendHeight>1.5</guitarBendPartialBendHeight>
+    <guitarBendUseFull>0</guitarBendUseFull>
+    <guitarBendArrowWidth>1</guitarBendArrowWidth>
+    <guitarBendArrowHeight>1</guitarBendArrowHeight>
+    <useCueSizeFretForGraceBends>0</useCueSizeFretForGraceBends>
     <headerFontFace>Edwin</headerFontFace>
     <headerFontSize>11</headerFontSize>
     <headerLineSpacing>1</headerLineSpacing>
@@ -1412,6 +1431,9 @@
     <wahShowTabCommon>1</wahShowTabCommon>
     <golpeShowTabSimple>1</golpeShowTabSimple>
     <golpeShowTabCommon>1</golpeShowTabCommon>
+    <tabShowTiedFret>0</tabShowTiedFret>
+    <tabParenthesizeTiedFret>0</tabParenthesizeTiedFret>
+    <parenthesizeTiedFretIfArticulation>1</parenthesizeTiedFretIfArticulation>
     <chordlineThickness>0.16</chordlineThickness>
     <autoplaceEnabled>1</autoplaceEnabled>
     <defaultsVersion>410</defaultsVersion>
