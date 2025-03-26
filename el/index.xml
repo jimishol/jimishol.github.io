@@ -6,15 +6,8 @@
     <description>Recent content in Εν τη προαιρέσει η μοχθηρία και το αδικείν on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>el</language>
-    <lastBuildDate>Wed, 26 Mar 2025 08:43:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
     <atom:link href="https://jimishol.github.io/el/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Σκάκι: Συνέπεια πεποιθήσεων στις αντιστροφές</title>
-      <link>https://jimishol.github.io/el/post/chess_transposition/</link>
-      <pubDate>Wed, 26 Mar 2025 08:43:21 +0200</pubDate>
-      <guid>https://jimishol.github.io/el/post/chess_transposition/</guid>
-      <description>{{ transform.ToMath &amp;ldquo;c = \pm\sqrt{a^2 + b^2}&amp;rdquo; }} $$E=mc^2$$&#xA;$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$&#xA;$$ \int_a^b f(x) ,dx = F(b) - F(a) $$&#xA;Ο κύκλος των πέμπτων </description>
-    </item>
     <item>
       <title>Δομή τονικότητας στην μουσική</title>
       <link>https://jimishol.github.io/el/post/tonality/</link>
