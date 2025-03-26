@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics on jimishol&#39;s website</title>
-    <link>https://jimishol.github.io/tags/mathematics/</link>
+    <link>http://localhost:1313/tags/mathematics/</link>
     <description>Recent content in Mathematics on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
-    <atom:link href="https://jimishol.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tonality structure in music</title>
-      <link>https://jimishol.github.io/post/tonality/</link>
+      <link>http://localhost:1313/post/tonality/</link>
       <pubDate>Fri, 12 Apr 2024 00:21:00 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/tonality/</guid>
+      <guid>http://localhost:1313/post/tonality/</guid>
       <description>The systematic recording of thoughts on musical harmony led to the placement of the twelve musical tones on a constructible three-dimensional surface of an umbilic torus. To this visualized link of mathematics and music I gave the personal name Cholidean harmony structure.&#xA;The course of creation of the above link is recorded in pdf file. The broader background to its creation is set out at the beginning of this discussion.</description>
     </item>
     <item>
       <title>The polyhedron with the minimum of vertices, which considers itself a doughnut</title>
-      <link>https://jimishol.github.io/post/pyramid-torus/</link>
+      <link>http://localhost:1313/post/pyramid-torus/</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://jimishol.github.io/post/pyramid-torus/</guid>
+      <guid>http://localhost:1313/post/pyramid-torus/</guid>
       <description>Photo of paper Császár polyhedron Paper cut unfold of a Császár polyhedron The article is about Császár polyhedron.&#xA;(Its dual is the Szilassi polyhedron).&#xA;Tutorial I was never able to construct Szilassi by myself, but there it follows how i constructed Császár polyhedron.&#xA;Algebraic start The Euler characteristic X of a torus is zero.&#xA;So our torus has V-E+F=0, where V=vertices, E=edges and F=faces.&#xA;We can assume all faces are triangles.</description>
     </item>
   </channel>

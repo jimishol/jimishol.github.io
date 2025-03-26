@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics on jimishol&#39;s website</title>
-    <link>https://jimishol.github.io/el/tags/mathematics/</link>
+    <link>http://localhost:1313/el/tags/mathematics/</link>
     <description>Recent content in Mathematics on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>el</language>
     <lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
-    <atom:link href="https://jimishol.github.io/el/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/el/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Δομή τονικότητας στην μουσική</title>
-      <link>https://jimishol.github.io/el/post/tonality/</link>
+      <link>http://localhost:1313/el/post/tonality/</link>
       <pubDate>Fri, 12 Apr 2024 00:21:00 +0300</pubDate>
-      <guid>https://jimishol.github.io/el/post/tonality/</guid>
+      <guid>http://localhost:1313/el/post/tonality/</guid>
       <description>Η συστηματική καταγραφή σκέψεων, επί της μουσικής αρμονίας, οδήγησε στην τοποθέτηση των δώδεκα μουσικών τόνων επί κατασκευάσιμης τρισδιάστατης επιφάνειας ομφαλικού δακτυλίου. Σε αυτήν την οπτικοποιημένη ζεύξη μαθηματικών και μουσικής έδωσα την προσωπική ονομασία Χωλίδειος αρμονική δομή.&#xA;Η πορεία δημιουργίας της ως άνω ζεύξης καταγράφεται σε αρχείο pdf. Το ευρύτερο πλαίσιο της δημιουργίας της αναφέρεται στην αρχή αυτής της συζήτησης.&#xA;Παραθέτω αποσπάσματα της εισαγωγής και του επιλόγου, το ηχητικό περιεχόμενο, καθώς και τις κύριες εικόνες του αρχείου.</description>
     </item>
   </channel>
