@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://jimishol.github.io/en/sitemap.xml</loc>
     
       <lastmod>2024-04-12T00:21:00+03:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/el/sitemap.xml</loc>
+    <loc>https://jimishol.github.io/el/sitemap.xml</loc>
     
       <lastmod>2025-03-26T08:43:21+02:00</lastmod>
     

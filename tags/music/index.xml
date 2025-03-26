@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on jimishol&#39;s website</title>
-    <link>http://localhost:1313/tags/music/</link>
+    <link>https://jimishol.github.io/tags/music/</link>
     <description>Recent content in Music on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimishol.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tonality structure in music</title>
-      <link>http://localhost:1313/post/tonality/</link>
+      <link>https://jimishol.github.io/post/tonality/</link>
       <pubDate>Fri, 12 Apr 2024 00:21:00 +0300</pubDate>
-      <guid>http://localhost:1313/post/tonality/</guid>
+      <guid>https://jimishol.github.io/post/tonality/</guid>
       <description>The systematic recording of thoughts on musical harmony led to the placement of the twelve musical tones on a constructible three-dimensional surface of an umbilic torus. To this visualized link of mathematics and music I gave the personal name Cholidean harmony structure.&#xA;The course of creation of the above link is recorded in pdf file. The broader background to its creation is set out at the beginning of this discussion.</description>
     </item>
     <item>
       <title>Autobiographical sonata</title>
-      <link>http://localhost:1313/post/young_and_confused/</link>
+      <link>https://jimishol.github.io/post/young_and_confused/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/young_and_confused/</guid>
+      <guid>https://jimishol.github.io/post/young_and_confused/</guid>
       <description>About three and a half decades ago, before the advent of computers, I played classical guitar. At some point I wanted to express myself and, after buying and studying a book of harmony, I composed a piece. Because of its unusual chords, however, I had difficulty keeping the tempo. Then came computers with DOS and probably with the first windows, I was introduced to midi. The piece, after several attempts and separating the voices into instruments, somehow managed to be heard.</description>
     </item>
     <item>
       <title>Meet the musical intervals and the Neo-Riemannian moves, through an analogue clock.</title>
-      <link>http://localhost:1313/post/music_intervals/</link>
+      <link>https://jimishol.github.io/post/music_intervals/</link>
       <pubDate>Sat, 01 Jul 2023 23:16:09 +0300</pubDate>
-      <guid>http://localhost:1313/post/music_intervals/</guid>
+      <guid>https://jimishol.github.io/post/music_intervals/</guid>
       <description>After circle of fifths and diatonics, continuing to read about fundamentals of music theory, I find that the music clock can help in easily identifying the intervals of common musical terminology. Our music clock Terminology A musical interval, as the difference between two pitches, can be defined in an absolute way as the number of semitones that separate them. But the total number of semitones of an octave is 12, while the notes of a scale are 7.</description>
     </item>
     <item>
       <title>Meet diatonic scales in music, through an analogue clock</title>
-      <link>http://localhost:1313/post/diatonic/</link>
+      <link>https://jimishol.github.io/post/diatonic/</link>
       <pubDate>Mon, 26 Jun 2023 21:48:06 +0300</pubDate>
-      <guid>http://localhost:1313/post/diatonic/</guid>
+      <guid>https://jimishol.github.io/post/diatonic/</guid>
       <description>The A minor scale is related to C major, in that they share the same, empty, key signature. These scales are two different sevenths of white keys on the piano. Because the notes are repeated in octaves, there could be five other different sets of white keys, that is with the same, blank, signature, defining different tonalities. I understood that, in the most, the two mentioned above were imposed, but I always wondered about the other, blank-signed, scales.</description>
     </item>
     <item>
       <title>Circle of fifths in music, through an analog clock</title>
-      <link>http://localhost:1313/post/circle_of_fifths/</link>
+      <link>https://jimishol.github.io/post/circle_of_fifths/</link>
       <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
-      <guid>http://localhost:1313/post/circle_of_fifths/</guid>
+      <guid>https://jimishol.github.io/post/circle_of_fifths/</guid>
       <description>In my youth I studied classical guitar. I read a lot of sheet music and knew how to use key signatures. But I&amp;rsquo;ve never been able to identify, at a glance, the major or minor scale pair that defines a, non-trivial, signature. I thought this ability belonged only to very experienced musicians. A few days ago, I realized that I was completely wrong. Identifying the pair of scales that defines a key signature is as easy as using a wristwatch.</description>
     </item>
   </channel>
