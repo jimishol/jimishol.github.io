@@ -51,6 +51,14 @@
   <meta name="twitter:description" content="How I did it">
 
 	
+    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+    };
+</script>
   </head>
 
   <body class="ma0 avenir bg-black">
@@ -170,7 +178,7 @@
     <div class="nested-copy-line-height lh-copy serif f4 nested-links white pr4-l w-two-thirds-l"><p>For linux users it seems pretty easy and natural to let scid chess databases, on low CPU and RAM devices, to use stockfish chess engine that runs on a more powerful server.<br>
 We start by installing stockfish onto our most powerful machine.<br>
 In my case a desktop with 32G RAM and 8 CPU cores with 2 threads per core, that means 16 threads.</p>
-<h1 id="stockfish-server-p">Stockfish server <!-- raw HTML omitted --></h1>
+<h1 id="stockfish-server-p">Stockfish server </p></h1>
 <p>The chess engine will run only when the user is logged in.
 So, in ~/.local/share/systemd/user/ directory, we create two stockfish files</p>
 <p>~/.local/share/systemd/user/stockfish.socket</p>
@@ -181,20 +189,20 @@ ListenStream=8123<br>
 Accept=yes<br>
 CollectMode=failed<br>
 [Install]<br>
-WantedBy=sockets.target <!-- raw HTML omitted -->
+WantedBy=sockets.target </p>
 and same service file</p>
 <p>~/.local/share/systemd/user/stockfish@.service</p>
 <p>[Unit]<br>
 Description=Stockfish Engine Chess<br>
 [Service]<br>
 ExecStart=/usr/bin/stockfish<br>
-StandardInput=socket<!-- raw HTML omitted --></p>
+StandardInput=socket</p></p>
 <p>We enable stockfish socket by<br>
 systemctl &ndash;user enable stockfish.socket<br>
 and reboot or<br>
 systemctl &ndash;user start stockfish.socket</p>
 <p>Now, whenever user is logged in and a client, as scid or droidfish, communicates on 8123 port, stockfish engine starts to run.</p>
-<h2 id="ssh-port-forward-p">SSH port forward <!-- raw HTML omitted --></h2>
+<h2 id="ssh-port-forward-p">SSH port forward </p></h2>
 <p>My router can handle 16 ports and somehow i already covered all of them. So, either on my laptop (by terminal) or my mobile android phone (by termux), <strong>before starting using the stockfish engine</strong>, i forward my desktop 8123 port to them by the terminal command</p>
 <p>ssh my_user@stocfish_running_engine_ip -L 8123:localhost:8123</p>
 <p>Now, either my phone or my laptop can communicate with their (localhost) 8123 port and start using the stockfish engine that runs on my desktop.</p>
