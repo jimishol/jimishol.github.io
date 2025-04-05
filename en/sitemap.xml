@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jimishol.github.io/post/chess_transposition/</loc>
+    <lastmod>2025-03-26T08:43:21+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/post/chess_transposition/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/post/chess_transposition/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/tags/games/</loc>
+    <lastmod>2025-03-26T08:43:21+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/tags/games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/games/"
+                />
+  </url><url>
     <loc>https://jimishol.github.io/</loc>
-    <lastmod>2024-04-12T00:21:00+03:00</lastmod>
+    <lastmod>2025-03-26T08:43:21+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +45,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jimishol.github.io/"
+                />
+  </url><url>
+    <loc>https://jimishol.github.io/tags/</loc>
+    <lastmod>2025-03-26T08:43:21+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="el"
+                href="https://jimishol.github.io/el/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jimishol.github.io/tags/"
                 />
   </url><url>
     <loc>https://jimishol.github.io/tags/mathematics/</loc>
@@ -45,21 +90,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jimishol.github.io/tags/music/"
-                />
-  </url><url>
-    <loc>https://jimishol.github.io/tags/</loc>
-    <lastmod>2024-04-12T00:21:00+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://jimishol.github.io/el/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jimishol.github.io/tags/"
                 />
   </url><url>
     <loc>https://jimishol.github.io/post/tonality/</loc>
@@ -200,21 +230,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jimishol.github.io/post/like-book/"
-                />
-  </url><url>
-    <loc>https://jimishol.github.io/tags/games/</loc>
-    <lastmod>2023-04-27T22:56:34+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="el"
-                href="https://jimishol.github.io/el/tags/games/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jimishol.github.io/tags/games/"
                 />
   </url><url>
     <loc>https://jimishol.github.io/post/dark_theme/</loc>

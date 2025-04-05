@@ -6,8 +6,15 @@
     <description>Recent content in Games on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Apr 2023 22:56:34 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 08:43:21 +0200</lastBuildDate>
     <atom:link href="https://jimishol.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chess: Consistency of beliefs in transpositions</title>
+      <link>https://jimishol.github.io/post/chess_transposition/</link>
+      <pubDate>Wed, 26 Mar 2025 08:43:21 +0200</pubDate>
+      <guid>https://jimishol.github.io/post/chess_transposition/</guid>
+      <description>Strategy against the game. For too long I was playing games against the game itself. That is, I believed that, objectively and regardless of the opponent, there is an optimal strategy by which victory is achieved. The point, whether in a study or in a match, was to find that strategy. This view created great pressure to find an optimal move and, at the same time, undue frustration when any positional advantage could not be realized.</description>
+    </item>
     <item>
       <title>As a Book for bridge card game</title>
       <link>https://jimishol.github.io/post/like-book/</link>

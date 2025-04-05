@@ -6,8 +6,15 @@
     <description>Recent content in Άρθρα on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>el</language>
-    <lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 08:43:21 +0200</lastBuildDate>
     <atom:link href="https://jimishol.github.io/el/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Σκάκι: Συνέπεια πεποιθήσεων στις εναλλακτικές μεταβάσεις</title>
+      <link>https://jimishol.github.io/el/post/chess_transposition/</link>
+      <pubDate>Wed, 26 Mar 2025 08:43:21 +0200</pubDate>
+      <guid>https://jimishol.github.io/el/post/chess_transposition/</guid>
+      <description>Στρατηγική εναντίον του παιγνιδιού. Για υπερβολικά μεγάλο χρονικό διάστημα έπαιζα παρτίδες εναντίον του ιδίου του παιγνιδιού. Θεωρούσα δηλαδή ότι, αντικειμενικά και ανεξαρτήτως αντιπάλου, υπάρχει βέλτιστη στρατηγική δια της οποίας επιτυγχάνεται νίκη. Το ζητούμενο, είτε σε μελέτη είτε σε αγώνα, ήταν να βρεθεί αυτή η στρατηγική. Αυτή η θεώρηση δημιουργούσε μεγάλη πίεση για εύρεση βέλτιστης κίνησης και συγχρόνως αδικαιολόγητη απογοήτευση όταν ένα όποιο πλεονέκτημα θέσης δεν ήταν δυνατόν να υλοποιηθεί.&#xA;Όταν κάποιος υπερυπολογιστής λύσει το παιγνίδι, κάθε θέση θα μπορεί να αντιστοιχηθεί στους αριθμούς {-1, 0, 1} ανάλογα με το αποτέλεσμα στο οποίο θα καταλήγει το βέλτιστο παίξιμο και των δύο πλευρών.</description>
+    </item>
     <item>
       <title>Δομή τονικότητας στην μουσική</title>
       <link>https://jimishol.github.io/el/post/tonality/</link>
