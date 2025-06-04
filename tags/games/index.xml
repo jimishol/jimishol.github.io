@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on jimishol&#39;s website</title>
-    <link>https://jimishol.github.io/tags/games/</link>
+    <link>http://localhost:1313/tags/games/</link>
     <description>Recent content in Games on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 26 Mar 2025 08:43:21 +0200</lastBuildDate>
-    <atom:link href="https://jimishol.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chess: Consistency of beliefs in transpositions</title>
-      <link>https://jimishol.github.io/post/chess_transposition/</link>
+      <link>http://localhost:1313/post/chess_transposition/</link>
       <pubDate>Wed, 26 Mar 2025 08:43:21 +0200</pubDate>
-      <guid>https://jimishol.github.io/post/chess_transposition/</guid>
-      <description>Strategy against the game. For too long I was playing games against the game itself. That is, I believed that, objectively and regardless of the opponent, there is an optimal strategy by which victory is achieved. The point, whether in a study or in a match, was to find that strategy. This view created great pressure to find an optimal move and, at the same time, undue frustration when any positional advantage could not be realized.</description>
+      <guid>http://localhost:1313/post/chess_transposition/</guid>
+      <description>&lt;h2 id=&#34;strategy-against-the-game&#34;&gt;Strategy against the game.&lt;/h2&gt;&#xA;&lt;p&gt;For too long I was playing games against the game itself. That is, I believed that, objectively and regardless of the opponent, there is an optimal strategy by which victory is achieved. The point, whether in a study or in a match, was to find that strategy. This view created great pressure to find an optimal move and, at the same time, undue frustration when any positional advantage could not be realized.&lt;/p&gt;</description>
     </item>
     <item>
       <title>As a Book for bridge card game</title>
-      <link>https://jimishol.github.io/post/like-book/</link>
+      <link>http://localhost:1313/post/like-book/</link>
       <pubDate>Thu, 27 Apr 2023 22:56:34 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/like-book/</guid>
-      <description>&amp;ldquo;Once in a blue moon an idea sweeps through the bridge world and revolutionises thinking. The so-called Law of Total Tricks is so accurate in assessing potential in the contested auction and so easy to use (meaning in the book) that it is being introduced early and used to justify many subsequent bidding decisions.&amp;rdquo;&#xA;From the book &amp;ldquo;Understanding the contested auction&amp;rdquo; of Ron Klinger and Andrew Kambites.&#xA;Once upon a time, I was playing bridge.</description>
+      <guid>http://localhost:1313/post/like-book/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Once in a blue moon an idea sweeps through the bridge world and revolutionises thinking. The so-called &lt;em&gt;Law of Total Tricks&lt;/em&gt; is so accurate in assessing potential in the contested auction and so easy to use &lt;em&gt;(meaning in the book)&lt;/em&gt; that it is being introduced early and used to justify many subsequent bidding decisions.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;From the book &amp;ldquo;Understanding the contested auction&amp;rdquo; of Ron Klinger and Andrew Kambites.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Once upon a time, I was playing bridge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stockfish Chess Engine Server</title>
-      <link>https://jimishol.github.io/post/stockfish/</link>
+      <link>http://localhost:1313/post/stockfish/</link>
       <pubDate>Mon, 24 Apr 2023 21:12:52 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/stockfish/</guid>
-      <description>For linux users it seems pretty easy and natural to let scid chess databases, on low CPU and RAM devices, to use stockfish chess engine that runs on a more powerful server.&#xA;We start by installing stockfish onto our most powerful machine.&#xA;In my case a desktop with 32G RAM and 8 CPU cores with 2 threads per core, that means 16 threads.&#xA;Stockfish server The chess engine will run only when the user is logged in.</description>
+      <guid>http://localhost:1313/post/stockfish/</guid>
+      <description>&lt;p&gt;For linux users it seems pretty easy and natural to let scid chess databases, on low CPU and RAM devices, to use stockfish chess engine that runs on a more powerful server.&lt;br&gt;&#xA;We start by installing stockfish onto our most powerful machine.&lt;br&gt;&#xA;In my case a desktop with 32G RAM and 8 CPU cores with 2 threads per core, that means 16 threads.&lt;/p&gt;&#xA;&lt;h1 id=&#34;stockfish-server&#34;&gt;Stockfish server &lt;/p&gt;&lt;/h1&gt;&#xA;&lt;p&gt;The chess engine will run only when the user is logged in.&#xA;So, in ~/.local/share/systemd/user/ directory, we create two stockfish files&lt;/p&gt;</description>
     </item>
     <item>
       <title>Video game Pioneer analysis</title>
-      <link>https://jimishol.github.io/post/pioneer_economy/</link>
+      <link>http://localhost:1313/post/pioneer_economy/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jimishol.github.io/post/pioneer_economy/</guid>
-      <description>Years ago, got nostalgic for the time of youth and searched an old video game Elite I played on ZX Spectrum. Got upon pioneer. I loved it and tried to help in order for players to have stronger feeling of progress. I did a lengthy analysis in a relevant repository. The main idea was finally accepted, but the consequence to control the progress of player was still to come. I do not play the game any more but one great feature it has, is that supports mod.</description>
+      <guid>http://localhost:1313/post/pioneer_economy/</guid>
+      <description>&lt;p&gt;Years ago, got nostalgic for the time of youth and searched an old video game &lt;a href=&#34;https://www.mobygames.com/game/1324/elite/&#34;&gt;Elite&lt;/a&gt; I played on &lt;a href=&#34;https://en.wikipedia.org/wiki/ZX_Spectrum&#34;&gt;ZX Spectrum&lt;/a&gt;. Got upon &lt;a href=&#34;https://pioneerspacesim.net/#slide0&#34;&gt;pioneer&lt;/a&gt;. I loved it and tried to help in order for players to have stronger feeling of progress. I did a lengthy &lt;a href=&#34;https://github.com/jimishol/Pioneerspacesim_trading_economy/files/7077355/pionner-economy.pdf&#34;&gt;analysis&lt;/a&gt; in a relevant &lt;a href=&#34;https://github.com/jimishol/Pioneerspacesim_trading_economy&#34;&gt;repository&lt;/a&gt;. The main idea was finally accepted, but the consequence to control the progress of player was still to come. I do not play the game any more but one great feature it has, is that supports mod. I created one such &lt;a href=&#34;https://github.com/jimishol/Pioneerspacesim_trading_economy/tree/main/docs/economy_mod&#34;&gt;mod&lt;/a&gt; on this &lt;a href=&#34;https://github.com/jimishol/pioneer&#34;&gt;fork&lt;/a&gt;. Unfortunately, I think it does not work as it is. Probably, a git revert of few commits, at a stage where the mod was working, might needed if anyone want to try my mod.&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/in-flight-pioneer.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;screenshot&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

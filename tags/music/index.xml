@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on jimishol&#39;s website</title>
-    <link>https://jimishol.github.io/tags/music/</link>
+    <link>http://localhost:1313/tags/music/</link>
     <description>Recent content in Music on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
-    <atom:link href="https://jimishol.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tonality structure in music</title>
-      <link>https://jimishol.github.io/post/tonality/</link>
+      <link>http://localhost:1313/post/tonality/</link>
       <pubDate>Fri, 12 Apr 2024 00:21:00 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/tonality/</guid>
-      <description>The systematic recording of thoughts on musical harmony led to the placement of the twelve musical tones on a constructible three-dimensional surface of an umbilic torus. To this visualized link of mathematics and music I gave the personal name Cholidean harmony structure.&#xA;The course of creation of the above link is recorded in pdf file. The broader background to its creation is set out at the beginning of this discussion.</description>
+      <guid>http://localhost:1313/post/tonality/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The systematic recording of thoughts on musical harmony led to the placement of the twelve musical tones on a constructible three-dimensional surface of an umbilic torus. To this visualized link of mathematics and music I gave the personal name&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Cholidean harmony structure&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The course of creation of the above link is recorded in &lt;a href=&#34;http://localhost:1313/thoughts_on_harmony_en.pdf&#34;&gt;pdf file&lt;/a&gt;. The broader background to its creation is set out at the beginning of this &lt;a href=&#34;https://github.com/orgs/musescore/discussions/22922&#34;&gt;discussion&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Here are excerpts of the introduction and epilogue, the audio content, and the main images of the file.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autobiographical sonata</title>
-      <link>https://jimishol.github.io/post/young_and_confused/</link>
+      <link>http://localhost:1313/post/young_and_confused/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://jimishol.github.io/post/young_and_confused/</guid>
-      <description>About three and a half decades ago, before the advent of computers, I played classical guitar. At some point I wanted to express myself and, after buying and studying a book of harmony, I composed a piece. Because of its unusual chords, however, I had difficulty keeping the tempo. Then came computers with DOS and probably with the first windows, I was introduced to midi. The piece, after several attempts and separating the voices into instruments, somehow managed to be heard.</description>
+      <guid>http://localhost:1313/post/young_and_confused/</guid>
+      <description>&lt;p&gt;About three and a half decades ago, before the advent of computers, I played classical guitar. At some point I wanted to express myself and, after buying and studying a book of harmony, I composed a piece. Because of its unusual chords, however, I had difficulty keeping the tempo. Then came computers with DOS and probably with the first windows, I was introduced to midi. The piece, after several attempts and separating the voices into instruments, somehow managed to be heard. From then on, for more than thirty years, I was firmly convinced that I had composed something and that all that was needed was a real musician who, with minimal editing, would make it sound as it should. (What a wrong impression!)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meet the musical intervals and the Neo-Riemannian moves, through an analogue clock.</title>
-      <link>https://jimishol.github.io/post/music_intervals/</link>
+      <link>http://localhost:1313/post/music_intervals/</link>
       <pubDate>Sat, 01 Jul 2023 23:16:09 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/music_intervals/</guid>
-      <description>After circle of fifths and diatonics, continuing to read about fundamentals of music theory, I find that the music clock can help in easily identifying the intervals of common musical terminology. Our music clock Terminology A musical interval, as the difference between two pitches, can be defined in an absolute way as the number of semitones that separate them. But the total number of semitones of an octave is 12, while the notes of a scale are 7.</description>
+      <guid>http://localhost:1313/post/music_intervals/</guid>
+      <description>&lt;p&gt;After &lt;a href=&#34;https://jimishol.github.io/post/circle_of_fifths/&#34;&gt;circle of fifths&lt;/a&gt; and &lt;a href=&#34;https://jimishol.github.io/post/diatonic/&#34;&gt;diatonics&lt;/a&gt;, continuing to read about &lt;a href=&#34;https://viva.pressbooks.pub/openmusictheory/chapter/intervals/&#34;&gt;fundamentals of music theory&lt;/a&gt;, I find that the music clock can help in easily identifying the intervals of common musical terminology.&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/music-clock-sun.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Our music clock&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;terminology&#34;&gt;Terminology&lt;/h3&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;https://en.wikipedia.org/wiki/Interval_%28music%29&#34;&gt;musical interval&lt;/a&gt;, as the difference between two pitches, can be defined in an absolute way as the number of semitones that separate them. But the total number of semitones of an octave is 12, while the notes of a scale are 7. The relation of tones in a melody is necessarily expressed as the relation between the 7 tones of the scale used. Thus, to define an interval, it is necessary to use two terms. The first noun term will indicate the relationship to the 7 tones of the scale and the second, as an adjective of the first, will specify the exact interval in number of semitones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meet diatonic scales in music, through an analogue clock</title>
-      <link>https://jimishol.github.io/post/diatonic/</link>
+      <link>http://localhost:1313/post/diatonic/</link>
       <pubDate>Mon, 26 Jun 2023 21:48:06 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/diatonic/</guid>
-      <description>The A minor scale is related to C major, in that they share the same, empty, key signature. These scales are two different sevenths of white keys on the piano. Because the notes are repeated in octaves, there could be five other different sets of white keys, that is with the same, blank, signature, defining different tonalities. I understood that, in the most, the two mentioned above were imposed, but I always wondered about the other, blank-signed, scales.</description>
+      <guid>http://localhost:1313/post/diatonic/</guid>
+      <description>&lt;p&gt;The A minor scale is related to C major, in that they share the same, empty, key signature. These scales are two different sevenths of white keys on the piano. Because the notes are repeated in octaves, there could be five other different sets of white keys, that is with the same, blank, signature, defining different tonalities. I understood that, in the most, the two mentioned above were imposed, but I always wondered about the other, blank-signed, scales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Circle of fifths in music, through an analog clock</title>
-      <link>https://jimishol.github.io/post/circle_of_fifths/</link>
+      <link>http://localhost:1313/post/circle_of_fifths/</link>
       <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/circle_of_fifths/</guid>
-      <description>In my youth I studied classical guitar. I read a lot of sheet music and knew how to use key signatures. But I&amp;rsquo;ve never been able to identify, at a glance, the major or minor scale pair that defines a, non-trivial, signature. I thought this ability belonged only to very experienced musicians. A few days ago, I realized that I was completely wrong. Identifying the pair of scales that defines a key signature is as easy as using a wristwatch.</description>
+      <guid>http://localhost:1313/post/circle_of_fifths/</guid>
+      <description>&lt;p&gt;In my youth I studied classical guitar. I read a lot of sheet music and knew how to use &lt;a href=&#34;https://en.wikipedia.org/wiki/Key_signature&#34;&gt;key signatures&lt;/a&gt;. But I&amp;rsquo;ve never been able to identify, at a glance, the major or minor &lt;a href=&#34;https://en.wikipedia.org/wiki/Scale_%28music%29&#34;&gt;scale&lt;/a&gt; pair that defines a, non-trivial, signature. I thought this ability belonged only to very experienced musicians. A few days ago, I realized that I was completely wrong. Identifying the pair of scales that defines a key signature is as easy as using a wristwatch.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
