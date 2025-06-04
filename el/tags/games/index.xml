@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on jimishol&#39;s website</title>
-    <link>http://localhost:1313/el/tags/games/</link>
+    <link>https://jimishol.github.io/el/tags/games/</link>
     <description>Recent content in Games on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>el</language>
     <lastBuildDate>Wed, 26 Mar 2025 08:43:21 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/el/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimishol.github.io/el/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Σκάκι: Συνέπεια πεποιθήσεων στις εναλλακτικές μεταβάσεις</title>
-      <link>http://localhost:1313/el/post/chess_transposition/</link>
+      <link>https://jimishol.github.io/el/post/chess_transposition/</link>
       <pubDate>Wed, 26 Mar 2025 08:43:21 +0200</pubDate>
-      <guid>http://localhost:1313/el/post/chess_transposition/</guid>
+      <guid>https://jimishol.github.io/el/post/chess_transposition/</guid>
       <description>&lt;h2 id=&#34;στρατηγική-εναντίον-του-παιγνιδιού&#34;&gt;Στρατηγική εναντίον του παιγνιδιού.&lt;/h2&gt;&#xA;&lt;p&gt;Για υπερβολικά μεγάλο χρονικό διάστημα έπαιζα παρτίδες εναντίον του ιδίου του παιγνιδιού. Θεωρούσα δηλαδή ότι, αντικειμενικά και ανεξαρτήτως αντιπάλου, υπάρχει βέλτιστη στρατηγική δια της οποίας επιτυγχάνεται νίκη. Το ζητούμενο, είτε σε μελέτη είτε σε αγώνα, ήταν να βρεθεί αυτή η στρατηγική. Αυτή η θεώρηση δημιουργούσε μεγάλη πίεση για εύρεση βέλτιστης κίνησης και συγχρόνως αδικαιολόγητη απογοήτευση όταν ένα όποιο πλεονέκτημα θέσης δεν ήταν δυνατόν να υλοποιηθεί.&lt;/p&gt;&#xA;&lt;p&gt;Όταν κάποιος υπερυπολογιστής λύσει το παιγνίδι, κάθε θέση θα μπορεί να αντιστοιχηθεί στους αριθμούς {-1, 0, 1} ανάλογα με το αποτέλεσμα στο οποίο θα καταλήγει το βέλτιστο παίξιμο και των δύο πλευρών. Τότε θα υπάρχει αντικειμενική αξιολόγηση ακόμα και της αρχικής θέσης.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Σαν βιβλίο για το μπριτζ</title>
-      <link>http://localhost:1313/el/post/like-book/</link>
+      <link>https://jimishol.github.io/el/post/like-book/</link>
       <pubDate>Thu, 27 Apr 2023 22:56:34 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/like-book/</guid>
+      <guid>https://jimishol.github.io/el/post/like-book/</guid>
       <description>&lt;p&gt;&amp;ldquo;Μια φορά στο τόσο, μια ιδέα σαρώνει τον κόσμο του μπριτζ και φέρνει επανάσταση στη σκέψη. Ο λεγόμενος &lt;em&gt;Νόμος των Ολικών Μπαζών&lt;/em&gt; είναι τόσο ακριβής στην εκτίμηση των δυνατοτήτων στην ανταγωνιστική αγορά και τόσο εύκολος στη χρήση, ώστε εισάγεται &lt;em&gt;(σημ.μτφ. στο βιβλίο)&lt;/em&gt; νωρίς και χρησιμοποιείται για να δικαιολογήσει πολλές επακόλουθες αποφάσεις πλειοδοσίας.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Από το βιβλίο &amp;ldquo;Understanding the contested auction&amp;rdquo; των Ron Klinger και Andrew Kambites.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Μια φορά και έναν καιρό, έπαιζα μπριτζ.&lt;/p&gt;</description>
     </item>
   </channel>

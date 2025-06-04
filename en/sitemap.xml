@@ -2,311 +2,311 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://jimishol.github.io/post/</loc>
     <lastmod>2025-03-26T08:43:21+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/"
+                href="https://jimishol.github.io/el/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/"
+                href="https://jimishol.github.io/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/chess_transposition/</loc>
+    <loc>https://jimishol.github.io/post/chess_transposition/</loc>
     <lastmod>2025-03-26T08:43:21+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/chess_transposition/"
+                href="https://jimishol.github.io/el/post/chess_transposition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/chess_transposition/"
+                href="https://jimishol.github.io/post/chess_transposition/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/games/</loc>
+    <loc>https://jimishol.github.io/tags/games/</loc>
     <lastmod>2025-03-26T08:43:21+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/tags/games/"
+                href="https://jimishol.github.io/el/tags/games/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/games/"
+                href="https://jimishol.github.io/tags/games/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jimishol.github.io/</loc>
     <lastmod>2025-03-26T08:43:21+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/"
+                href="https://jimishol.github.io/el/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://jimishol.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jimishol.github.io/tags/</loc>
     <lastmod>2025-03-26T08:43:21+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/tags/"
+                href="https://jimishol.github.io/el/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://jimishol.github.io/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/mathematics/</loc>
+    <loc>https://jimishol.github.io/tags/mathematics/</loc>
     <lastmod>2024-04-12T00:21:00+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/tags/mathematics/"
+                href="https://jimishol.github.io/el/tags/mathematics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/mathematics/"
+                href="https://jimishol.github.io/tags/mathematics/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/music/</loc>
+    <loc>https://jimishol.github.io/tags/music/</loc>
     <lastmod>2024-04-12T00:21:00+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/tags/music/"
+                href="https://jimishol.github.io/el/tags/music/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/music/"
+                href="https://jimishol.github.io/tags/music/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/tonality/</loc>
+    <loc>https://jimishol.github.io/post/tonality/</loc>
     <lastmod>2024-04-12T00:21:00+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/tonality/"
+                href="https://jimishol.github.io/el/post/tonality/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/tonality/"
+                href="https://jimishol.github.io/post/tonality/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/configurations/</loc>
+    <loc>https://jimishol.github.io/tags/configurations/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/tags/configurations/"
+                href="https://jimishol.github.io/el/tags/configurations/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/configurations/"
+                href="https://jimishol.github.io/tags/configurations/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/librecad_greek_fonts/</loc>
+    <loc>https://jimishol.github.io/post/librecad_greek_fonts/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/librecad_greek_fonts/"
+                href="https://jimishol.github.io/el/post/librecad_greek_fonts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/librecad_greek_fonts/"
+                href="https://jimishol.github.io/post/librecad_greek_fonts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/young_and_confused/</loc>
+    <loc>https://jimishol.github.io/post/young_and_confused/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/young_and_confused/"
+                href="https://jimishol.github.io/el/post/young_and_confused/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/young_and_confused/"
+                href="https://jimishol.github.io/post/young_and_confused/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/music_intervals/</loc>
+    <loc>https://jimishol.github.io/post/music_intervals/</loc>
     <lastmod>2023-07-01T23:16:09+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/music_intervals/"
+                href="https://jimishol.github.io/el/post/music_intervals/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/music_intervals/"
+                href="https://jimishol.github.io/post/music_intervals/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/diatonic/</loc>
+    <loc>https://jimishol.github.io/post/diatonic/</loc>
     <lastmod>2023-06-26T21:48:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/diatonic/"
+                href="https://jimishol.github.io/el/post/diatonic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/diatonic/"
+                href="https://jimishol.github.io/post/diatonic/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/circle_of_fifths/</loc>
+    <loc>https://jimishol.github.io/post/circle_of_fifths/</loc>
     <lastmod>2023-06-18T16:09:06+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/circle_of_fifths/"
+                href="https://jimishol.github.io/el/post/circle_of_fifths/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/circle_of_fifths/"
+                href="https://jimishol.github.io/post/circle_of_fifths/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/game-theory/</loc>
+    <loc>https://jimishol.github.io/tags/game-theory/</loc>
     <lastmod>2023-05-09T15:19:47+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/game_theory_book/</loc>
+    <loc>https://jimishol.github.io/post/game_theory_book/</loc>
     <lastmod>2023-05-09T15:19:47+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/game_theory_book/"
+                href="https://jimishol.github.io/el/post/game_theory_book/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/game_theory_book/"
+                href="https://jimishol.github.io/post/game_theory_book/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/like-book/</loc>
+    <loc>https://jimishol.github.io/post/like-book/</loc>
     <lastmod>2023-04-27T22:56:34+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/post/like-book/"
+                href="https://jimishol.github.io/el/post/like-book/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/like-book/"
+                href="https://jimishol.github.io/post/like-book/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/dark_theme/</loc>
+    <loc>https://jimishol.github.io/post/dark_theme/</loc>
     <lastmod>2023-04-26T00:28:57+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/stockfish/</loc>
+    <loc>https://jimishol.github.io/post/stockfish/</loc>
     <lastmod>2023-04-24T21:12:52+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/pioneer_economy/</loc>
+    <loc>https://jimishol.github.io/post/pioneer_economy/</loc>
     <lastmod>2021-09-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/pyramid-torus/</loc>
+    <loc>https://jimishol.github.io/post/pyramid-torus/</loc>
     <lastmod>2014-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jimishol.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/about/"
+                href="https://jimishol.github.io/el/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://jimishol.github.io/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/autobiograpy/</loc>
+    <loc>https://jimishol.github.io/autobiograpy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/autobiograpy/"
+                href="https://jimishol.github.io/el/autobiograpy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/autobiograpy/"
+                href="https://jimishol.github.io/autobiograpy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jimishol.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="el"
-                href="http://localhost:1313/el/categories/"
+                href="https://jimishol.github.io/el/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://jimishol.github.io/categories/"
                 />
   </url>
 </urlset>

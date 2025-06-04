@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Εν τη προαιρέσει η μοχθηρία και το αδικείν on jimishol&#39;s website</title>
-    <link>http://localhost:1313/el/</link>
+    <link>https://jimishol.github.io/el/</link>
     <description>Recent content in Εν τη προαιρέσει η μοχθηρία και το αδικείν on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>el</language>
     <lastBuildDate>Wed, 26 Mar 2025 08:43:21 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/el/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimishol.github.io/el/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Σκάκι: Συνέπεια πεποιθήσεων στις εναλλακτικές μεταβάσεις</title>
-      <link>http://localhost:1313/el/post/chess_transposition/</link>
+      <link>https://jimishol.github.io/el/post/chess_transposition/</link>
       <pubDate>Wed, 26 Mar 2025 08:43:21 +0200</pubDate>
-      <guid>http://localhost:1313/el/post/chess_transposition/</guid>
+      <guid>https://jimishol.github.io/el/post/chess_transposition/</guid>
       <description>&lt;h2 id=&#34;στρατηγική-εναντίον-του-παιγνιδιού&#34;&gt;Στρατηγική εναντίον του παιγνιδιού.&lt;/h2&gt;&#xA;&lt;p&gt;Για υπερβολικά μεγάλο χρονικό διάστημα έπαιζα παρτίδες εναντίον του ιδίου του παιγνιδιού. Θεωρούσα δηλαδή ότι, αντικειμενικά και ανεξαρτήτως αντιπάλου, υπάρχει βέλτιστη στρατηγική δια της οποίας επιτυγχάνεται νίκη. Το ζητούμενο, είτε σε μελέτη είτε σε αγώνα, ήταν να βρεθεί αυτή η στρατηγική. Αυτή η θεώρηση δημιουργούσε μεγάλη πίεση για εύρεση βέλτιστης κίνησης και συγχρόνως αδικαιολόγητη απογοήτευση όταν ένα όποιο πλεονέκτημα θέσης δεν ήταν δυνατόν να υλοποιηθεί.&lt;/p&gt;&#xA;&lt;p&gt;Όταν κάποιος υπερυπολογιστής λύσει το παιγνίδι, κάθε θέση θα μπορεί να αντιστοιχηθεί στους αριθμούς {-1, 0, 1} ανάλογα με το αποτέλεσμα στο οποίο θα καταλήγει το βέλτιστο παίξιμο και των δύο πλευρών. Τότε θα υπάρχει αντικειμενική αξιολόγηση ακόμα και της αρχικής θέσης.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Δομή τονικότητας στην μουσική</title>
-      <link>http://localhost:1313/el/post/tonality/</link>
+      <link>https://jimishol.github.io/el/post/tonality/</link>
       <pubDate>Fri, 12 Apr 2024 00:21:00 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/tonality/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Η συστηματική καταγραφή σκέψεων, επί της μουσικής αρμονίας, οδήγησε στην τοποθέτηση των δώδεκα μουσικών τόνων επί κατασκευάσιμης τρισδιάστατης επιφάνειας ομφαλικού δακτυλίου. Σε αυτήν την οπτικοποιημένη ζεύξη μαθηματικών και μουσικής έδωσα την προσωπική ονομασία&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Χωλίδειος αρμονική δομή&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Η πορεία δημιουργίας της ως άνω ζεύξης καταγράφεται σε &lt;a href=&#34;http://localhost:1313/thoughts_on_harmony.pdf&#34;&gt;αρχείο pdf&lt;/a&gt;. Το ευρύτερο πλαίσιο της δημιουργίας της αναφέρεται στην αρχή αυτής της &lt;a href=&#34;https://github.com/orgs/musescore/discussions/22922&#34;&gt;συζήτησης&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Παραθέτω αποσπάσματα της εισαγωγής και του επιλόγου, το ηχητικό περιεχόμενο, καθώς και τις κύριες εικόνες του αρχείου.&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/el/post/tonality/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Η συστηματική καταγραφή σκέψεων, επί της μουσικής αρμονίας, οδήγησε στην τοποθέτηση των δώδεκα μουσικών τόνων επί κατασκευάσιμης τρισδιάστατης επιφάνειας ομφαλικού δακτυλίου. Σε αυτήν την οπτικοποιημένη ζεύξη μαθηματικών και μουσικής έδωσα την προσωπική ονομασία&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Χωλίδειος αρμονική δομή&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Η πορεία δημιουργίας της ως άνω ζεύξης καταγράφεται σε &lt;a href=&#34;https://jimishol.github.io/thoughts_on_harmony.pdf&#34;&gt;αρχείο pdf&lt;/a&gt;. Το ευρύτερο πλαίσιο της δημιουργίας της αναφέρεται στην αρχή αυτής της &lt;a href=&#34;https://github.com/orgs/musescore/discussions/22922&#34;&gt;συζήτησης&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Παραθέτω αποσπάσματα της εισαγωγής και του επιλόγου, το ηχητικό περιεχόμενο, καθώς και τις κύριες εικόνες του αρχείου.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ελληνικοί χαρακτήρες στο σχεδιαστικό πρόγραμμα librecad</title>
-      <link>http://localhost:1313/el/post/librecad_greek_fonts/</link>
+      <link>https://jimishol.github.io/el/post/librecad_greek_fonts/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/post/librecad_greek_fonts/</guid>
+      <guid>https://jimishol.github.io/el/post/librecad_greek_fonts/</guid>
       <description>&lt;p&gt;Κάποτε, όταν εργαζόμουν, χρησιμοποιούσα το &lt;a href=&#34;https://librecad.org/&#34;&gt;librcad&lt;/a&gt;. Όταν το πρωτοχρησιμοποίησα, είχα δυσκολίες με την εκτύπωση ελληνικού κειμένου στα σχέδια. Δεν χρειάζομαι πια το librecad, αλλά το έτρεξα πρόσφατα, από περιέργεια να δω αν τα ελληνικά είναι πια ενσωματωμένα. Παρά την ύπαρξη έξι ελληνικών γραμματοσειρών, δεν μπόρεσα να γράψω ελληνικά με άνεση (τουλάχιστον με την εντολή MText).&lt;/p&gt;&#xA;&lt;p&gt;Σε μια &lt;a href=&#34;https://forum.librecad.org/greek-fonts-large-file-from-dwg-to-librecad-td5714230.html&#34;&gt;δημοσίευσή μου&lt;/a&gt;, είχα αναφέρει ότι, για να λύσω το πρόβλημα, αναδιοργάνωσα το greeks.lff για να βάλω τους χαρακτήρες στα κατάλληλα, για σήμερα, πλήκτρα του πληκτρολογίου και σχεδίασα και ένα τελικό &amp;lsquo;ς&amp;rsquo;. Το τροποποιημένο αρχείο το ονόμασα greeks-mine.lff. Επίσης, για να έχω τα ελληνικά στο unicode συγχώνευσα το greeks-mine.lff στο unicode.lff και πρόσθεσα τα φωνήεντα με τόνους. Αυτό το τροποποιημένο αρχείο το ονόμασα unicode-mine.lff. Δεν γνωρίζω αν υπάρχει πρόβλημα αδειών, όπως αναφέρεται σε άλλη &lt;a href=&#34;https://forum.librecad.org/Insert-text-in-greek-language-td5717563.html&#34;&gt;δημοσίευση&lt;/a&gt;, αλλά οι γραμματοσειρές μου δουλεύουν άψογα ακόμα και σήμερα.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Αυτοβιογραφική σονάτα</title>
-      <link>http://localhost:1313/el/post/young_and_confused/</link>
+      <link>https://jimishol.github.io/el/post/young_and_confused/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/post/young_and_confused/</guid>
+      <guid>https://jimishol.github.io/el/post/young_and_confused/</guid>
       <description>&lt;p&gt;Πριν από περίπου τρεισήμισι δεκαετίες, προ της εμφάνισης των υπολογιστών, έπαιζα κλασική κιθάρα. Σε κάποια στιγμή θέλησα να εκφραστώ και, αφού αγόρασα και μελέτησα ένα βιβλίο αρμονίας, συνέθεσα ένα κομμάτι. Λόγω των ασυνήθιστων συγχορδιών του όμως, δυσκολευόμουν να κρατήσω το τέμπο. Μετά ήρθαν οι υπολογιστές με DOS και πιθανώς με τα πρώτα windows, γνώρισα τα midi. Το κομμάτι, μετά από αρκετές προσπάθειες και διαχωρισμό των φωνών σε όργανα, κάπως κατάφερνε να ακουστεί. Από τότε, για τριάντα και πλέον χρόνια, είχα εδραιωμένη την πεποίθηση ότι είχα συνθέσει κάτι και ότι χρειαζόταν απλώς ένας πραγματικός μουσικός, που με ελάχιστη επιμέλεια θα το έκανε να ακουστεί καθώς πρέπει. (Κούνια που με κούναγε!)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Στιγμές καλλιτεχνικής δημιουργίας που μας λείπουν, με τον Georgio Gaber.</title>
-      <link>http://localhost:1313/el/post/georgio_gabel/</link>
+      <link>https://jimishol.github.io/el/post/georgio_gabel/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/post/georgio_gabel/</guid>
+      <guid>https://jimishol.github.io/el/post/georgio_gabel/</guid>
       <description>&lt;p&gt;Σήμερα ψάχνοντας για ιταλικό τραγούδι, έπεσα ξανά πάνω στον &lt;a href=&#34;https://en.wikipedia.org/wiki/Giorgio_Gaber&#34;&gt;Giorgio Gaber&lt;/a&gt;. Τον είχα προσέξει στο παρελθόν αλλά πρώτη φορά τον ξαναπρόσεξα μετά την μελέτη της &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1_%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD&#34;&gt;θεωρίας παιγνίων&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Αυτήν την φορά εξεπλάγην με το πως, με καλλιτεχνικό τρόπο, στο &lt;a href=&#34;https://www.youtube.com/watch?v=jHY0YBw3-nA&#34;&gt;Democracy&lt;/a&gt; διατυπώνεται ακριβώς το ίδιο επιχείρημα με αυτό των σελίδων 5-6 του pdf &lt;a href=&#34;https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/&#34;&gt;αυτής της σελίδας&lt;/a&gt;. Είναι το ίδιο επιχείρημα που χρησιμοποιείται και στον &lt;a href=&#34;https://jimishol.github.io/el/post/ekloges/&#34;&gt;αλγόριθμο του ψηφοφόρου&lt;/a&gt;, ώστε, στο τέλος, να εξαχθεί το συμπέρασμα της σύγκλισης του νοήματος των εκλογών.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Γνωρίστε τα μουσικά διαστήματα και τις Neo-Riemannian κινήσεις, μέσω ενός αναλογικού ρολογιού</title>
-      <link>http://localhost:1313/el/post/music_intervals/</link>
+      <link>https://jimishol.github.io/el/post/music_intervals/</link>
       <pubDate>Sat, 01 Jul 2023 07:40:34 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/music_intervals/</guid>
-      <description>&lt;p&gt;Μετά τον &lt;a href=&#34;https://jimishol.github.io/el/post/circle_of_fifths_el/&#34;&gt;κύκλο των πέμπτων&lt;/a&gt; και τις &lt;a href=&#34;https://jimishol.github.io/el/post/diatonic_el/&#34;&gt;διατονικές&lt;/a&gt;, συνεχίζοντας να διαβάζω για τα &lt;a href=&#34;https://viva.pressbooks.pub/openmusictheory/chapter/intervals/&#34;&gt;θεμελιώδη της μουσικής θεωρίας&lt;/a&gt;, διαπιστώνω ότι το μουσικό ρολόι μπορεί να βοηθήσει στην εύκολη αναγνώριση των διαστημάτων της συνήθους μουσικής ορολογίας.&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/music-clock-sun.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Το μουσικό ρολόι μας&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;μουσικά-διαστήματα&#34;&gt;Μουσικά διαστήματα&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ορολογία&#34;&gt;Ορολογία&lt;/h3&gt;&#xA;&lt;p&gt;Ένα &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1_%28%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE%29&#34;&gt;μουσικό διάστημα&lt;/a&gt;, ως η διαφορά ανάμεσα σε δύο τονικά ύψη, μπορεί να οριστεί με απόλυτο τρόπο σαν το πλήθος των ημιτονίων που τα χωρίζουν. Το σύνολο όμως των ημιτονίων μιας οκτάβας είναι 12, ενώ οι νότες μιας κλίμακας 7. Η σχέση των τόνων σε μια μελωδία είναι αναγκαίο να εκφραστεί σαν σχέση μεταξύ των 7 τόνων της κλίμακας που χρησιμοποιείται. Έτσι, για τον καθορισμό ενός διαστήματος, είναι αναγκαίο να χρησιμοποιηθούν δύο όροι. Ο πρώτος ουσιαστικός όρος θα δείχνει την σχέση με τους 7 τόνους της κλίμακας και ο δεύτερος, ως επίθετο του πρώτου, θα προσδιορίζει το ακριβές διάστημα σε πλήθος ημιτονίων.&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/el/post/music_intervals/</guid>
+      <description>&lt;p&gt;Μετά τον &lt;a href=&#34;https://jimishol.github.io/el/post/circle_of_fifths_el/&#34;&gt;κύκλο των πέμπτων&lt;/a&gt; και τις &lt;a href=&#34;https://jimishol.github.io/el/post/diatonic_el/&#34;&gt;διατονικές&lt;/a&gt;, συνεχίζοντας να διαβάζω για τα &lt;a href=&#34;https://viva.pressbooks.pub/openmusictheory/chapter/intervals/&#34;&gt;θεμελιώδη της μουσικής θεωρίας&lt;/a&gt;, διαπιστώνω ότι το μουσικό ρολόι μπορεί να βοηθήσει στην εύκολη αναγνώριση των διαστημάτων της συνήθους μουσικής ορολογίας.&#xA;&lt;figure&gt;&lt;img src=&#34;https://jimishol.github.io/images/music-clock-sun.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Το μουσικό ρολόι μας&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;μουσικά-διαστήματα&#34;&gt;Μουσικά διαστήματα&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ορολογία&#34;&gt;Ορολογία&lt;/h3&gt;&#xA;&lt;p&gt;Ένα &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1_%28%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE%29&#34;&gt;μουσικό διάστημα&lt;/a&gt;, ως η διαφορά ανάμεσα σε δύο τονικά ύψη, μπορεί να οριστεί με απόλυτο τρόπο σαν το πλήθος των ημιτονίων που τα χωρίζουν. Το σύνολο όμως των ημιτονίων μιας οκτάβας είναι 12, ενώ οι νότες μιας κλίμακας 7. Η σχέση των τόνων σε μια μελωδία είναι αναγκαίο να εκφραστεί σαν σχέση μεταξύ των 7 τόνων της κλίμακας που χρησιμοποιείται. Έτσι, για τον καθορισμό ενός διαστήματος, είναι αναγκαίο να χρησιμοποιηθούν δύο όροι. Ο πρώτος ουσιαστικός όρος θα δείχνει την σχέση με τους 7 τόνους της κλίμακας και ο δεύτερος, ως επίθετο του πρώτου, θα προσδιορίζει το ακριβές διάστημα σε πλήθος ημιτονίων.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Γνωρίστε τις διατονικές κλίμακες στη μουσική, μέσω ενός αναλογικού ρολογιού</title>
-      <link>http://localhost:1313/el/post/diatonic/</link>
+      <link>https://jimishol.github.io/el/post/diatonic/</link>
       <pubDate>Mon, 26 Jun 2023 21:48:06 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/diatonic/</guid>
+      <guid>https://jimishol.github.io/el/post/diatonic/</guid>
       <description>&lt;p&gt;Η Λα μινόρε κλίμακα είναι σχετική με την Ντο ματζόρε, ως προς το ότι μοιράζονται την ίδια, κενή, υπογραφή κλειδιού. Αποτελούν δύο διαφορετικές επτάδες άσπρων πλήκτρων στο πιάνο. Επειδή η νότες επαναλαμβάνονται ανά οκτάβες, θα μπορούσαν να υπάρχουν άλλες πέντε διαφορετικές σειρές άσπρων πλήκτρων, δηλαδή με την ίδια, κενή, υπογραφή, που να ορίζουν διαφορετικές τονικότητες. Καταλάβαινα ότι, κατά το μείζον, επιβλήθηκαν οι δύο που προαναφέρθηκαν, αλλά πάντα αναρωτιόμουν για τις υπόλοιπες, με την κενή υπογραφή, κλίμακες.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ο κύκλος των πέμπτων στη μουσική, μέσω ενός αναλογικού ρολογιού</title>
-      <link>http://localhost:1313/el/post/circle_of_fifths/</link>
+      <link>https://jimishol.github.io/el/post/circle_of_fifths/</link>
       <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/circle_of_fifths/</guid>
+      <guid>https://jimishol.github.io/el/post/circle_of_fifths/</guid>
       <description>&lt;p&gt;Στα νιάτα μου σπούδασα κλασική κιθάρα. Διάβασα πολλές παρτιτούρες και ήξερα πως να χρησιμοποιώ τις &lt;a href=&#34;https://en.wikipedia.org/wiki/Key_signature&#34;&gt;υπογραφές των κλειδιών&lt;/a&gt;. Ποτέ όμως, δεν ήμουν σε θέση να αναγνωρίσω, δια όψεως, το ζεύγος μείζονος ή ελάσσονος &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%9A%CE%BB%CE%AF%CE%BC%CE%B1%CE%BA%CE%B1_%28%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE%29&#34;&gt;κλίμακας&lt;/a&gt;, που ορίζει μια, όχι τετριμμένη, υπογραφή κλειδιού. Νόμιζα ότι αυτή η ικανότητα ανήκε μόνο σε πολύ έμπειρους μουσικούς. Πριν από λίγες ημέρες, συνειδητοποίησα ότι έκανα εντελώς λάθος. Η αναγνώριση του ζεύγους κλιμάκων που ορίζει μια υπογραφή κλειδιού είναι τόσο εύκολη όσο η χρήση ενός ρολογιού χειρός.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Αλγόριθμος ψηφοφόρου</title>
-      <link>http://localhost:1313/el/post/ekloges/</link>
+      <link>https://jimishol.github.io/el/post/ekloges/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/post/ekloges/</guid>
+      <guid>https://jimishol.github.io/el/post/ekloges/</guid>
       <description>&lt;h2 id=&#34;η-βέλτιστη-ατομική-στρατηγική-ενός-ψηφοφόρου-στο-παιγνίδι-των-εκλογών&#34;&gt;Η βέλτιστη ατομική στρατηγική ενός ψηφοφόρου στο παιγνίδι των εκλογών&lt;/h2&gt;&#xA;&lt;p&gt;Παρουσιάζεται προσεγγιστικός αλγόριθμος ο οποίος προτείνει τέτοια στρατηγική ψήφο στο παιγνίδι των εκλογών, ώστε, από πλευράς ψηφοφόρου, να του αποδώσει την μέγιστη δυνατή αναμενόμενη απολαβή, στην απειροελάχιστη περίπτωση που η ψήφος του τύχει να είναι αποφασιστική.&lt;/p&gt;&#xA;&lt;p&gt;Κατόπιν εξετάζεται πως η βέλτιστη στρατηγική στο παιγνίδι των εκλογών, από πλευράς υποψηφίων, καθοριζόμενη από το &lt;a href=&#34;https://en.wikipedia.org/wiki/Median_voter_theorem&#34;&gt;θεώρημα του διάμεσου ψηφοφόρου&lt;/a&gt;, τείνει να αλλοιώσει το νόημα των ίδιων των εκλογών.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Η εισαγωγή μου στην θεωρία παιγνίων</title>
-      <link>http://localhost:1313/el/post/game_theory_book/</link>
+      <link>https://jimishol.github.io/el/post/game_theory_book/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/post/game_theory_book/</guid>
+      <guid>https://jimishol.github.io/el/post/game_theory_book/</guid>
       <description>&lt;p&gt;Μόλις ολοκλήρωσα την ανάγνωση του βιβλίου “An introduction to Game Theory” του Martin J. Osborne. Ένα πραγματικά υπέροχο βιβλίο, που φαίνεται να επηρέασε ακόμα και την καθημερινή μου σκέψη. Το μόνο πρόβλημά του, για μένα, είναι ότι προσπαθεί υπερβολικά να μην κάνει απαραίτητη, για τον αναγνώστη του, την χρήση ακόμα και της στοιχειώδους άλγεβρας.&lt;/p&gt;&#xA;&lt;p&gt;Η ομορφιά του όμως, βρίσκεται κυρίως στις προσεκτικά επιλεγμένες ασκήσεις. Στην αρχή του βιβλίου φαίνονται τόσο στοιχειώδης που σε κάνει να αναρωτιέσαι, ακόμα και να βαριέσαι τον κόπο να τις λύσεις. Ξεδιπλώνονται όμως, από τα μέσα του βιβλίου και μετά, με τρόπο αναπάντεχα όμορφο και ευρηματικό.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Σαν βιβλίο για το μπριτζ</title>
-      <link>http://localhost:1313/el/post/like-book/</link>
+      <link>https://jimishol.github.io/el/post/like-book/</link>
       <pubDate>Thu, 27 Apr 2023 22:56:34 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/like-book/</guid>
+      <guid>https://jimishol.github.io/el/post/like-book/</guid>
       <description>&lt;p&gt;&amp;ldquo;Μια φορά στο τόσο, μια ιδέα σαρώνει τον κόσμο του μπριτζ και φέρνει επανάσταση στη σκέψη. Ο λεγόμενος &lt;em&gt;Νόμος των Ολικών Μπαζών&lt;/em&gt; είναι τόσο ακριβής στην εκτίμηση των δυνατοτήτων στην ανταγωνιστική αγορά και τόσο εύκολος στη χρήση, ώστε εισάγεται &lt;em&gt;(σημ.μτφ. στο βιβλίο)&lt;/em&gt; νωρίς και χρησιμοποιείται για να δικαιολογήσει πολλές επακόλουθες αποφάσεις πλειοδοσίας.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Από το βιβλίο &amp;ldquo;Understanding the contested auction&amp;rdquo; των Ron Klinger και Andrew Kambites.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Μια φορά και έναν καιρό, έπαιζα μπριτζ.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Το κοινωνικό παράπονο είναι ανορθολογισμός</title>
-      <link>http://localhost:1313/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</link>
+      <link>https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</link>
       <pubDate>Thu, 27 Apr 2023 22:56:34 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/The_Median_Voter_Theorem.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Κατά την διάρκεια του κοινωνικού σοκ που προκάλεσε το σιδηροδρομικό δυστύχημα στα Τέμπη, σε μια τηλεοπτική εκπομπή διατυπωνόταν επανειλημμένως  το ερώτημα “γιατί οι πολιτικοί κάνουν τέτοιες δηλώσεις, ωσάν να απευθύνονται σε ανόητους?”.&#xA;Έστειλα την απάντησή μου, με σκέψεις που βασίζονται στην &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1_%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD&#34;&gt;θεωρία παιγνιδιών&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Η απάντησή μου είχε δύο σκέλη.&lt;/p&gt;&#xA;&lt;p&gt;Στο πρώτο σκέλος, η απάντηση στην ερώτηση ήταν απλή και δεν χρειαζόταν καμία χρήση μαθηματικών, παρά μόνο την κοινή λογική.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Εφόσον ζούμε σε ένα status  quo όπου όλοι πράττουν το βέλτιστο, τότε οι πολιτικοί έχουν δίκιο και είμαστε ανόητοι.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://jimishol.github.io/images/The_Median_Voter_Theorem.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Κατά την διάρκεια του κοινωνικού σοκ που προκάλεσε το σιδηροδρομικό δυστύχημα στα Τέμπη, σε μια τηλεοπτική εκπομπή διατυπωνόταν επανειλημμένως  το ερώτημα “γιατί οι πολιτικοί κάνουν τέτοιες δηλώσεις, ωσάν να απευθύνονται σε ανόητους?”.&#xA;Έστειλα την απάντησή μου, με σκέψεις που βασίζονται στην &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1_%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD&#34;&gt;θεωρία παιγνιδιών&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Η απάντησή μου είχε δύο σκέλη.&lt;/p&gt;&#xA;&lt;p&gt;Στο πρώτο σκέλος, η απάντηση στην ερώτηση ήταν απλή και δεν χρειαζόταν καμία χρήση μαθηματικών, παρά μόνο την κοινή λογική.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Εφόσον ζούμε σε ένα status  quo όπου όλοι πράττουν το βέλτιστο, τότε οι πολιτικοί έχουν δίκιο και είμαστε ανόητοι.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Παιγνίδι θέρμανσης</title>
-      <link>http://localhost:1313/el/post/thermansi/</link>
+      <link>https://jimishol.github.io/el/post/thermansi/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/post/thermansi/</guid>
-      <description>&lt;p&gt;Μοντελοποιείται και επιλύεται, ως στρατηγικό παιγνίδι, η διαδικασία περί της απόφασης για την θέρμανση των ορόφων ενός κτίσματος. Το  κείμενο απευθυνόταν σε αναγνώστη που είχε γνώση του βιβλίου &amp;ldquo;An introduction to Game Theory&amp;rdquo; του Martin J. Osborne οπότε, στην επίλυση του μοντέλου, γίνονται πολλές αναφορές στις σελίδες του συγκεκριμένου βιβλίου. Όμως, τα αποτελέσματα της επίλυσης και οι σκέψεις για την υποκειμενική αξία του χρήματος δεν φαίνεται να χάνουν το ενδιαφέρον τους, ακόμα και όταν η πρόσβαση στο βιβλίο δεν είναι δυνατή. Για αυτό, ίσως σας ενδιαφέρει να διαβάσετε για το παιγνίδι της θέρμανσης &lt;a href=&#34;http://localhost:1313/thermansi_game.pdf&#34;&gt;εδώ&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/el/post/thermansi/</guid>
+      <description>&lt;p&gt;Μοντελοποιείται και επιλύεται, ως στρατηγικό παιγνίδι, η διαδικασία περί της απόφασης για την θέρμανση των ορόφων ενός κτίσματος. Το  κείμενο απευθυνόταν σε αναγνώστη που είχε γνώση του βιβλίου &amp;ldquo;An introduction to Game Theory&amp;rdquo; του Martin J. Osborne οπότε, στην επίλυση του μοντέλου, γίνονται πολλές αναφορές στις σελίδες του συγκεκριμένου βιβλίου. Όμως, τα αποτελέσματα της επίλυσης και οι σκέψεις για την υποκειμενική αξία του χρήματος δεν φαίνεται να χάνουν το ενδιαφέρον τους, ακόμα και όταν η πρόσβαση στο βιβλίο δεν είναι δυνατή. Για αυτό, ίσως σας ενδιαφέρει να διαβάσετε για το παιγνίδι της θέρμανσης &lt;a href=&#34;https://jimishol.github.io/thermansi_game.pdf&#34;&gt;εδώ&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Αυτοβιογραφία</title>
-      <link>http://localhost:1313/el/autobiograpy/</link>
+      <link>https://jimishol.github.io/el/autobiograpy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/autobiograpy/</guid>
+      <guid>https://jimishol.github.io/el/autobiograpy/</guid>
       <description>&lt;p&gt;Είμαι Έλληνας και ζω στην Ελλάδα. Πριν από τριάντα χρόνια ήταν δεδομένο, υπό κανονικές συνθήκες, ότι θα ήμουν ζωντανός μετά από τριάντα χρόνια. Σήμερα, ισχύει το ακριβώς αντίθετο.&lt;/p&gt;&#xA;&lt;p&gt;Οι δεξιότητες και οι γνώσεις μου θα πρέπει να είναι άσχετες ως απόδειξη της αλήθειας των όσων δημοσιεύω. Ποτέ δεν μου άρεσε η λογική &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%A0%CF%81%CE%BF%CF%83%CF%86%CF%85%CE%B3%CE%AE_%CF%83%CF%84%CE%B7%CE%BD_%CE%B1%CF%85%CE%B8%CE%B5%CE%BD%CF%84%CE%AF%CE%B1&#34;&gt;πλάνη&lt;/a&gt; της αυθεντίας. Ως αναγνώστες, εσείς οι ίδιοι είστε υπεύθυνοι για το τι θεωρείτε σωστό και τι λάθος. Έτσι, αντί της βιογραφίας, επιτρέψτε μου να παραφράσω την GNU GENERAL PUBLIC LICENSE.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Περί</title>
-      <link>http://localhost:1313/el/about/</link>
+      <link>https://jimishol.github.io/el/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/about/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/earth-large.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Earth Observation NASA (Date Created:2010-08-23)&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Καθώς η μητρική μου γλώσσα είναι τα Ελληνικά, οι όποιες δημοσιεύσεις μου συντάσσονται άλλοτε στην Ελληνική και άλλοτε στην Αγγλική γλώσσα, ανάλογα με το σε ποιούς απευθύνονται. (Δεν είναι στις προθέσεις μου η μετάφρασή τους.)&lt;/p&gt;&#xA;&lt;dl&gt;&#xA;&lt;dt&gt;&lt;strong&gt;Linux&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Είμαι ενθουσιώδης χρήστης συστημάτων Linux και τα χρησιμοποιώ αποκλειστικά σε όλους τους τομείς για σχεδόν δύο δεκαετίες.&lt;/dd&gt;&#xA;&lt;dt&gt;&lt;strong&gt;Μαθηματικά&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Τα μαθηματικά και η ορθολογική σκέψη ήταν ανέκαθεν οι στυλωβάτες και διαμόρφωσαν την καθημερινή σκέψη μου. Η ειδική και γενική θεωρία της σχετικότητας, με όλα τα συνεπαγόμενα, ως αναγκαία για την κατανόησή της, υπήρξε για χρόνια η ειδική ενασχόλησή μου. Πρόσφατα, η θεωρία παιγνίων επαναπροσδιόρισε, με αναπάντεχο τρόπο, την αξία των μαθηματικών στην καθημερινή σκέψη μου.&lt;/dd&gt;&#xA;&lt;dt&gt;&lt;strong&gt;Προγραμματισμός&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Αγάπησα τον προγραμματισμό πριν ακόμα από την εμφάνιση των οικοιακών υπολογιστών. Ανέκαθεν όμως, υπήρξε μέσον και όχι αυτοσκοπός. Έτσι, η ανάπτυξη εφααρμογών με SQL (με postgresql), C++, lua κ.λ.π. υπήρξε περιστασιακή.&lt;/dd&gt;&#xA;&lt;dt&gt;&lt;strong&gt;Παιγνίδια&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Μέχρι πολύ πρόσφατα ήμουν λάτρης των παγνιδιών, ηλεκτρονικών και μη. Κυρίως όμως των επιτραπεζίων. Για μερικές δεκαετίες υπήρξα ενεργός αθλητής σκακιού και για μια δεκαετία του μπρίντζ. Με το σκάκι ασχολούμαι τώρα πια περιστασιακά. Το μπριντζ το έχω παρατήσει οριστικά.&lt;/dd&gt;&#xA;&lt;/dl&gt;&#xA;&lt;p&gt;&lt;strong&gt;Επικοινωνία&lt;/strong&gt; Μπορείτε να επικοινωνήσετε μαζί μου δια της &lt;a href=&#34;https://github.com/jimishol/jimishol.github.io/discussions/1&#34;&gt;συζήτησης&lt;/a&gt; στο github ή στο email &lt;a href=&#34;mailto:hol.jimis@gmail.com&#34;&gt;hol.jimis@gmail.com&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/el/about/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://jimishol.github.io/images/earth-large.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Earth Observation NASA (Date Created:2010-08-23)&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Καθώς η μητρική μου γλώσσα είναι τα Ελληνικά, οι όποιες δημοσιεύσεις μου συντάσσονται άλλοτε στην Ελληνική και άλλοτε στην Αγγλική γλώσσα, ανάλογα με το σε ποιούς απευθύνονται. (Δεν είναι στις προθέσεις μου η μετάφρασή τους.)&lt;/p&gt;&#xA;&lt;dl&gt;&#xA;&lt;dt&gt;&lt;strong&gt;Linux&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Είμαι ενθουσιώδης χρήστης συστημάτων Linux και τα χρησιμοποιώ αποκλειστικά σε όλους τους τομείς για σχεδόν δύο δεκαετίες.&lt;/dd&gt;&#xA;&lt;dt&gt;&lt;strong&gt;Μαθηματικά&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Τα μαθηματικά και η ορθολογική σκέψη ήταν ανέκαθεν οι στυλωβάτες και διαμόρφωσαν την καθημερινή σκέψη μου. Η ειδική και γενική θεωρία της σχετικότητας, με όλα τα συνεπαγόμενα, ως αναγκαία για την κατανόησή της, υπήρξε για χρόνια η ειδική ενασχόλησή μου. Πρόσφατα, η θεωρία παιγνίων επαναπροσδιόρισε, με αναπάντεχο τρόπο, την αξία των μαθηματικών στην καθημερινή σκέψη μου.&lt;/dd&gt;&#xA;&lt;dt&gt;&lt;strong&gt;Προγραμματισμός&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Αγάπησα τον προγραμματισμό πριν ακόμα από την εμφάνιση των οικοιακών υπολογιστών. Ανέκαθεν όμως, υπήρξε μέσον και όχι αυτοσκοπός. Έτσι, η ανάπτυξη εφααρμογών με SQL (με postgresql), C++, lua κ.λ.π. υπήρξε περιστασιακή.&lt;/dd&gt;&#xA;&lt;dt&gt;&lt;strong&gt;Παιγνίδια&lt;/strong&gt;&lt;/dt&gt;&#xA;&lt;dd&gt;Μέχρι πολύ πρόσφατα ήμουν λάτρης των παγνιδιών, ηλεκτρονικών και μη. Κυρίως όμως των επιτραπεζίων. Για μερικές δεκαετίες υπήρξα ενεργός αθλητής σκακιού και για μια δεκαετία του μπρίντζ. Με το σκάκι ασχολούμαι τώρα πια περιστασιακά. Το μπριντζ το έχω παρατήσει οριστικά.&lt;/dd&gt;&#xA;&lt;/dl&gt;&#xA;&lt;p&gt;&lt;strong&gt;Επικοινωνία&lt;/strong&gt; Μπορείτε να επικοινωνήσετε μαζί μου δια της &lt;a href=&#34;https://github.com/jimishol/jimishol.github.io/discussions/1&#34;&gt;συζήτησης&lt;/a&gt; στο github ή στο email &lt;a href=&#34;mailto:hol.jimis@gmail.com&#34;&gt;hol.jimis@gmail.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

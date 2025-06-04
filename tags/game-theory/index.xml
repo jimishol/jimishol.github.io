@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Theory on jimishol&#39;s website</title>
-    <link>http://localhost:1313/tags/game-theory/</link>
+    <link>https://jimishol.github.io/tags/game-theory/</link>
     <description>Recent content in Game Theory on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 May 2023 15:19:47 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/game-theory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimishol.github.io/tags/game-theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My introduction to game theory</title>
-      <link>http://localhost:1313/post/game_theory_book/</link>
+      <link>https://jimishol.github.io/post/game_theory_book/</link>
       <pubDate>Tue, 09 May 2023 15:19:47 +0300</pubDate>
-      <guid>http://localhost:1313/post/game_theory_book/</guid>
+      <guid>https://jimishol.github.io/post/game_theory_book/</guid>
       <description>&lt;p&gt;I just finished reading the book &amp;ldquo;An introduction to Game Theory&amp;rdquo; by Martin J. Osborne. A truly wonderful book, which seems to have influenced even my everyday thinking. Its only problem, for me, is that it tries too hard not to make it necessary, for its reader, to use even elementary algebra.&lt;/p&gt;&#xA;&lt;p&gt;Its beauty, however, lies mainly in the carefully chosen exercises. At the beginning of the book, they seem so elementary that they make you wonder, and even bore you to solve them. But they unfold, from the middle of the book onwards, in a surprisingly beautiful and inventive way.&lt;/p&gt;</description>
     </item>
   </channel>

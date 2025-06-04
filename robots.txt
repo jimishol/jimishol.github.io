@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Allow: /
+Sitemap: https://jimishol.github.io/sitemap.xml

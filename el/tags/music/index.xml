@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on jimishol&#39;s website</title>
-    <link>http://localhost:1313/el/tags/music/</link>
+    <link>https://jimishol.github.io/el/tags/music/</link>
     <description>Recent content in Music on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>el</language>
     <lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/el/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimishol.github.io/el/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Δομή τονικότητας στην μουσική</title>
-      <link>http://localhost:1313/el/post/tonality/</link>
+      <link>https://jimishol.github.io/el/post/tonality/</link>
       <pubDate>Fri, 12 Apr 2024 00:21:00 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/tonality/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Η συστηματική καταγραφή σκέψεων, επί της μουσικής αρμονίας, οδήγησε στην τοποθέτηση των δώδεκα μουσικών τόνων επί κατασκευάσιμης τρισδιάστατης επιφάνειας ομφαλικού δακτυλίου. Σε αυτήν την οπτικοποιημένη ζεύξη μαθηματικών και μουσικής έδωσα την προσωπική ονομασία&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Χωλίδειος αρμονική δομή&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Η πορεία δημιουργίας της ως άνω ζεύξης καταγράφεται σε &lt;a href=&#34;http://localhost:1313/thoughts_on_harmony.pdf&#34;&gt;αρχείο pdf&lt;/a&gt;. Το ευρύτερο πλαίσιο της δημιουργίας της αναφέρεται στην αρχή αυτής της &lt;a href=&#34;https://github.com/orgs/musescore/discussions/22922&#34;&gt;συζήτησης&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Παραθέτω αποσπάσματα της εισαγωγής και του επιλόγου, το ηχητικό περιεχόμενο, καθώς και τις κύριες εικόνες του αρχείου.&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/el/post/tonality/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Η συστηματική καταγραφή σκέψεων, επί της μουσικής αρμονίας, οδήγησε στην τοποθέτηση των δώδεκα μουσικών τόνων επί κατασκευάσιμης τρισδιάστατης επιφάνειας ομφαλικού δακτυλίου. Σε αυτήν την οπτικοποιημένη ζεύξη μαθηματικών και μουσικής έδωσα την προσωπική ονομασία&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Χωλίδειος αρμονική δομή&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Η πορεία δημιουργίας της ως άνω ζεύξης καταγράφεται σε &lt;a href=&#34;https://jimishol.github.io/thoughts_on_harmony.pdf&#34;&gt;αρχείο pdf&lt;/a&gt;. Το ευρύτερο πλαίσιο της δημιουργίας της αναφέρεται στην αρχή αυτής της &lt;a href=&#34;https://github.com/orgs/musescore/discussions/22922&#34;&gt;συζήτησης&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Παραθέτω αποσπάσματα της εισαγωγής και του επιλόγου, το ηχητικό περιεχόμενο, καθώς και τις κύριες εικόνες του αρχείου.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Αυτοβιογραφική σονάτα</title>
-      <link>http://localhost:1313/el/post/young_and_confused/</link>
+      <link>https://jimishol.github.io/el/post/young_and_confused/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/post/young_and_confused/</guid>
+      <guid>https://jimishol.github.io/el/post/young_and_confused/</guid>
       <description>&lt;p&gt;Πριν από περίπου τρεισήμισι δεκαετίες, προ της εμφάνισης των υπολογιστών, έπαιζα κλασική κιθάρα. Σε κάποια στιγμή θέλησα να εκφραστώ και, αφού αγόρασα και μελέτησα ένα βιβλίο αρμονίας, συνέθεσα ένα κομμάτι. Λόγω των ασυνήθιστων συγχορδιών του όμως, δυσκολευόμουν να κρατήσω το τέμπο. Μετά ήρθαν οι υπολογιστές με DOS και πιθανώς με τα πρώτα windows, γνώρισα τα midi. Το κομμάτι, μετά από αρκετές προσπάθειες και διαχωρισμό των φωνών σε όργανα, κάπως κατάφερνε να ακουστεί. Από τότε, για τριάντα και πλέον χρόνια, είχα εδραιωμένη την πεποίθηση ότι είχα συνθέσει κάτι και ότι χρειαζόταν απλώς ένας πραγματικός μουσικός, που με ελάχιστη επιμέλεια θα το έκανε να ακουστεί καθώς πρέπει. (Κούνια που με κούναγε!)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Γνωρίστε τα μουσικά διαστήματα και τις Neo-Riemannian κινήσεις, μέσω ενός αναλογικού ρολογιού</title>
-      <link>http://localhost:1313/el/post/music_intervals/</link>
+      <link>https://jimishol.github.io/el/post/music_intervals/</link>
       <pubDate>Sat, 01 Jul 2023 07:40:34 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/music_intervals/</guid>
-      <description>&lt;p&gt;Μετά τον &lt;a href=&#34;https://jimishol.github.io/el/post/circle_of_fifths_el/&#34;&gt;κύκλο των πέμπτων&lt;/a&gt; και τις &lt;a href=&#34;https://jimishol.github.io/el/post/diatonic_el/&#34;&gt;διατονικές&lt;/a&gt;, συνεχίζοντας να διαβάζω για τα &lt;a href=&#34;https://viva.pressbooks.pub/openmusictheory/chapter/intervals/&#34;&gt;θεμελιώδη της μουσικής θεωρίας&lt;/a&gt;, διαπιστώνω ότι το μουσικό ρολόι μπορεί να βοηθήσει στην εύκολη αναγνώριση των διαστημάτων της συνήθους μουσικής ορολογίας.&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/music-clock-sun.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Το μουσικό ρολόι μας&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;μουσικά-διαστήματα&#34;&gt;Μουσικά διαστήματα&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ορολογία&#34;&gt;Ορολογία&lt;/h3&gt;&#xA;&lt;p&gt;Ένα &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1_%28%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE%29&#34;&gt;μουσικό διάστημα&lt;/a&gt;, ως η διαφορά ανάμεσα σε δύο τονικά ύψη, μπορεί να οριστεί με απόλυτο τρόπο σαν το πλήθος των ημιτονίων που τα χωρίζουν. Το σύνολο όμως των ημιτονίων μιας οκτάβας είναι 12, ενώ οι νότες μιας κλίμακας 7. Η σχέση των τόνων σε μια μελωδία είναι αναγκαίο να εκφραστεί σαν σχέση μεταξύ των 7 τόνων της κλίμακας που χρησιμοποιείται. Έτσι, για τον καθορισμό ενός διαστήματος, είναι αναγκαίο να χρησιμοποιηθούν δύο όροι. Ο πρώτος ουσιαστικός όρος θα δείχνει την σχέση με τους 7 τόνους της κλίμακας και ο δεύτερος, ως επίθετο του πρώτου, θα προσδιορίζει το ακριβές διάστημα σε πλήθος ημιτονίων.&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/el/post/music_intervals/</guid>
+      <description>&lt;p&gt;Μετά τον &lt;a href=&#34;https://jimishol.github.io/el/post/circle_of_fifths_el/&#34;&gt;κύκλο των πέμπτων&lt;/a&gt; και τις &lt;a href=&#34;https://jimishol.github.io/el/post/diatonic_el/&#34;&gt;διατονικές&lt;/a&gt;, συνεχίζοντας να διαβάζω για τα &lt;a href=&#34;https://viva.pressbooks.pub/openmusictheory/chapter/intervals/&#34;&gt;θεμελιώδη της μουσικής θεωρίας&lt;/a&gt;, διαπιστώνω ότι το μουσικό ρολόι μπορεί να βοηθήσει στην εύκολη αναγνώριση των διαστημάτων της συνήθους μουσικής ορολογίας.&#xA;&lt;figure&gt;&lt;img src=&#34;https://jimishol.github.io/images/music-clock-sun.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Το μουσικό ρολόι μας&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;μουσικά-διαστήματα&#34;&gt;Μουσικά διαστήματα&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ορολογία&#34;&gt;Ορολογία&lt;/h3&gt;&#xA;&lt;p&gt;Ένα &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1_%28%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE%29&#34;&gt;μουσικό διάστημα&lt;/a&gt;, ως η διαφορά ανάμεσα σε δύο τονικά ύψη, μπορεί να οριστεί με απόλυτο τρόπο σαν το πλήθος των ημιτονίων που τα χωρίζουν. Το σύνολο όμως των ημιτονίων μιας οκτάβας είναι 12, ενώ οι νότες μιας κλίμακας 7. Η σχέση των τόνων σε μια μελωδία είναι αναγκαίο να εκφραστεί σαν σχέση μεταξύ των 7 τόνων της κλίμακας που χρησιμοποιείται. Έτσι, για τον καθορισμό ενός διαστήματος, είναι αναγκαίο να χρησιμοποιηθούν δύο όροι. Ο πρώτος ουσιαστικός όρος θα δείχνει την σχέση με τους 7 τόνους της κλίμακας και ο δεύτερος, ως επίθετο του πρώτου, θα προσδιορίζει το ακριβές διάστημα σε πλήθος ημιτονίων.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Γνωρίστε τις διατονικές κλίμακες στη μουσική, μέσω ενός αναλογικού ρολογιού</title>
-      <link>http://localhost:1313/el/post/diatonic/</link>
+      <link>https://jimishol.github.io/el/post/diatonic/</link>
       <pubDate>Mon, 26 Jun 2023 21:48:06 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/diatonic/</guid>
+      <guid>https://jimishol.github.io/el/post/diatonic/</guid>
       <description>&lt;p&gt;Η Λα μινόρε κλίμακα είναι σχετική με την Ντο ματζόρε, ως προς το ότι μοιράζονται την ίδια, κενή, υπογραφή κλειδιού. Αποτελούν δύο διαφορετικές επτάδες άσπρων πλήκτρων στο πιάνο. Επειδή η νότες επαναλαμβάνονται ανά οκτάβες, θα μπορούσαν να υπάρχουν άλλες πέντε διαφορετικές σειρές άσπρων πλήκτρων, δηλαδή με την ίδια, κενή, υπογραφή, που να ορίζουν διαφορετικές τονικότητες. Καταλάβαινα ότι, κατά το μείζον, επιβλήθηκαν οι δύο που προαναφέρθηκαν, αλλά πάντα αναρωτιόμουν για τις υπόλοιπες, με την κενή υπογραφή, κλίμακες.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ο κύκλος των πέμπτων στη μουσική, μέσω ενός αναλογικού ρολογιού</title>
-      <link>http://localhost:1313/el/post/circle_of_fifths/</link>
+      <link>https://jimishol.github.io/el/post/circle_of_fifths/</link>
       <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/circle_of_fifths/</guid>
+      <guid>https://jimishol.github.io/el/post/circle_of_fifths/</guid>
       <description>&lt;p&gt;Στα νιάτα μου σπούδασα κλασική κιθάρα. Διάβασα πολλές παρτιτούρες και ήξερα πως να χρησιμοποιώ τις &lt;a href=&#34;https://en.wikipedia.org/wiki/Key_signature&#34;&gt;υπογραφές των κλειδιών&lt;/a&gt;. Ποτέ όμως, δεν ήμουν σε θέση να αναγνωρίσω, δια όψεως, το ζεύγος μείζονος ή ελάσσονος &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%9A%CE%BB%CE%AF%CE%BC%CE%B1%CE%BA%CE%B1_%28%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE%29&#34;&gt;κλίμακας&lt;/a&gt;, που ορίζει μια, όχι τετριμμένη, υπογραφή κλειδιού. Νόμιζα ότι αυτή η ικανότητα ανήκε μόνο σε πολύ έμπειρους μουσικούς. Πριν από λίγες ημέρες, συνειδητοποίησα ότι έκανα εντελώς λάθος. Η αναγνώριση του ζεύγους κλιμάκων που ορίζει μια υπογραφή κλειδιού είναι τόσο εύκολη όσο η χρήση ενός ρολογιού χειρός.&lt;/p&gt;</description>
     </item>
   </channel>

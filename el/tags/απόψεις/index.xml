@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Απόψεις on jimishol&#39;s website</title>
-    <link>http://localhost:1313/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/</link>
+    <link>https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/</link>
     <description>Recent content in Απόψεις on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>el</language>
     <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimishol.github.io/el/tags/%CE%B1%CF%80%CF%8C%CF%88%CE%B5%CE%B9%CF%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Στιγμές καλλιτεχνικής δημιουργίας που μας λείπουν, με τον Georgio Gaber.</title>
-      <link>http://localhost:1313/el/post/georgio_gabel/</link>
+      <link>https://jimishol.github.io/el/post/georgio_gabel/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/post/georgio_gabel/</guid>
+      <guid>https://jimishol.github.io/el/post/georgio_gabel/</guid>
       <description>&lt;p&gt;Σήμερα ψάχνοντας για ιταλικό τραγούδι, έπεσα ξανά πάνω στον &lt;a href=&#34;https://en.wikipedia.org/wiki/Giorgio_Gaber&#34;&gt;Giorgio Gaber&lt;/a&gt;. Τον είχα προσέξει στο παρελθόν αλλά πρώτη φορά τον ξαναπρόσεξα μετά την μελέτη της &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1_%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD&#34;&gt;θεωρίας παιγνίων&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Αυτήν την φορά εξεπλάγην με το πως, με καλλιτεχνικό τρόπο, στο &lt;a href=&#34;https://www.youtube.com/watch?v=jHY0YBw3-nA&#34;&gt;Democracy&lt;/a&gt; διατυπώνεται ακριβώς το ίδιο επιχείρημα με αυτό των σελίδων 5-6 του pdf &lt;a href=&#34;https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/&#34;&gt;αυτής της σελίδας&lt;/a&gt;. Είναι το ίδιο επιχείρημα που χρησιμοποιείται και στον &lt;a href=&#34;https://jimishol.github.io/el/post/ekloges/&#34;&gt;αλγόριθμο του ψηφοφόρου&lt;/a&gt;, ώστε, στο τέλος, να εξαχθεί το συμπέρασμα της σύγκλισης του νοήματος των εκλογών.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Αλγόριθμος ψηφοφόρου</title>
-      <link>http://localhost:1313/el/post/ekloges/</link>
+      <link>https://jimishol.github.io/el/post/ekloges/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/el/post/ekloges/</guid>
+      <guid>https://jimishol.github.io/el/post/ekloges/</guid>
       <description>&lt;h2 id=&#34;η-βέλτιστη-ατομική-στρατηγική-ενός-ψηφοφόρου-στο-παιγνίδι-των-εκλογών&#34;&gt;Η βέλτιστη ατομική στρατηγική ενός ψηφοφόρου στο παιγνίδι των εκλογών&lt;/h2&gt;&#xA;&lt;p&gt;Παρουσιάζεται προσεγγιστικός αλγόριθμος ο οποίος προτείνει τέτοια στρατηγική ψήφο στο παιγνίδι των εκλογών, ώστε, από πλευράς ψηφοφόρου, να του αποδώσει την μέγιστη δυνατή αναμενόμενη απολαβή, στην απειροελάχιστη περίπτωση που η ψήφος του τύχει να είναι αποφασιστική.&lt;/p&gt;&#xA;&lt;p&gt;Κατόπιν εξετάζεται πως η βέλτιστη στρατηγική στο παιγνίδι των εκλογών, από πλευράς υποψηφίων, καθοριζόμενη από το &lt;a href=&#34;https://en.wikipedia.org/wiki/Median_voter_theorem&#34;&gt;θεώρημα του διάμεσου ψηφοφόρου&lt;/a&gt;, τείνει να αλλοιώσει το νόημα των ίδιων των εκλογών.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Το κοινωνικό παράπονο είναι ανορθολογισμός</title>
-      <link>http://localhost:1313/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</link>
+      <link>https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</link>
       <pubDate>Thu, 27 Apr 2023 22:56:34 +0300</pubDate>
-      <guid>http://localhost:1313/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/The_Median_Voter_Theorem.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Κατά την διάρκεια του κοινωνικού σοκ που προκάλεσε το σιδηροδρομικό δυστύχημα στα Τέμπη, σε μια τηλεοπτική εκπομπή διατυπωνόταν επανειλημμένως  το ερώτημα “γιατί οι πολιτικοί κάνουν τέτοιες δηλώσεις, ωσάν να απευθύνονται σε ανόητους?”.&#xA;Έστειλα την απάντησή μου, με σκέψεις που βασίζονται στην &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1_%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD&#34;&gt;θεωρία παιγνιδιών&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Η απάντησή μου είχε δύο σκέλη.&lt;/p&gt;&#xA;&lt;p&gt;Στο πρώτο σκέλος, η απάντηση στην ερώτηση ήταν απλή και δεν χρειαζόταν καμία χρήση μαθηματικών, παρά μόνο την κοινή λογική.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Εφόσον ζούμε σε ένα status  quo όπου όλοι πράττουν το βέλτιστο, τότε οι πολιτικοί έχουν δίκιο και είμαστε ανόητοι.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/el/post/%CE%B4%CF%85%CF%83%CF%84%CF%8D%CF%87%CE%B7%CE%BC%CE%B1_%CF%83%CF%84%CE%B1_%CF%84%CE%AD%CE%BC%CF%80%CE%B7/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://jimishol.github.io/images/The_Median_Voter_Theorem.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Κατά την διάρκεια του κοινωνικού σοκ που προκάλεσε το σιδηροδρομικό δυστύχημα στα Τέμπη, σε μια τηλεοπτική εκπομπή διατυπωνόταν επανειλημμένως  το ερώτημα “γιατί οι πολιτικοί κάνουν τέτοιες δηλώσεις, ωσάν να απευθύνονται σε ανόητους?”.&#xA;Έστειλα την απάντησή μου, με σκέψεις που βασίζονται στην &lt;a href=&#34;https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1_%CF%80%CE%B1%CE%B9%CE%B3%CE%BD%CE%AF%CF%89%CE%BD&#34;&gt;θεωρία παιγνιδιών&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Η απάντησή μου είχε δύο σκέλη.&lt;/p&gt;&#xA;&lt;p&gt;Στο πρώτο σκέλος, η απάντηση στην ερώτηση ήταν απλή και δεν χρειαζόταν καμία χρήση μαθηματικών, παρά μόνο την κοινή λογική.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Εφόσον ζούμε σε ένα status  quo όπου όλοι πράττουν το βέλτιστο, τότε οι πολιτικοί έχουν δίκιο και είμαστε ανόητοι.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

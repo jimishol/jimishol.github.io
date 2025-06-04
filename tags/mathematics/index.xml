@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics on jimishol&#39;s website</title>
-    <link>http://localhost:1313/tags/mathematics/</link>
+    <link>https://jimishol.github.io/tags/mathematics/</link>
     <description>Recent content in Mathematics on jimishol&#39;s website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jimishol.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tonality structure in music</title>
-      <link>http://localhost:1313/post/tonality/</link>
+      <link>https://jimishol.github.io/post/tonality/</link>
       <pubDate>Fri, 12 Apr 2024 00:21:00 +0300</pubDate>
-      <guid>http://localhost:1313/post/tonality/</guid>
-      <description>&lt;p&gt;&lt;em&gt;The systematic recording of thoughts on musical harmony led to the placement of the twelve musical tones on a constructible three-dimensional surface of an umbilic torus. To this visualized link of mathematics and music I gave the personal name&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Cholidean harmony structure&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The course of creation of the above link is recorded in &lt;a href=&#34;http://localhost:1313/thoughts_on_harmony_en.pdf&#34;&gt;pdf file&lt;/a&gt;. The broader background to its creation is set out at the beginning of this &lt;a href=&#34;https://github.com/orgs/musescore/discussions/22922&#34;&gt;discussion&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Here are excerpts of the introduction and epilogue, the audio content, and the main images of the file.&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/post/tonality/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The systematic recording of thoughts on musical harmony led to the placement of the twelve musical tones on a constructible three-dimensional surface of an umbilic torus. To this visualized link of mathematics and music I gave the personal name&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Cholidean harmony structure&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The course of creation of the above link is recorded in &lt;a href=&#34;https://jimishol.github.io/thoughts_on_harmony_en.pdf&#34;&gt;pdf file&lt;/a&gt;. The broader background to its creation is set out at the beginning of this &lt;a href=&#34;https://github.com/orgs/musescore/discussions/22922&#34;&gt;discussion&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Here are excerpts of the introduction and epilogue, the audio content, and the main images of the file.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The polyhedron with the minimum of vertices, which considers itself a doughnut</title>
-      <link>http://localhost:1313/post/pyramid-torus/</link>
+      <link>https://jimishol.github.io/post/pyramid-torus/</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/pyramid-torus/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/pyramid-torus-photo.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Photo of paper Császár polyhedron&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/pyramid-torus3.png&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Paper cut unfold of a Császár polyhedron&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The article is about &lt;a href=&#34;https://en.wikipedia.org/wiki/Cs%C3%A1sz%C3%A1r_polyhedron&#34;&gt;Császár polyhedron&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;(Its dual is the &lt;a href=&#34;https://en.wikipedia.org/wiki/Szilassi_polyhedron&#34;&gt;Szilassi polyhedron&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;h1 id=&#34;tutorial&#34;&gt;Tutorial&lt;/h1&gt;&#xA;&lt;p&gt;I was never able to construct &lt;em&gt;Szilassi&lt;/em&gt; by myself, but there it follows how i constructed &lt;em&gt;Császár polyhedron.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;algebraic-start&#34;&gt;Algebraic start&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Euler_characteristic&#34;&gt;Euler characteristic&lt;/a&gt; X of a torus is zero.&lt;/p&gt;&#xA;&lt;p&gt;So our torus has V-E+F=0, where V=vertices, E=edges and F=faces.&lt;/p&gt;&#xA;&lt;p&gt;We can assume all faces are triangles. So, E=3&lt;em&gt;F/2 (cause with 3&lt;/em&gt;F we count each edge twice).&lt;/p&gt;</description>
+      <guid>https://jimishol.github.io/post/pyramid-torus/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://jimishol.github.io/images/pyramid-torus-photo.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Photo of paper Császár polyhedron&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;https://jimishol.github.io/images/pyramid-torus3.png&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Paper cut unfold of a Császár polyhedron&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The article is about &lt;a href=&#34;https://en.wikipedia.org/wiki/Cs%C3%A1sz%C3%A1r_polyhedron&#34;&gt;Császár polyhedron&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;(Its dual is the &lt;a href=&#34;https://en.wikipedia.org/wiki/Szilassi_polyhedron&#34;&gt;Szilassi polyhedron&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;h1 id=&#34;tutorial&#34;&gt;Tutorial&lt;/h1&gt;&#xA;&lt;p&gt;I was never able to construct &lt;em&gt;Szilassi&lt;/em&gt; by myself, but there it follows how i constructed &lt;em&gt;Császár polyhedron.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;algebraic-start&#34;&gt;Algebraic start&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Euler_characteristic&#34;&gt;Euler characteristic&lt;/a&gt; X of a torus is zero.&lt;/p&gt;&#xA;&lt;p&gt;So our torus has V-E+F=0, where V=vertices, E=edges and F=faces.&lt;/p&gt;&#xA;&lt;p&gt;We can assume all faces are triangles. So, E=3&lt;em&gt;F/2 (cause with 3&lt;/em&gt;F we count each edge twice).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
