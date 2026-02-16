@@ -41,7 +41,7 @@
       <link>https://jimishol.github.io/post/circle_of_fifths/</link>
       <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
       <guid>https://jimishol.github.io/post/circle_of_fifths/</guid>
-      <description>&lt;p&gt;In my youth I studied classical guitar. I read a lot of sheet music and knew how to use &lt;a href=&#34;https://en.wikipedia.org/wiki/Key_signature&#34;&gt;key signatures&lt;/a&gt;. But I&amp;rsquo;ve never been able to identify, at a glance, the major or minor &lt;a href=&#34;https://en.wikipedia.org/wiki/Scale_%28music%29&#34;&gt;scale&lt;/a&gt; pair that defines a, non-trivial, signature. I thought this ability belonged only to very experienced musicians. A few days ago, I realized that I was completely wrong. Identifying the pair of scales that defines a key signature is as easy as using a wristwatch.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Simple Concept&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;To recognize a key:&lt;/strong&gt; Treat the clock as a chromatic scale where &lt;strong&gt;C is 00:00&lt;/strong&gt; and each hour is one semitone (C#=1, D=2, etc.). Every &lt;strong&gt;sharp (#)&lt;/strong&gt; in the signature adds &lt;strong&gt;7 hours&lt;/strong&gt; to the clock, and every &lt;strong&gt;flat (♭)&lt;/strong&gt; adds &lt;strong&gt;5 hours&lt;/strong&gt;. For example, 3 sharps = 3 * 7 = 21 hours; on a 12-hour clock, 21:00 is &lt;strong&gt;9:00 (A Major)&lt;/strong&gt;. To find the relative minor, look 3 hours earlier (6:00 is &lt;strong&gt;F# minor&lt;/strong&gt;).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
