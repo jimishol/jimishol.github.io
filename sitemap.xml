@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://jimishol.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2025-03-26T08:43:21+02:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://jimishol.github.io/el/sitemap.xml</loc>
-    
-      <lastmod>2025-03-26T08:43:21+02:00</lastmod>
-    
-  </sitemap>
-  
+	
+		<sitemap>
+			<loc>https://jimishol.github.io/en/sitemap.xml</loc>
+			
+				<lastmod>2025-03-26T08:43:21+02:00</lastmod>
+			
+		</sitemap>
+	
+		<sitemap>
+			<loc>https://jimishol.github.io/el/sitemap.xml</loc>
+			
+				<lastmod>2025-03-26T08:43:21+02:00</lastmod>
+			
+		</sitemap>
+	
 </sitemapindex>

@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Music on jimishol&#39;s website</title>
-    <link>https://jimishol.github.io/tags/music/</link>
-    <description>Recent content in Music on jimishol&#39;s website</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
-    <atom:link href="https://jimishol.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tonality structure in music</title>
-      <link>https://jimishol.github.io/post/tonality/</link>
-      <pubDate>Fri, 12 Apr 2024 00:21:00 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/tonality/</guid>
-      <description>&lt;div style=&#34;text-align:center; margin: 2rem 0;&#34;&gt;&#xA;  &lt;!-- Main image + link --&gt;&#xA;  &lt;a href=&#34;https://github.com/jimishol/cholidean-harmony-structure&#34;&gt;&#xA;    &lt;img src=&#34;https://jimishol.github.io/tonality/cholidean_structure.png&#34;&#xA;         alt=&#34;Cholidean harmony structure&#34;&#xA;         style=&#34;max-width:100%; height:auto; cursor:pointer; transition:0.2s; transform:scale(1);&#34;&#xA;         onmouseover=&#34;this.style.transform=&#39;scale(1.03)&#39;&#34;&#xA;         onmouseout=&#34;this.style.transform=&#39;scale(1)&#39;&#34;&gt;&#xA;  &lt;/a&gt;&#xA;  &lt;!-- Main link line --&gt;&#xA;  &lt;p style=&#34;margin-top:0.5rem; font-size:1.1rem;&#34;&gt;&#xA;    &lt;a href=&#34;https://github.com/jimishol/cholidean-harmony-structure&#34;&gt;&#xA;      Project: 3D Visualization of Tonal Harmony from MIDI Events&#xA;    &lt;/a&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;!-- Quick start links --&gt;&#xA;  &lt;p style=&#34;font-size:1.05rem; margin-top:1rem;&#34;&gt;&#xA;    &lt;strong&gt;Quick start examples&lt;/strong&gt;&lt;br&gt;&#xA;    &lt;a href=&#34;https://jimishol.github.io/tonality/cholidean-harmony-midiport.webm&#34;&gt;MIDIport ▶&lt;/a&gt; |&#xA;    &lt;a href=&#34;https://jimishol.github.io/tonality/cholidean-harmony-structure.webm&#34;&gt;FluidSynth ▶&lt;/a&gt; |&#xA;    &lt;a href=&#34;https://jimishol.github.io/tonality/cholidean-harmony-windows.webm&#34;&gt;Windows ▶&lt;/a&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;!-- GIF demo --&gt;&#xA;  &lt;figure style=&#34;margin-top:1.5rem;&#34;&gt;&#xA;    &lt;img src=&#34;https://jimishol.github.io/tonality/cholidean-harmony-musescore.gif&#34;&#xA;         alt=&#34;The Cholidean harmonic structure operates in parallel with MuseScore, unveiling the harmony within the composition.&#34;&#xA;         style=&#34;max-width:100%; height:auto;&#34;&gt;&#xA;    &lt;figcaption style=&#34;font-size:0.9rem; color:#555;&#34;&gt;&#xA;      The Cholidean harmonic structure operates in parallel with MuseScore, unveiling the harmony within the composition.&#xA;    &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;The systematic recording of thoughts on musical harmony led to the placement of the twelve musical tones on a constructible three-dimensional surface of an umbilic torus. To this visualized link of mathematics and music I gave the personal name&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Cholidean harmony structure&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autobiographical sonata</title>
-      <link>https://jimishol.github.io/post/young_and_confused/</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://jimishol.github.io/post/young_and_confused/</guid>
-      <description>&lt;p&gt;About three and a half decades ago, before the advent of computers, I played classical guitar. At some point I wanted to express myself and, after buying and studying a book of harmony, I composed a piece. Because of its unusual chords, however, I had difficulty keeping the tempo. Then came computers with DOS and probably with the first windows, I was introduced to midi. The piece, after several attempts and separating the voices into instruments, somehow managed to be heard. From then on, for more than thirty years, I was firmly convinced that I had composed something and that all that was needed was a real musician who, with minimal editing, would make it sound as it should. (What a wrong impression!)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meet the musical intervals and the Neo-Riemannian moves, through an analogue clock.</title>
-      <link>https://jimishol.github.io/post/music_intervals/</link>
-      <pubDate>Sat, 01 Jul 2023 23:16:09 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/music_intervals/</guid>
-      <description>&lt;p&gt;After &lt;a href=&#34;https://jimishol.github.io/post/circle_of_fifths/&#34;&gt;circle of fifths&lt;/a&gt; and &lt;a href=&#34;https://jimishol.github.io/post/diatonic/&#34;&gt;diatonics&lt;/a&gt;, continuing to read about &lt;a href=&#34;https://viva.pressbooks.pub/openmusictheory/chapter/intervals/&#34;&gt;fundamentals of music theory&lt;/a&gt;, I find that the music clock can help in easily identifying the intervals of common musical terminology.&#xA;&lt;figure&gt;&lt;img src=&#34;https://jimishol.github.io/images/music-clock-sun.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Our music clock&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;terminology&#34;&gt;Terminology&lt;/h3&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;https://en.wikipedia.org/wiki/Interval_%28music%29&#34;&gt;musical interval&lt;/a&gt;, as the difference between two pitches, can be defined in an absolute way as the number of semitones that separate them. But the total number of semitones of an octave is 12, while the notes of a scale are 7. The relation of tones in a melody is necessarily expressed as the relation between the 7 tones of the scale used. Thus, to define an interval, it is necessary to use two terms. The first noun term will indicate the relationship to the 7 tones of the scale and the second, as an adjective of the first, will specify the exact interval in number of semitones.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meet diatonic scales in music, through an analogue clock</title>
-      <link>https://jimishol.github.io/post/diatonic/</link>
-      <pubDate>Mon, 26 Jun 2023 21:48:06 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/diatonic/</guid>
-      <description>&lt;p&gt;The A minor scale is related to C major, in that they share the same, empty, key signature. These scales are two different sevenths of white keys on the piano. Because the notes are repeated in octaves, there could be five other different sets of white keys, that is with the same, blank, signature, defining different tonalities. I understood that, in the most, the two mentioned above were imposed, but I always wondered about the other, blank-signed, scales.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Circle of fifths in music, through an analog clock</title>
-      <link>https://jimishol.github.io/post/circle_of_fifths/</link>
-      <pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
-      <guid>https://jimishol.github.io/post/circle_of_fifths/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Simple Concept&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;To recognize a key:&lt;/strong&gt; Treat the clock as a chromatic scale where &lt;strong&gt;C is 00:00&lt;/strong&gt; and each hour is one semitone (C#=1, D=2, etc.). Every &lt;strong&gt;sharp (#)&lt;/strong&gt; in the signature adds &lt;strong&gt;7 hours&lt;/strong&gt; to the clock, and every &lt;strong&gt;flat (♭)&lt;/strong&gt; adds &lt;strong&gt;5 hours&lt;/strong&gt;. For example, 3 sharps = 3 * 7 = 21 hours; on a 12-hour clock, 21:00 is &lt;strong&gt;9:00 (A Major)&lt;/strong&gt;. To find the relative minor, look 3 hours earlier (6:00 is &lt;strong&gt;F# minor&lt;/strong&gt;).&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Music on jimishol&#39;s website</title>
+		<link>https://jimishol.github.io/tags/music/</link>
+		<description>Recent content in Music on jimishol&#39;s website</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 12 Apr 2024 00:21:00 +0300</lastBuildDate>
+		
+			<atom:link href="https://jimishol.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tonality structure in music</title>
+				<link>https://jimishol.github.io/post/tonality/</link>
+				<pubDate>Fri, 12 Apr 2024 00:21:00 +0300</pubDate>
+				<guid>https://jimishol.github.io/post/tonality/</guid>
+				<description>&lt;div style=&#34;text-align:center; margin: 2rem 0;&#34;&gt;&#xA;  &lt;!-- Main image + link --&gt;&#xA;  &lt;a href=&#34;https://github.com/jimishol/cholidean-harmony-structure&#34;&gt;&#xA;    &lt;img src=&#34;https://jimishol.github.io/tonality/cholidean_structure.png&#34;&#xA;         alt=&#34;Cholidean harmony structure&#34;&#xA;         style=&#34;max-width:100%; height:auto; cursor:pointer; transition:0.2s; transform:scale(1);&#34;&#xA;         onmouseover=&#34;this.style.transform=&#39;scale(1.03)&#39;&#34;&#xA;         onmouseout=&#34;this.style.transform=&#39;scale(1)&#39;&#34;&gt;&#xA;  &lt;/a&gt;&#xA;  &lt;!-- Main link line --&gt;&#xA;  &lt;p style=&#34;margin-top:0.5rem; font-size:1.1rem;&#34;&gt;&#xA;    &lt;a href=&#34;https://github.com/jimishol/cholidean-harmony-structure&#34;&gt;&#xA;      Project: 3D Visualization of Tonal Harmony from MIDI Events&#xA;    &lt;/a&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;!-- Quick start links --&gt;&#xA;  &lt;p style=&#34;font-size:1.05rem; margin-top:1rem;&#34;&gt;&#xA;    &lt;strong&gt;Quick start examples&lt;/strong&gt;&lt;br&gt;&#xA;    &lt;a href=&#34;https://jimishol.github.io/tonality/cholidean-harmony-midiport.webm&#34;&gt;MIDIport ▶&lt;/a&gt; |&#xA;    &lt;a href=&#34;https://jimishol.github.io/tonality/cholidean-harmony-structure.webm&#34;&gt;FluidSynth ▶&lt;/a&gt; |&#xA;    &lt;a href=&#34;https://jimishol.github.io/tonality/cholidean-harmony-windows.webm&#34;&gt;Windows ▶&lt;/a&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;!-- GIF demo --&gt;&#xA;  &lt;figure style=&#34;margin-top:1.5rem;&#34;&gt;&#xA;    &lt;img src=&#34;https://jimishol.github.io/tonality/cholidean-harmony-musescore.gif&#34;&#xA;         alt=&#34;The Cholidean harmonic structure operates in parallel with MuseScore, unveiling the harmony within the composition.&#34;&#xA;         style=&#34;max-width:100%; height:auto;&#34;&gt;&#xA;    &lt;figcaption style=&#34;font-size:0.9rem; color:#555;&#34;&gt;&#xA;      The Cholidean harmonic structure operates in parallel with MuseScore, unveiling the harmony within the composition.&#xA;    &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;The systematic recording of thoughts on musical harmony led to the placement of the twelve musical tones on a constructible three-dimensional surface of an umbilic torus. To this visualized link of mathematics and music I gave the personal name&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Cholidean harmony structure&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Autobiographical sonata</title>
+				<link>https://jimishol.github.io/post/young_and_confused/</link>
+				<pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+				<guid>https://jimishol.github.io/post/young_and_confused/</guid>
+				<description>&lt;p&gt;About three and a half decades ago, before the advent of computers, I played classical guitar. At some point I wanted to express myself and, after buying and studying a book of harmony, I composed a piece. Because of its unusual chords, however, I had difficulty keeping the tempo. Then came computers with DOS and probably with the first windows, I was introduced to midi. The piece, after several attempts and separating the voices into instruments, somehow managed to be heard. From then on, for more than thirty years, I was firmly convinced that I had composed something and that all that was needed was a real musician who, with minimal editing, would make it sound as it should. (What a wrong impression!)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Meet the musical intervals and the Neo-Riemannian moves, through an analogue clock.</title>
+				<link>https://jimishol.github.io/post/music_intervals/</link>
+				<pubDate>Sat, 01 Jul 2023 23:16:09 +0300</pubDate>
+				<guid>https://jimishol.github.io/post/music_intervals/</guid>
+				<description>&lt;p&gt;After &lt;a href=&#34;https://jimishol.github.io/post/circle_of_fifths/&#34;&gt;circle of fifths&lt;/a&gt; and &lt;a href=&#34;https://jimishol.github.io/post/diatonic/&#34;&gt;diatonics&lt;/a&gt;, continuing to read about &lt;a href=&#34;https://viva.pressbooks.pub/openmusictheory/chapter/intervals/&#34;&gt;fundamentals of music theory&lt;/a&gt;, I find that the music clock can help in easily identifying the intervals of common musical terminology.&#xA;&lt;figure&gt;&lt;img src=&#34;https://jimishol.github.io/images/music-clock-sun.jpg&#34;&gt;&lt;figcaption&gt;&#xA;&#x9;&#x9;&#x9;&lt;h4&gt;Our music clock&lt;/h4&gt;&#xA;&#x9;&#x9;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;h3 id=&#34;terminology&#34;&gt;Terminology&lt;/h3&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;https://en.wikipedia.org/wiki/Interval_%28music%29&#34;&gt;musical interval&lt;/a&gt;, as the difference between two pitches, can be defined in an absolute way as the number of semitones that separate them. But the total number of semitones of an octave is 12, while the notes of a scale are 7. The relation of tones in a melody is necessarily expressed as the relation between the 7 tones of the scale used. Thus, to define an interval, it is necessary to use two terms. The first noun term will indicate the relationship to the 7 tones of the scale and the second, as an adjective of the first, will specify the exact interval in number of semitones.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Meet diatonic scales in music, through an analogue clock</title>
+				<link>https://jimishol.github.io/post/diatonic/</link>
+				<pubDate>Mon, 26 Jun 2023 21:48:06 +0300</pubDate>
+				<guid>https://jimishol.github.io/post/diatonic/</guid>
+				<description>&lt;p&gt;The A minor scale is related to C major, in that they share the same, empty, key signature. These scales are two different sevenths of white keys on the piano. Because the notes are repeated in octaves, there could be five other different sets of white keys, that is with the same, blank, signature, defining different tonalities. I understood that, in the most, the two mentioned above were imposed, but I always wondered about the other, blank-signed, scales.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Circle of fifths in music, through an analog clock</title>
+				<link>https://jimishol.github.io/post/circle_of_fifths/</link>
+				<pubDate>Sun, 18 Jun 2023 16:09:06 +0300</pubDate>
+				<guid>https://jimishol.github.io/post/circle_of_fifths/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Simple Concept&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;To recognize a key:&lt;/strong&gt; Treat the clock as a chromatic scale where &lt;strong&gt;C is 00:00&lt;/strong&gt; and each hour is one semitone (C#=1, D=2, etc.). Every &lt;strong&gt;sharp (#)&lt;/strong&gt; in the signature adds &lt;strong&gt;7 hours&lt;/strong&gt; to the clock, and every &lt;strong&gt;flat (♭)&lt;/strong&gt; adds &lt;strong&gt;5 hours&lt;/strong&gt;. For example, 3 sharps = 3 * 7 = 21 hours; on a 12-hour clock, 21:00 is &lt;strong&gt;9:00 (A Major)&lt;/strong&gt;. To find the relative minor, look 3 hours earlier (6:00 is &lt;strong&gt;F# minor&lt;/strong&gt;).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
